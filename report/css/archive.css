@@ -1,0 +1,187 @@
+@charset "Shift_JIS";
+
+
+/* sp ã§í css */
+/*/////////////////////////////////////////////////*/
+body{
+	position:                  relative;
+	top:                       0px;
+	color:                     #333333;
+}
+
+div#head{
+	position:                  relative;
+	width:                     100%;
+	margin-bottom:             0px;
+}
+
+div#head div.inner{
+	position:                  relative;
+	margin:                    20px auto;
+	width:                     900px;
+	height:                    80px;
+}
+
+div#head div.inner div#title{
+	position:                  absolute;
+	left:                      0px;
+	top:                       20px;
+}
+
+div#head div.inner a.home{
+	position:                  absolute;
+	top:                       0px;
+	right:                     0px;
+	background:                url("../img/common/logo.jpg") right top no-repeat;
+	text-indent:               -9999px;
+	display:                   block;
+	width:                     103px;
+	height:                    41px;
+}
+
+div#contents{
+	position:                  relative;
+	width:                     100%;
+}
+
+div#contents div.inner{
+	position:                  relative;
+	margin:                    0px auto;
+	width:                     900px;
+}
+
+div#footer{
+	position:                  relative;
+	width:                     100%;
+	height:                    60px;
+}
+
+div#footer div.inner{
+	position:                  relative;
+	margin:                    0px auto;
+	width:                     900px;
+	padding-top:               15px;
+}
+
+div#footer div.inner p{
+	float:                     left;	
+}
+
+div#footer div.inner a.logo{
+	position:                  absolute;
+	right:                     0px;
+	background:                url("../img/common/footer_text.gif") right top no-repeat;
+	text-indent:               -9999px;
+	display:                   block;
+	width:                     405px;
+	height:                    14px;
+}
+
+
+/* INDEXpage css */
+/*/////////////////////////////////////////////////*/
+div#contents div#report_top{
+	position:                 relative;
+	overflow:                 hidden;
+	width:                    900px;
+}
+
+div#contents div#report_top h2{ margin-bottom: 10px;}
+
+div#contents div#report_top ul {
+	width:                    9999px;
+	position:                 relative;
+}
+
+div#contents div#report_top li {
+	width:                    900px;
+	background:               url("../img/common/border_dot.gif") left bottom repeat-x;
+	height:                   55px;
+	line-height:              55px;
+	font-size:                16px;
+}
+
+div#contents div#report_top li span {
+	width:                    60px;
+	height:                   14px;
+	background:               url("../img/common/tag_icon.gif") left top no-repeat;
+	text-indent:              -9999px;
+	display:                  block;
+	margin-right:             8px;
+	float:                    left;
+	top:                      20px;
+	overflow:                 hidden;
+	position:                 relative;
+}
+
+div#contents div#report_top li span.ready  { background-position: 0px -14px;}
+div#contents div#report_top li span.sink   { background-position: 0px -28px;}
+
+div#contents div#report_top div.top_link{
+	position:                 relative;
+	height:                   135px;
+	width:                    900px;
+	
+}
+
+div#contents div#report_top div.top_link a{
+	position:                 absolute;
+	display:                  block;
+	bottom:                   15px;
+	right:                    0px;
+	width:                    165px;
+	height:                   24px;
+	background:               url("../img/common/top_link.gif") right top no-repeat;
+	text-indent:              -9999px;
+}
+
+div#contents div#report_top div.top_link a:hover{background-position: 0px -24px;}
+
+
+
+/** repport
+/**************************************/
+div#report_next {
+	background:               none;
+	margin:                   15px 0 10px 0;
+	padding:                  5px 0 0 0;
+	background:               url("../img/common/border_dot.gif") left bottom repeat-x;
+}
+
+div#report_next div.box {
+	height:          170px;
+}
+
+
+
+/* ClearFix */
+/*/////////////////////////////////////////////////*/
+
+div#footer div.inner:after,
+div#contents div#report_top li:after{
+	content:          " ";
+	height:           0px;
+	clear:            both;
+	visibility:       hidden;
+	display:          block;
+}
+
+
+div#footer div.inner,
+div#contents div#report_top li{
+	display:          inline-block;
+}
+
+/*Å_*/
+
+* html div#footer div.inner,
+* html div#contents div#report_top li{
+	height:           1%;
+}
+
+
+div#footer div.inner,
+div#contents div#report_top li{
+	display:          block;
+}
+/*Å_*/

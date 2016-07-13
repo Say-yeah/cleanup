@@ -1,0 +1,325 @@
+@charset "Shift_JIS";
+
+
+/* sp ã§í css */
+/*/////////////////////////////////////////////////*/
+body{
+	position:                  relative;
+	top:                       0px;
+}
+
+div#head{
+	position:                  relative;
+	width:                     100%;
+	margin-bottom:             30px;
+}
+
+div#head div.inner{
+	position:                  relative;
+	margin:                    20px auto;
+	width:                     900px;
+	height:                    140px;
+}
+
+div#head div.inner div#title{
+	position:                  absolute;
+	left:                      0px;
+	top:                       20px;
+}
+
+div#head div.inner a{
+	position:                  absolute;
+	top:                       0px;
+	right:                     0px;
+	background:                url("../img/common/logo.jpg") right top no-repeat;
+	text-indent:               -9999px;
+	display:                   block;
+	width:                     103px;
+	height:                    41px;
+}
+
+div#contents{
+	position:                  relative;
+	width:                     100%;
+}
+
+div#contents div.inner{
+	position:                  relative;
+	margin:                    0px auto;
+	width:                     900px;
+}
+
+div#footer{
+	position:                  relative;
+	width:                     100%;
+	height:                    60px;
+}
+
+div#footer div.inner{
+	background:                url("../img/common/border_line.gif") left top repeat-x;
+	position:                  relative;
+	margin:                    0px auto;
+	width:                     900px;
+	padding-top:               15px;
+}
+
+div#footer div.inner p{
+	float:                     left;	
+}
+
+div#footer div.inner a.logo{
+	position:                  absolute;
+	right:                     0px;
+	background:                url("../img/common/footer_text.gif") right top no-repeat;
+	text-indent:               -9999px;
+	display:                   block;
+	width:                     405px;
+	height:                    14px;
+
+}
+
+
+/* INDEXpage css */
+/*/////////////////////////////////////////////////*/
+div#contents div#report_top {
+	position:                 relative;
+	margin-bottom:            35px;
+	overflow:                 hidden;
+	width:                    900px;
+	height:                   470px;
+}
+
+div#contents div#report_top ul {
+	position:                 relative;
+	width:                    900px;
+	height:                   470px;
+	z-index:                  99;
+}
+
+div#contents div#report_top ul li {
+	position:                 absolute;
+	top:                      0px;
+	left:                     0px;
+	width:                    900px;
+	height:                   470px;
+}
+
+div#contents div#report_top ul li div {
+	width:                    900px;
+	height:                   470px;
+	float:                    left;
+}
+
+div#contents div#report_top ul li div a {
+	background:               transparent left top no-repeat;
+	display:                  block;
+	text-indent:              -9999px;
+	width:                    900px;
+	height:                   470px;
+}
+
+/* vol1 */
+div#contents div#report_top ul li.vol_1 div a             { background-image: url("../img/top/top_report_1.jpg"); }
+div#contents div#report_top ul li.vol_1 div a:hover       { background-position: 0px -470px; }
+
+/* vol2 */
+div#contents div#report_top ul li.vol_2 div a             { background-image: url("../img/top/top_report_11.jpg"); }
+div#contents div#report_top ul li.vol_2 div a:hover       { background-position: 0px -470px; }
+
+/* vol2 */
+div#contents div#report_top ul li.vol_3 div a             { background-image: url("../img/top/top_report_10.jpg"); }
+div#contents div#report_top ul li.vol_3 div a:hover       { background-position: 0px -470px; }
+
+/* vol3 */
+div#contents div#report_top ul li.vol_4 div               { width: 300px; }
+div#contents div#report_top ul li.vol_4 div a             { width: 300px; }
+
+div#contents div#report_top ul li.vol_4 div.left a         { background-image: url("../img/top/top_report_3_center.jpg"); }
+div#contents div#report_top ul li.vol_4 div.left a:hover   { background-position: 0px -470px; }
+div#contents div#report_top ul li.vol_4 div.left a.off     { background-position: 0px -940px; }
+div#contents div#report_top ul li.vol_4 div.center a       { background-image: url("../img/top/top_report_3_right.jpg"); }
+div#contents div#report_top ul li.vol_4 div.center a:hover { background-position: 0px -470px; }
+div#contents div#report_top ul li.vol_4 div.center a.off   { background-position: 0px -940px; }
+div#contents div#report_top ul li.vol_4 div.right a        { background-image: url("../img/top/top_report_3_left.jpg"); }
+div#contents div#report_top ul li.vol_4 div.right a:hover  { background-position: 0px -470px; }
+div#contents div#report_top ul li.vol_4 div.right a.off    { background-position: 0px -940px; }
+
+div#contents div#report_top div.ctrl {
+	width:           120px;
+	height:          34px;
+	position:        absolute;
+	bottom:          11px;
+	right:           15px;
+	z-index:         100;
+}
+
+div#contents div#report_top div.ctrl div.repo_1{
+	float:           left;
+	position:        relative;
+	top:             0px;
+	left:            0px;
+}
+
+div#contents div#report_top div.ctrl div.repo_2{
+	float:           left;
+	position:        relative;
+	top:             0px;
+	left:            43px;
+}
+
+div#contents div#report_top div.ctrl div.repo_3{
+	float:           left;
+	position:        relative;
+	top:             0px;
+	left:            86px;
+}
+
+/*div#contents div#report_top div.ctrl div.repo_3{
+	float:           left;
+	position:        relative;
+	top:             0px;
+	left:           129px;
+}*/
+
+div#contents div#report_top div.ctrl div a{
+	background:      transparent left top no-repeat;
+	display:         block;
+	text-indent:     -9999px;
+	width:           34px;
+	height:          34px;
+	position:        absolute;
+	top:             0px;
+	left:            0px;
+}
+
+div#contents div#report_top div.ctrl div span{
+	background:      transparent left top no-repeat;
+	display:         block;
+	text-indent:     -9999px;
+	width:           34px;
+	height:          34px;
+	position:        absolute;
+	top:             0px;
+	left:            0px;
+	cursor:          pointer;
+}
+
+div#contents div#report_top div.ctrl div.repo_1 a{background-image: url("../img/top/top_report_sum.jpg"); }
+div#contents div#report_top div.ctrl div.repo_2 a{background-image: url("../img/top/top_report_sum_11.jpg"); }
+div#contents div#report_top div.ctrl div.repo_3 a{background-image: url("../img/top/top_report_sum_10.jpg"); }
+div#contents div#report_top div.ctrl div.repo_1 span{background-image: url("../img/top/top_report_sum_mask.jpg"); }
+div#contents div#report_top div.ctrl div.repo_2 span{background-image: url("../img/top/top_report_sum_11_mask.jpg"); }
+div#contents div#report_top div.ctrl div.repo_3 span{background-image: url("../img/top/top_report_sum_10_mask.jpg"); }
+
+
+div#contents div.report_menu{
+	position:                 relative;
+	width:                    758px;
+	height:                   550px;
+	float:                    left;
+}
+
+div#contents div.report_menu div.report_link {
+	
+}
+
+div#contents div.report_menu div.report_link a {
+	width:                    720px;
+	height:                   76px;
+	text-indent:              -9999px;
+	display:                  block;
+	margin-bottom:            20px;
+	background:               transparent right top no-repeat;
+}
+
+div#contents div.report_menu div.report_link a.report_11        { background-image:    url("../img/top/middle_repo_11.jpg");}
+div#contents div.report_menu div.report_link a.report_10        { background-image:    url("../img/top/middle_repo_10.jpg");}
+div#contents div.report_menu div.report_link a.report_9         { background-image:    url("../img/top/middle_repo_9.jpg");}
+div#contents div.report_menu div.report_link a.report_8         { background-image:    url("../img/top/middle_repo_8.jpg");}
+div#contents div.report_menu div.report_link a.report_7         { background-image:    url("../img/top/middle_repo_7.jpg");}
+div#contents div.report_menu div.report_link a.report_6         { background-image:    url("../img/top/middle_repo_6.jpg");}
+div#contents div.report_menu div.report_link a.report_5         { background-image:    url("../img/top/middle_repo_5.jpg");}
+div#contents div.report_menu div.report_link a.report_4         { background-image:    url("../img/top/middle_repo_4.jpg");}
+div#contents div.report_menu div.report_link a.report_3         { background-image:    url("../img/top/middle_repo_3.jpg");}
+div#contents div.report_menu div.report_link a.report_2         { background-image:    url("../img/top/middle_repo_2.jpg");}
+div#contents div.report_menu div.report_link a.report_1         { background-image:    url("../img/top/middle_repo_1.jpg");}
+div#contents div.report_menu div.report_link a:hover            { background-position: 0px -76px;}
+
+
+
+div#contents div.sns_link{
+	position:                absolute;
+	left:                    0px;
+	bottom:                  0px;
+	width:                   758px;
+	height:                  40px;
+	border-top:              1px solid #C0C0C0;
+}
+
+div#contents div.sns_link div.twitter         {	float:    left; margin-top: 10px; margin-bottom: 10px; width: 110px; height: 20px; z-index: 100;}
+div#contents div.sns_link div.facebook        {	float:    left; margin-top: 10px; margin-bottom: 10px; width: 100px; height: 20px; margin-right: 0px;}
+
+div#contents div.sns_link div.more_link a{
+	position:               absolute;
+	right:                  15px;
+	top:                    8px;
+	bottom:                 8px;
+	display:                block;
+	width:                  160px;
+	height:                 24px;
+	background:             url("../img/common/more.jpg") right top no-repeat;
+	text-indent:            -9999px;
+}
+
+div#contents div.sns_link div.more_link a:hover {  background-position:  0px -24px;}
+
+div#contents div.side_menu{
+	width:                  140px;
+	height:                 460px;
+	float:                  left;
+	border-left:            1px solid #C0C0C0;
+}
+
+div#contents div.side_menu li{
+	height:                 120px;
+	width:                  120px;
+	margin:                 0px 0px 10px 20px;
+}
+
+
+
+/* ClearFix */
+/*/////////////////////////////////////////////////*/
+div#contents div.sns_link:after,
+div#top_report ul li:after,
+div#contents div#menu:after,
+div#footer div.inner:after{
+	content:          " ";
+	height:           0px;
+	clear:            both;
+	visibility:       hidden;
+	display:          block;
+}
+
+div#contents div.sns_link,
+div#top_report ul li,
+div#contents div#menu,
+div#footer div.inner{
+	display:          inline-block;
+}
+
+/*Å_*/
+* html div#contents div.sns_link,
+* html div#top_report ul li,
+* html div#contents div#menu,
+* html div#footer div.inner{
+	height:           1%;
+}
+
+div#contents div.sns_link,
+div#top_report ul li,
+div#contents div#menu,
+div#footer div.inner{
+	display:          block;
+}
+/*Å_*/

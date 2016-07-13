@@ -1,0 +1,595 @@
+@charset "Shift_JIS";
+
+
+/* sp ã§í css */
+/*/////////////////////////////////////////////////*/
+body{
+	top:                       0px;
+}
+
+div#head{
+	position:                  relative;
+	width:                     100%;
+	margin-bottom:             0px;
+}
+
+div#head div.inner{
+	position:                  relative;
+	margin:                    20px auto;
+	width:                     900px;
+	height:                    80px;
+}
+
+
+div#head div.inner div#title{
+	position:                  absolute;
+	left:                      0px;
+	top:                       20px;
+}
+
+div#head div.inner a.home{
+	position:                  absolute;
+	top:                       0px;
+	right:                     0px;
+	background:                url("../img/common/logo.jpg") right top no-repeat;
+	text-indent:               -9999px;
+	display:                   block;
+	width:                     103px;
+	height:                    41px;
+}
+
+div#contents {
+	position:                  relative;
+	width:                     100%;
+}
+
+div#contents.vol11 div.cate_text p,
+div#contents.vol11 div.message p {
+	font-size:       14px !important;
+}
+
+div#contents div.inner{
+	position:                  relative;
+	margin:                    0px auto;
+	width:                     900px;
+}
+
+div#footer{
+	position:                  relative;
+	width:                     100%;
+	margin-bottom:             30px;
+}
+
+div#footer div.inner{
+	position:                  relative;
+	margin:                    0px auto;
+	width:                     900px;
+	border-top:                1px solid #C0C0C0;
+	border-top-style:          dotted;
+	padding-top:               15px;
+}
+
+div#footer div.inner p{
+	float:                     left;	
+}
+
+div#footer div.inner a.logo{
+	float:                     left;
+	position:                  absolute;
+	right:                     0px;
+	background:                url("../img/common/footer_text.gif") right top no-repeat;
+	text-indent:               -9999px;
+	display:                   block;
+	width:                     405px;
+	height:                    14px;
+
+}
+
+
+/* INDEXpage css */
+/*/////////////////////////////////////////////////*/
+div.float_end div{
+	float:                    left;
+}
+
+div#report_top{
+	position:                 relative;
+	margin-bottom:            35px;
+	width:                    900px;
+}
+
+div#report_top div.profile{
+	margin-top:               20px;
+	position:                 relative;
+}
+
+div#report_top div.profile div.sum{
+	margin-right:             15px;
+}
+div#report_top div.profile div.message{
+	margin-top:               10px;
+	position:                 relative;
+	width:                    655px;
+}
+div#report_top div.profile div.sns_link{
+	margin:                   15px 0 15px 0;
+	background:               url("../img/common/border_dot.gif") right top repeat-x;
+	width:                    655px;
+	position:                 relative;
+}
+
+div#report_top div.profile div.sns_link div.report_name {
+	padding-top:              15px;
+	margin-left:              3px;
+	width:                    200px;
+}
+
+div#report_top div.profile div.sns_link div.facebook{
+	margin:                   15px 0 0 5px;
+	position:                 absolute;
+	right:                    130px;
+}
+
+div#report_top div.profile div.sns_link div.twitter{
+	margin:                   15px 0 0 0;
+	width:                    100px;
+	position:                 absolute;
+	right:                    0px;
+}
+
+div#report_top div.profile div.message p {
+	font-size:                12px;
+	line-height:              25px;
+}
+
+div#report_top div.profile div.message p span {
+	padding:         5px 10px;
+	display:         block;
+	width:           570px;
+	margin:          10px 0 0;
+	background:      #f4f4f4;
+	line-height:     1.8;
+	-webkit-border-radius: 5px;
+	-moz-border-radius:    5px;
+	border-radius:         5px;
+}
+
+div#report_top div.profile div.message div.btn {
+	position:                 relative;
+	width:                    655px;
+	height:                   60px;
+}
+div#report_top div.profile div.message div.btn a {
+	position:                 absolute;
+	bottom:                   0px;
+	left:                     0px;
+	text-indent:              -9999px;
+	display:                  block;
+	width:                    290px;
+	height:                   24px;
+}
+
+div#report_top div.profile div.message div.prev_link a{
+	background:               url("../img/report/prev_link.gif") no-repeat;
+}
+
+div#report_top div.profile div.message div.ss_link a{
+	background:               url("../img/report/ss_link.gif") no-repeat;
+}
+
+div#report_top div.profile div.message div.sp_link a{
+	background:               url("../img/report/report_10/spsite_link.gif") no-repeat;
+}
+
+div#report_top div.profile div.message div.btn_line2 {
+	overflow:        hidden;
+}
+
+div#report_top div.profile div.message div.btn_line2 > div {
+	float:           left;
+	width:           290px;
+}
+
+div#report_top div.profile div.message div.btn_line2 > div:first-child {
+	margin:          0 20px 0 0;
+}
+
+div#report_top div.profile div.message div.btn a:hover { background-position: 0px -24px;}
+
+div#report_top div.movie_bg_out{
+	position:                 relative;
+	margin-top:               30px;
+	margin-bottom:            5px;
+	width:                    900px;
+	height:                   250px;
+	background:               url("../img/report/movie_bg_out.gif") left top repeat;
+}
+
+div#report_top div.movie_bg_in{
+	position:                 absolute;
+	top:                      10px;
+	left:                     10px;
+	width:                    880px;
+	height:                   230px;
+	background:               url("../img/report/movie_bg_in.gif") left top repeat;
+}
+
+div#report_top div.movie_bg_in div.movie_profile_img a{
+	position: absolute;
+	width:                    307px;
+	height:                   212px;
+	top:                      9px;
+	left:                     9px;
+	margin-right:             20px;
+	background:               url("../img/report/report_1/movie_report.jpg") right top no-repeat;
+	text-indent:              -9999px;
+	display:                  block;
+}
+
+div#report_top div.movie_bg_in div.movie_profile_img:hover a{background-position: 0px -212px;}
+
+
+div#report_top div.movie_bg_in div.movie_profile_text{
+	position:                 absolute;
+	top:                      9px;
+	left:                     336px;
+	width:                    525px;
+	margin-right:             15px;
+}
+div#report_top div.movie_bg_in div.movie_profile_text span{
+	background:               url("../img/report/report_1/movie_text.png") right top no-repeat;
+	text-indent:              -9999px;
+	display:                  block;
+	width:                    460px;
+	height:                   60px;
+	
+}
+
+* html div#report_top div.movie_bg_in div.movie_profile_text span {
+	background:               none;
+	filter:                   progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./img/report/report_1/movie_text.png', sizingMethod='scale');
+}
+
+div#report_top div.movie_bg_in div.movie_profile_text p{
+	margin-top:               20px;
+	color:                    #FFFFFF;
+	line-height:              22px;
+}
+
+div#category {
+	position:                 relative;
+	width:                    900px;
+}
+div#category div.cate {
+	padding:                  20px 0;
+	position:                 relative;
+	width:                    900px;
+}
+
+div#category div.cate_line {
+	background:               url("../img/common/border_dot.gif") left bottom repeat-x;	
+}
+
+div#category div.cate_img           {	width: 500px;}
+div#category div.cate_text          {	width: 385px; margin-left: 12px;}
+
+div#category div.cate_img p.cap {
+	font-size:       12px;
+	margin-top:      10px;
+	text-align:      center;
+}
+
+div#category div.cate_img p.link {
+	margin-top:      20px;
+}
+
+div#category div.cate_img p.cap.posr {
+	padding:         0 0 0 260px;
+}
+
+div#category div.cate_text h3 {
+	font-weight:              bold;
+	font-size:                20px;
+	line-height:              26px;
+	margin-bottom:            15px;
+	color:                    #5f5f5f;
+}
+
+div#category div.cate_text h3.size18 {
+	font-size:                18px;
+}
+
+div#category div.cate_text h3 span.sub {
+	font-size:                12px;
+	font-weight:              bold;
+	line-height:              17px;
+}
+
+div#category div.cate_text p{
+	font-size:                12px;
+	line-height:              22px;
+}
+
+div#category div.cate_text p a {
+	text-decoration: underline;
+}
+
+div#category div.cate_text p a:hover {
+	text-decoration: none;
+}
+
+div#category div.profile{
+	border:                   1px solid #C0C0C0;
+	height:                   135px;
+	width:                    900px;
+	margin:                   0 0 30px 0;
+}
+
+div#category div.profile div.profile_img{
+	margin:                   13px 10px 13px 13px;
+	width:                    84px;
+	height:                   107px;
+}
+
+div#category div.profile div.profile_text{
+	margin:                   13px 13px 13px 0px;
+	width:                    760px;
+	height:                   107px;
+}
+
+div#category div.profile div.profile_text p{
+	line-height:              22px;
+	margin-top:               6px;
+}
+
+
+div#report_next {
+	background:               url("../img/common/border_line.gif") left top repeat-x;
+	margin:                   15px 0 10px 0;
+	padding:                  5px 0 0 0;
+}
+
+div#report_next div.report_box {
+	overflow:                 hidden;
+	margin:                   5px 0 0 0;
+}
+
+div#report_next a {
+	text-indent:              -9999px;
+	display:                  block;
+	width:                    286px;
+	height:                   66px;
+	margin-bottom:            10px;
+}
+
+div#report_next div.box {
+	width:                    307px;
+	float:                    left;
+}
+
+div#report_next div.end {
+	width:                    286px;
+	float:                    left;
+}
+
+div#report_next div.vol_1 a  { background : url("../img/report/next_report_1.jpg") right top no-repeat; }
+div#report_next div.vol_2 a  { background : url("../img/report/next_report_2.jpg") right top no-repeat; }
+div#report_next div.vol_3 a  { background : url("../img/report/next_report_3.jpg") right top no-repeat; }
+div#report_next div.vol_4 a  { background : url("../img/report/next_report_4.jpg") right top no-repeat; }
+div#report_next div.vol_5 a  { background : url("../img/report/next_report_5.jpg") right top no-repeat; }
+div#report_next div.vol_6 a  { background : url("../img/report/next_report_6.jpg") right top no-repeat; }
+div#report_next div.vol_7 a  { background : url("../img/report/next_report_7.jpg") right top no-repeat; }
+div#report_next div.vol_8 a  { background : url("../img/report/next_report_8.jpg") right top no-repeat; }
+div#report_next div.vol_9 a  { background : url("../img/report/next_report_9.jpg") right top no-repeat; }
+div#report_next div.vol_10 a { background : url("../img/report/next_report_10.jpg") right top no-repeat; }
+div#report_next div.vol_11 a { background : url("../img/report/next_report_11.jpg") right top no-repeat; }
+div#report_next div.end a:hover,
+div#report_next div.box a:hover { background-position : 0px -66px; }
+
+div#report_next div.report_box p {
+	margin-top:      6px;
+	line-height:     20px;
+}
+
+div#report_next div.attention {
+	text-align:               right;
+	width:           100%;
+	margin:          0 0 5px 0;
+	font-size:       10px;
+}
+
+div#report_next div.btn_page {
+	overflow:        hidden;
+	width:           100%;
+	margin:          30px 0 0 0;
+}
+
+div#report_next div.more_link {
+	float:           right;
+}
+
+div#report_next div.more_link a {
+	background:      url("../img/common/more.jpg") right top no-repeat;
+	text-indent:     -9999px;
+	display:         block;
+	width:           160px;
+	height:          24px;
+	margin:          0 10px 0 0;
+}
+
+div#report_next div.more_link a:hover { background-position: 0px -24px;}
+
+div#report_next div.top_link{
+	width:           165px;
+	float:           right;
+}
+
+div#report_next div.top_link a {
+	display:         block;
+	width:           165px;
+	height:          24px;
+	background:      url("../img/common/top_link.gif") right top no-repeat;
+	text-indent:     -9999px;
+}
+
+div#report_next div.top_link a:hover { background-position: 0px -24px;}
+
+div#flash {
+	display:         none;
+	width:           640px;
+	height:          400px;
+}
+
+div#flash_in {
+	width:           640px;
+	height:          400px;
+}
+
+
+
+/** gallery
+/**************************************/
+div.gallery {
+	background:      url("../img/common/border_dot.gif") left top repeat-x;
+	padding:         20px 0 0;
+}
+
+div.gallery p {
+	font-size:       22px;
+	font-weight:     bold;
+	margin:          10px 0 0;
+	color:           #5f5f5f;
+}
+
+div.gallery p span {
+	font-size:       14px;
+	font-weight:     normal;
+}
+
+div.gallery ul {
+	overflow:        hidden;
+	padding:         15px 0 0 0;
+}
+
+div.gallery ul li {
+	float:           left;
+	margin:          0 21px 21px 0;
+}
+
+div.gallery ul li:nth-of-type(3n) {
+	margin-right:    0;
+}
+
+
+
+/** column
+/**************************************/
+div#column {
+	border:          4px solid #505050;
+	margin:          30px 0 20px;
+	position:        relative;
+	-webkit-border-radius: 2px;
+	   -moz-border-radius: 2px;
+	        border-radius: 2px;
+}
+
+div#column > div.base {
+	padding:         20px 30px 30px 30px;
+	overflow:        hidden;
+}
+
+div#column img {
+	display:         block;
+}
+
+div#column ul.pic {
+	float:           left;
+	margin:          20px 0 0;
+}
+
+div#column div.tx {
+	float:           right;
+	width:           575px;
+}
+
+div#column div.tx > img {
+	margin:          0 0 5px;
+}
+
+div#column div.tx > div {
+	margin:          20px 0 0;
+}
+
+div#column div.tx > div:after{
+	content:          " ";
+	height:           0px;
+	clear:            both;
+	visibility:       hidden;
+	display:          block;
+}
+
+div#column div.tx > div p.fl {
+	float:           left;
+	width:           370px;
+}
+
+div#column div.tx > div img.fr {
+	float:           right;
+	margin:          -15px 0 0;
+}
+
+div#column div.tx p {
+	line-height:     2;
+}
+
+div#column h3 {
+	font-weight:              bold;
+	font-size:                20px;
+	line-height:              26px;
+	margin-bottom:            15px;
+	color:                    #5f5f5f;
+}
+
+div.bnr_movie {
+	text-align:      right;
+	margin-bottom:   50px;
+}
+
+
+
+/** link
+/**************************************/
+p.link {
+	text-align:      right;
+	margin-bottom:   30px;
+}
+
+p.link a {
+	text-decoration: underline;
+}
+
+
+
+/* ClearFix */
+/*/////////////////////////////////////////////////*/
+div.float_end:after{
+	content:          " ";
+	height:           0px;
+	clear:            both;
+	visibility:       hidden;
+	display:          block;
+}
+
+div.float_end{
+	display:          inline-block;
+}
+
+/*Å_*/
+* html  div.float_end{
+	height:           1%;
+}
+
+div.float_end{
+	display:          block;
+}
+/*Å_*/

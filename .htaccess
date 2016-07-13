@@ -1,0 +1,3 @@
+# FBクローラーを許可する
+SetEnvIf User-Agent &quot;^facebookexternalhit.*$&quot; fb_crawler
+Allow from env=fb_crawler
