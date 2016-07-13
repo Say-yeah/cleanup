@@ -70,7 +70,7 @@ div#footer div.inner{
 }
 
 div#footer div.inner p{
-	float:                     left;	
+	float:                     left;
 }
 
 div#footer div.inner a.logo{
@@ -242,7 +242,7 @@ div#report_top div.movie_bg_in div.movie_profile_text span{
 	display:                  block;
 	width:                    460px;
 	height:                   60px;
-	
+
 }
 
 * html div#report_top div.movie_bg_in div.movie_profile_text span {
@@ -267,7 +267,7 @@ div#category div.cate {
 }
 
 div#category div.cate_line {
-	background:               url("../img/common/border_dot.gif") left bottom repeat-x;	
+	background:               url("../img/common/border_dot.gif") left bottom repeat-x;
 }
 
 div#category div.cate_img           {	width: 500px;}
@@ -383,6 +383,7 @@ div#report_next div.vol_8 a  { background : url("../img/report/next_report_8.jpg
 div#report_next div.vol_9 a  { background : url("../img/report/next_report_9.jpg") right top no-repeat; }
 div#report_next div.vol_10 a { background : url("../img/report/next_report_10.jpg") right top no-repeat; }
 div#report_next div.vol_11 a { background : url("../img/report/next_report_11.jpg") right top no-repeat; }
+div#report_next div.vol_12 a { background : url("../img/report/next_report_12.jpg") right top no-repeat; }
 div#report_next div.end a:hover,
 div#report_next div.box a:hover { background-position : 0px -66px; }
 
