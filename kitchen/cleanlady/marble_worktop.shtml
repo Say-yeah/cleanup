@@ -1,0 +1,363 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│アクリストンワークトップ｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="marble_worktop">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　アクリストンワークトップ</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/marble_worktop/title.png" width="700" height="34" alt="アクリストンワークトップ" /></h3>
+		<div class="tx">
+			<p>
+				美しさと丈夫さを備えた理想のワークトップを演出する、人工大理石アクリストン。<br />
+				柄入りのプレミアムデザインも3柄揃いました。<br />
+				3シリーズ6色という多彩なバリエーションからお選びいただけます。
+			</p>
+		</div>
+		<div class="pic"><img src="images/marble_worktop/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- accordion -->
+	<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+	<div class="accordion">
+		
+		<div>
+			<h4 class="hd_rd01 bb_gr01 pb5 tx16">ソリッド</h4>
+			<p class="mt10 tx14">ぬくもりのあるやさしい印象のホワイト。キッチンスペースを美しく彩ります。</p>
+			<div class="posr mt15">
+				<img src="images/marble_worktop/solide_pic.jpg" width="700" height="200" alt="" />
+				<p class="posa tx_lh10" style="left:208px; top:62px;">ナチュラル<br />ホワイト（N）</p>
+				<div class="posa" style="left:340px; top:127px;">
+					<p class="tx_lh10 tx14">フラワーホワイト（H）<br /><span class="tx12">（ベースカラー：ナチュラルホワイト限定）</span></p>
+					<p class="mt5">やさしい印象のフラワー柄が<br />カウンターいっぱいに広がります。</p>
+				</div>
+			</div>
+		</div>
+		
+		<div>
+			<h4 class="hd_rd01 bb_gr01 pb5 tx16">ミスト</h4>
+			<p class="mt10 tx14">砂目模様や素焼き調などインテリアにナチュラルにとけ込む3色を揃えました。</p>
+			<div class="posr mt15">
+				<img src="images/marble_worktop/mist_pic.jpg" width="700" height="400" alt="" />
+				<p class="posa" style="left:208px; top:55px;">ミストホワイト（D）</p>
+				<p class="posa tx_lh10" style="left:208px; top:137px;">ファリーナ<br />ベージュ（I）</p>
+				<p class="posa" style="left:208px; top:235px;">ラセットモカ（K）</p>
+				<div class="posa" style="left:340px; top:142px; width:160px;">
+					<p class="tx_lh12 tx14">ミュールホワイト（R）<br /><span class="tx12">（ベースカラー：<br />ミストホワイト限定）</span></p>
+					<p class="mt10">木イチゴをモチーフにしたミュール柄がシンクまわりを華やかに彩ります。</p>
+				</div>
+				<div class="posa" style="left:523px; top:142px; width:160px;">
+					<p class="tx_lh12 tx14">リーフホワイト（T）<br /><span class="tx12">（ベースカラー：<br />ミストホワイト限定）</span></p>
+					<p class="mt10">大きなリーフ柄をポイントにした爽やかで落ち着いたデザインです。</p>
+				</div>
+				<p class="ast w360 posa" style="right:0; bottom:0;">※ミュールホワイト（R）とリーフホワイト（T）は、ワークトップ間口やシンクの種類によって選択できないものもございます。</p>
+			</div>
+		</div>
+		
+		<div class="mt30">
+			<h4 class="hd_rd01 bb_gr01 pb5 tx16">フロスティ</h4>
+			<p class="mt10 tx14">結氷をモチーフにした、やわらかなイメージの柄。扉カラーに合わせて選べる2色を揃えました。</p>
+			<div class="cl mt15">
+				<div class="fl mr15"><img src="images/marble_worktop/flosti_pic01.jpg" width="197" height="148" alt="" /></div>
+				<div class="fl">
+					<div><img src="images/marble_worktop/flosti_pic02.png" width="94" height="55" alt="" /></div>
+					<p class="mt5">フロスティホワイト（Z）</p>
+					<div class="mt10"><img src="images/marble_worktop/flosti_pic03.png" width="94" height="55" alt="" /></div>
+					<p class="mt5">フロスティベージュ（V）</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="b_gr01 pt20 pb20 mt50">
+			<div class="cl wrap660">
+				<div class="fl w520">
+					<h5 class="tx_rd01 tx16">人工大理石成型技術<br /><span class="tx11">（Free Combination molding：FC製法）</span></h5>
+					<p class="mt10">クリナップが誇る樹脂成形技術。その研究の成果が新たな人工大理石成形技術（Free Combination molding：FC製法）を生みました。これまでの人工大理石ワークトップではできなかった、象嵌（ぞうがん）にも似た繊細で大胆なデザインを実現しました。（特許登録済）その美しさはもちろん、使い方、強さも従来品と変わらない性能です。</p>
+				</div>
+				<div class="fr"><img src="images/marble_worktop/flosti_pic04.png" width="118" height="117" alt="" /></div>
+			</div>
+		</div>
+		
+		<div class="bg_gr02 mt30 pt30 pb30">
+			<div class="wrap660">
+				<div><img src="images/bal_point.png" width="168" height="20" alt="" /></div>
+				
+				<div class="cl mt20">
+					<div class="fl w320">
+						<h5 class="tx_rd01"> 衝撃に強く、割れにくい。</h5>
+						<div class="cl mt10">
+							<p class="fl w140">衝撃に強く、割れ、欠けにくい大変丈夫な素材。当然スリキズにも強いので安心です。</p>
+							<div class="fr"><img src="images/marble_worktop/flosti_pic05.jpg" width="160" height="111" alt="" /></div>
+						</div>
+					</div>
+					<div class="fr w320">
+						<h5 class="tx_rd01"> 調味料や洗剤で変色しにくい。</h5>
+						<div class="cl mt10">
+							<div class="fl w180">
+								<p>
+									優れた耐汚染性で、一般家庭で使われる調味料・洗剤によって変色・変質することはほとんどありません。<br />
+									耐汚染性試験結果
+								</p>
+								<p class="mt5">
+									●サラダ油　●ゴマ油<br />
+									●しょうゆ　●食酢　●紅茶
+								</p>
+							</div>
+							<div class="fr"><img src="images/marble_worktop/flosti_pic06.jpg" width="122" height="110" alt="" /></div>
+						</div>
+						<p class="mt5">（以上の汚れを表面に付着させ、24時間放置後、水洗いで跡が残らず洗浄できました）</p>
+					</div>
+				</div>
+				
+				<div class="cl mt20">
+					<div class="fl w320">
+						<h5 class="tx_rd01"> 美しい色合いが長持ち。</h5>
+						<div class="cl mt10">
+							<div class="fl w140">
+								<p>長く使用しても変色や変質の心配がほとんどなく、美しい色合いが長持ちします。</p>
+								<p class="mt5">●サンシャインウェザーメーター（降雨OFF）で、192時間での日差しにて評価（値が小さいほど変色しない）</p>
+							</div>
+							<div class="fr"><img src="images/marble_worktop/flosti_pic07.png" width="162" height="116" alt="" /></div>
+						</div>
+					</div>
+					<div class="fr w320">
+						<h5 class="tx_rd01"> 熱で変色しにくい。</h5>
+						<div class="cl mt10">
+							<div class="fl w140">
+								<p>アクリストンは熱で変色しにくいので、表面の美しさを保ちやすい素材です。</p>
+								<p class="mt5">●200℃にしたオーブンの中に20分間放置した時の色差を比較評価（値が小さいほど変色しない）</p>
+							</div>
+							<div class="fr"><img src="images/marble_worktop/flosti_pic08.png" width="166" height="114" alt="" /></div>
+						</div>
+						<p class="mt5 ast">※日常のご使用では必ず鍋敷き（厚さ1cm以上）などをお使いください。</p>
+					</div>
+				</div>
+				
+				<div class="posr mt20">
+					<img src="images/marble_worktop/flosti_pic09.png" width="650" height="153" alt="" />
+					<p class="posa" style="left:280px; top:50px; width:180px;">シンクの接合部分をオープンにし、さらにカウンター端部を斜めにカットすることで汚れが見えやすく、ついた汚れも落としやすくなりました。</p>
+				</div>
+				
+			</div>
+		</div>
+		
+		<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+	</div>
+	<!-- /accordion -->
+	
+	
+	<!-- accordion -->
+	<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+	<div class="accordion">
+		
+		<div>
+			<div class="posr">
+				<div class="posa" style="right:0; top:0;"><img src="images/marble_worktop/mable_label01.png" width="237" height="56" alt="" /></div>
+			</div>
+			<h4 class="hd_rd01 bb_gr01 pb5 pt40 tx16">アクリストンワークトップ　<img src="images/icon_worktop_i.png" class="vm" width="46" height="19" alt="I型" /> <img src="images/icon_worktop_l.png" class="vm" width="46" height="19" alt="L型" /></h4>
+			<p class="mt10 ar">ステンレスシンク・アクリストンシンク・スワンンシンクが選べます</p>
+			<div class="ac mt25"><img src="images/marble_worktop/mable_pic01.jpg" width="589" height="136" alt="" /></div>
+			<p class="ar pr50 mt15">※L型のワークトップもあります。</p>
+			<p class="mt40 ac tx14"><strong>スワンシンク用アクリストンワークトップ</strong></p>
+			<div class="ac mt5"><img src="images/marble_worktop/mable_pic02.jpg" width="589" height="159" alt="" /></div>
+			<p class="mt15 ar">※L型のワークトップもあります。　※バックガード用防熱板が同梱されております。</p>
+		</div>
+		
+		<div class="mt60">
+			<div class="posr">
+				<div class="posa" style="right:0; top:0;"><img src="images/marble_worktop/mable_label02.png" width="177" height="56" alt="" /></div>
+			</div>
+			<h4 class="hd_rd01 bb_gr01 pb5 pt40 tx16">フラット対面ワークトップ（アクリストン）<img src="images/icon_worktop_i.png" class="vm" width="46" height="19" alt="I型" /> <img src="images/icon_worktop_l.png" class="vm" width="46" height="19" alt="L型" /></h4>
+			<p class="mt10 ar">ステンレスシンク・アクリストンシンクが選べます</p>
+			<div class="ac mt25"><img src="images/marble_worktop/flat_pic.jpg" width="514" height="162" alt="" /></div>
+			<p class="ar pr50 mt15">※L型のワークトップもあります。</p>
+		</div>
+		
+		<div class="mt40">
+			<div class="posr">
+				<div class="posa" style="right:0; top:0;"><img src="images/marble_worktop/mable_label03.png" width="59" height="56" alt="" /></div>
+			</div>
+			<h4 class="hd_rd01 bb_gr01 pb5 pt40 tx16">ステップ対面ワークトップ（アクリストン）<img src="images/icon_worktop_i.png" class="vm" width="46" height="19" alt="I型" /> <span class="tx10" style="font-weight:normal; color:#333333;">（特許・意匠出願中）</span></h4>
+			<p class="mt10 ar">スワンシンクのみの設定</p>
+			<div class="ac mt25"><img src="images/marble_worktop/step_pic.jpg" width="533" height="180" alt="" /></div>
+			<p class="ar pr50 mt15">※バックガード用防熱板が同梱されております。</p>
+		</div>
+		
+		<div class="cl mt50">
+			<div class="fr"><a href="marble_sink.shtml"><img src="images/btn_marble_sink.png" class="ov" width="199" height="40" alt="アクリストンシンクを見る" /></a></div>
+			<div class="fr mr20"><a href="stainless_sink.shtml"><img src="images/btn_stainless_sink.png" class="ov" width="199" height="40" alt="ステンレスシンクを見る" /></a></div>
+		</div>
+		
+		<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+	</div>
+	<!-- /accordion -->
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad107&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,538 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│電気・IHクッキングヒーター｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="ih">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　電気・IHクッキングヒーター</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/ih/title.png" width="700" height="34" alt="電気・IHクッキングヒーター" /></h3>
+		<div class="tx">
+			<p>
+				天面がフラットなのでお手入れがラクなIHクッキングヒーター。<br />
+				随所に備わるさまざまな機能が日々の料理を快適にします。<br />
+				<br />
+				<span class="tx12">※表示価格は税抜き価格です。</span>
+			</p>
+		</div>
+		<div class="pic"><img src="images/ih/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<div class="btn_catalog"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=122" target="_blank"><img src="images/btn_spec.png" width="230" height="40" alt="詳しい仕様はカタログを見る" /></a></div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- IH 1 -->
+	<div class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/ih/ih1_title.png" width="700" height="34" alt="3口IHヒーター" /></h4>
+		<div class="intro">
+			<div class="tx">
+				<p>「ラク旨グリル」で手間なくおまかせ自動両面焼き。しかも庫内がキレイ。</p>
+			</div>
+			<div class="pic">
+				<div><img src="images/ih/ih1_intro_pic.jpg" width="350" height="280" alt="" /></div>
+				<p class="mt5">ZEHCZ7H14<span class="tx_rd01">PSW</span></p>
+			</div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<h5 class="tx_rd01 bb_gr01 pb5">ラク旨グリル搭載オーブン</h5>
+			<div class="cl mt20">
+				<div class="fl mr20"><img src="images/ih/ih1_feature_pic01.jpg" width="329" height="163" alt="" /></div>
+				<p class="fl w350">ハンバーグやさんま焼きなど火加減がむずかしい調理も裏返す手間なく自動で焼き上げます。ニオイも抑制する脱煙機能付き（パラジウム酸化触媒）。</p>
+			</div>
+			
+			<div class="cl mt20">
+				<div class="fl w330">
+					<h6 class="ast"><span class="tx_gr01">■</span> 手軽にいろいろ楽しめる<br />火加減おまかせのオートメニュー</h6>
+					<ul class="mt10 ul_fl">
+						<li class="mr10 mb10">
+							<div><img src="images/ih/ih1_feature_pic02.jpg" width="160" height="140" alt="" /></div>
+							<p class="mt5">ノンフライ調理</p>
+						</li>
+						<li class="mb10">
+							<div><img src="images/ih/ih1_feature_pic03.jpg" width="160" height="140" alt="" /></div>
+							<p class="mt5">ヘルシー調理</p>
+						</li>
+						<li class="mr10">
+							<div><img src="images/ih/ih1_feature_pic04.jpg" width="160" height="140" alt="" /></div>
+							<p class="mt5">焼き蒸し調理</p>
+						</li>
+						<li>
+							<div><img src="images/ih/ih1_feature_pic05.jpg" width="160" height="140" alt="" /></div>
+							<p class="mt5">パン・菓子調理</p>
+						</li>
+					</ul>
+				</div>
+				<div class="fr w330 pt10">
+					<h6 class="ast"><span class="tx_gr01">■</span> 普通のお手入れは「ラク旨グリル」だけ</h6>
+					<div class="mt15"><img src="images/ih/ih1_feature_pic06.png" width="327" height="109" alt="" /></div>
+					<p class="mt15">高い壁のラク旨グリルが、調理中の油の飛びはねをガード。調理後も庫内はきれいです。</p>
+				</div>
+			</div>
+			
+			<div class="cl mt50">
+				<div class="fl w340">
+					<h5 class="tx_rd01 bb_gr01 pb5">庫内が簡単にお掃除できる 「3面・そこふけ～る」</h5>
+					<p class="mt10">
+						下ヒーターがリフトアップする機構なので、庫内の奥まで手を入れてお掃除できます。<br />
+						※お掃除は電源を切り、庫内が冷えてから行ってください。
+					</p>
+					<div class="mt20 ac"><img src="images/ih/ih1_feature_pic07.jpg" width="268" height="127" alt="" /></div>
+				</div>
+				<div class="fr w330">
+					<h5 class="tx_rd01 bb_gr01 pb5">適温調理 「適温調理クッキングガイド付」</h5>
+					<p class="mt10">目安温度を設定すれば、予熱も過熱もフライパン温度をキープ。卵料理など手動ではむずかしい火加減調節も簡単です。</p>
+					<div class="mt20 ac"><img src="images/ih/ih1_feature_pic08.jpg" width="268" height="127" alt="" /></div>
+				</div>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+			
+			
+			<div class="posr">
+			
+				<!-- list -->
+				<table class="item_list pd4">
+					<tr>
+						<th colspan="2" width="100">品名</th>
+						<td class="ac posr" width="283"><h5>3口IHヒーター</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">写真</th>
+						<td class="ac posr">
+							<img src="images/ih/ih1_spec_pic01.jpg" width="250" height="191" alt="" />
+							<p class="posa" style="left:15px; bottom:8px;">※写真はホワイトトップです</p>
+						</td>
+					</tr>
+					<tr>
+						<th colspan="2">フェイス／<br />トッププレート／ゴトク</th>
+						<td class="ac">カラーステンレス／ホワイト</td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">間口<br />75cm</th>
+						<th class="tx80 bb_1px">機 番</th>
+						<td class="ac bb_1px"><strong>ZEHCZ7H14<span class="tx_rd01">PSW</span></strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">価 格</th>
+						<td class="ac"><strong>￥336,000</strong></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">間口<br />60cm</th>
+						<th class="tx80 bb_1px">機 番</th>
+						<td class="ac bb_1px"><strong>ZEHCZ6H14<span class="tx_rd01">QSW</span></strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">価 格</th>
+						<td class="ac"><strong>￥316,000</strong></td>
+					</tr>
+					<tr>
+						<th colspan="2">グリル機能</th>
+						<td class="ac"><img src="images/ih/ih1_spec_label01.png" width="281" height="43" alt="" /></td>
+					</tr>
+					<tr>
+						<th colspan="2">主な機能</th>
+						<td class="ac"><img src="images/ih/ih1_spec_label02.png" width="281" height="94" alt="" /></td>
+					</tr>
+					<tr>
+						<th colspan="2">
+							個別消費量(kW)
+							<p class="mt20 tx_nr tx14"><img src="images/ih1_spec_icon01.png" width="24" height="24" class="vm" alt="" /> ：IH（オールメタル）</p>
+							<p class="mt10 tx_nr tx14"><img src="images/ih1_spec_icon02.png" width="24" height="24" class="vm" alt="" /> ：IH</p>
+							<p class="mt10 tx_nr tx14"><img src="images/ih1_spec_icon03.png" width="24" height="24" class="vm" alt="" /> ：ラジエント</p>
+						</th>
+						<td class="ac"><img src="images/ih/ih1_spec_pic02.png" width="166" height="122" alt="" /></td>
+					</tr>
+				</table>
+				<!-- list -->
+				
+				<div class="posa w230" style="right:0; bottom:0;">
+					<h5 class="tx_rd01">カラーステンレスフェイスセット</h5>
+					<div class="mt5"><img src="images/ih/ih1_spec_label03.png" width="98" height="31" alt="カラーステンレスフェイス対応" /></div>
+					<p class="bb_gr01 pb5 mt10">のIHクッキングヒーターをお選びの際は、下記のフェイスセットを必ず選択してください。</p>
+					<strong class="block mt10">ZEYSFZG14**Z ￥8,000</strong>
+					<p>品名の**はフェイスの色記号</p>
+					<p class="mt10 tx_lh12">シルバー（JV）、アクア（JY）、ボルドー（JH）、レッド（JE）、チャコール（JN）、ロゼ（JX）、シャンパン（VQ）、セピア（VN）、ワイン（VE）、ブロンズ（K9）</p>
+				</div>
+				
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+	</div>
+	<!-- /IH 1 -->
+	
+	
+	
+	<!-- IH 2 -->
+	<div class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/ih/ih1_title.png" width="700" height="34" alt="3口IHヒーター" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					グリルは「遠赤ラクッキングリル」を搭載。庫内が明るく焼き加減がよく見えます。<br />
+					焼き網と受け皿が一体になっているので、お掃除がラクになりました。
+				</p>
+			</div>
+			<div class="pic">
+				<div><img src="images/ih/ih2_intro_pic.jpg" width="350" height="280" alt="" /></div>
+				<p class="mt5">ZEHRZ7M14<span class="tx_rd01">CSS</span></p>
+			</div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<h5 class="bb_gr01 pt5 tx_rd01">大火力ラクッキングリル</h5>
+			<p class="tx14 mt20"><span class="tx_gr01">■</span> 上から遠赤外線、下からIHの大火力でダブル包み焼き。</p>
+			<div class="cl mt10">
+				<div class="fl mr15"><img src="images/ih/ih2_feature_pic01.jpg" width="493" height="115" alt="" /></div>
+				<p class="fl w190">
+					IH加熱ならではの立ち上がりの早さで一気に加熱。<br />
+					食材の旨みを逃さずにおいしく焼き上げます。
+				</p>
+			</div>
+			<p class="tx14 mt50"><span class="tx_gr01">■</span> お手入れ楽々</p>
+			<div class="mt15"><img src="images/ih/ih2_feature_pic02.jpg" width="692" height="159" alt="" /></div>
+			<div class="cl mt10">
+				<p class="fl w380">
+					ヒーターの露出が無く、奥までお手入れ楽々。<br />
+					下ヒーターに油が垂れず、煙の発生を抑えます。<br />
+					※おそうじは電源を切り、庫内が冷えてから行ってください。
+				</p>
+				<p class="fl">
+					焼き網と受け皿が一体になったグリル皿。<br />
+					洗う部品が減りました。<br />
+					グリル皿にはフッ素加工でおそうじ楽々。
+				</p>
+			</div>
+			<div class="posr w100p mt40">
+				<img src="images/ih/ih2_feature_pic03.png" width="284" height="172" alt="" />
+				<p class="posa" style="left:305px; bottom:0;">
+					※当社検証比（さんまを5匹焼いた後、<br />
+					　手洗いした場合の実験データです。）<br />
+					　従来品：焼き網・受け皿<br />
+					　ラクッキングリル：グリル皿<br />
+					※使用環境やお手入れ方法によって異なります。
+				</p>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+		
+			<!-- list -->
+			<table class="item_list pd4">
+				<tr>
+					<th colspan="2" width="100">タイプ</th>
+					<td class="ac posr" width="283"><h5>3口IHヒーター</h5></td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac"><img src="images/ih/ih2_spec_pic01.jpg" width="239" height="145" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">フェイス／<br />トッププレート</th>
+					<td class="ac">シルバー／シルバー</td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />75cm</th>
+					<th class="tx80 bb_1px">機 番</th>
+					<td class="ac bb_1px"><strong>ZEHRZ7M14<span class="tx_rd01">CSS</span></strong></td>
+				</tr>
+				<tr>
+					<th class="tx80">価 格</th>
+					<td class="ac"><strong>￥360,000</strong></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />60cm</th>
+					<th class="tx80 bb_1px">機 番</th>
+					<td class="ac bb_1px"><strong>ZEHRZ6M14<span class="tx_rd01">TSS</span></strong></td>
+				</tr>
+				<tr>
+					<th class="tx80">価 格</th>
+					<td class="ac"><strong>￥340,000</strong></td>
+				</tr>
+				<tr>
+					<th colspan="2">グリル機能</th>
+					<td class="ac"><img src="images/ih/ih2_spec_label01.png" width="281" height="44" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td class="ac"><img src="images/ih/ih2_spec_label02.png" width="281" height="45" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">
+						個別消費量(kW)
+						<p class="mt20 tx_nr tx14"><img src="images/ih1_spec_icon01.png" width="24" height="24" class="vm" alt="" /> ：IH（オールメタル）</p>
+						<p class="mt10 tx_nr tx14"><img src="images/ih1_spec_icon02.png" width="24" height="24" class="vm" alt="" /> ：IH</p>
+						<p class="mt10 tx_nr tx14"><img src="images/ih1_spec_icon03.png" width="24" height="24" class="vm" alt="" /> ：ラジエント</p>
+					</th>
+					<td class="ac"><img src="images/ih/ih2_spec_pic02.png" width="166" height="122" alt="" /></td>
+				</tr>
+			</table>
+			<!-- list -->
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- /IH 2 -->
+	
+	
+	
+	<!-- function -->
+	<div class="mt40">
+		<h5>IＨクッキングヒーターの主な機能紹介</h5>
+		<div class="bg_gr02 mt15 pt20 pb20">
+			<ul class="wrap670 ul_fl fix_h">
+				<li class="w320 mr20 mb15">
+					<div><img src="images/ih_label01.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">グリル下ヒーターの露出が無く、庫内に手が入りお手入れがラクラクです。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/ih_label02.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">下ヒーター全体をリフトアップさせグリル底面、左右側面のお手入れができます。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/ih_label03.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">焼き魚の調理中にでる気になる煙とニオイを、触媒を使用して抑えます。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/ih_label04.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">付属の調理器具を使い、発酵から焼きまで自動で焼き上げます。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/ih_label05.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">温度調節、タイマーの機能がついており、コンロが自動で火力を調節してくれます。揚げ物も綺麗な色に仕上がります。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/ih_label06.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">唐揚げなどのフライを油を使わずグリルで調理。面倒な片付けの手間からも解放されて、しかもヘルシーです。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/ih_label07.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">鍋底温度をダイレクトに検知するので、より素早く、精度の高い温度検知ができます。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/ih_label08.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">
+						ＩＨヒーターを点火するとレンジフードと連動して、自動で換気がスタートします。<br />
+						※2 調理メニューや火力信号により洗エールレンジフードの省エネナビをよりきめこまかくサポート
+					</p>
+				</li>
+			</ul>
+		</div>
+		
+		<div class="cl mt40">
+			<div class="fl w330">
+				<h5 class="tx_rd01 bb_gr01 pb5">ラク旨グリル</h5>
+				<p class="mt10">
+					ハンバーグや魚焼きも裏返す手間無く自動調理。<br />
+					ノンフライ調理や過熱水蒸気調理も楽しめます。<br />
+					※1 フタ付きなら、パン・菓子調理や焼き蒸し調理も。
+				</p>
+				<div class="mt20 posr">
+					<img src="images/ih/func_pic01.png" width="222" height="84" alt="" />
+					<p class="posa" style="left:240px; top:10px;">油の飛び跳ねを<br />ガード。<br />庫内はきれい。</p>
+				</div>
+			</div>
+			<div class="fr w330">
+				<div class="fl w330">
+					<h5 class="tx_rd01 bb_gr01 pb5">大火力ラクッキングリル</h5>
+					<p class="mt10">IH加熱で、旨みを逃さずパリッとおいしく仕上げます。</p>
+					<div class="ac mt10"><img src="images/ih/func_pic02.jpg" width="245" height="135" alt="" /></div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="mt40">
+			<strong><img src="images/icon_attention.png" width="32" height="28" class="vm" alt="" /> 安全に関するご注意</strong>
+			<p class="ast mt15">●IHクッキングヒーターをご使用になる場合、心臓用ペースメーカーをお使いの方は、専門医とよくご相談のうえ、お使いください。</p>
+			<p class="ast">●ヒーターの種類によって使用できる鍋の材質・大きさ・形状などに制限があります。<a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=160" target="_blank">詳しくはカタログP159をご参照ください</a>。</p>
+		</div>
+		
+	</div>
+	<!-- /function -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad117&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

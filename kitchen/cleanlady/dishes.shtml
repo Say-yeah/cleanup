@@ -1,0 +1,544 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│食器洗い乾燥機｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="dishes">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　食器洗い乾燥機</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/dishes/title.png" width="700" height="34" alt="食器洗い乾燥機" /></h3>
+		<div class="tx">
+			<p>
+				「省エネナビ」を搭載した機種や、世界初の重曹洗浄コースを搭載した機種など、生活スタイルに合わせてお選びください。<br />
+				<br />
+				<span class="tx12">※表示価格は税抜き価格です。</span>
+			</p>
+		</div>
+		<div class="pic"><img src="images/dishes/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<div class="btn_catalog"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=115" target="_blank"><img src="images/btn_spec.png" width="230" height="40" class="ov" alt="詳しい詳細はカタログを見る" /></a></div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- eco -->
+	<div class="mt30">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/dishes/eco_title.png" width="700" height="34" alt="省エネナビ付バイオパワー除菌タイプ" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					プラネットアーム洗浄とバイオパワー除菌でしっかり洗浄。<br />
+					“さらに”ムダなく節水・節電を自動でおこなう「省エネナビ」を搭載。
+				</p>
+			</div>
+			<div class="pic">
+				<div><img src="images/dishes/eco_intro_pic.jpg" width="350" height="280" alt="" /></div>
+				<p class="mt5">ZWPM45M12<span class="tx_rd01">CDS</span></p>
+			</div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<div class="cl">
+				
+				<div class="fl w330">
+					<h5 class="tx_rd01 bb_gr01 pb5">新世代ノズル ─プラネットアーム洗浄</h5>
+					<p class="mt10">ゆっくり回転し、高圧水流を真上に集中し、汚れをそぎ落とすノズルと庫内の隅々まで高速回転しながら水流を行き渡らせるノズルにより少ない水で高い洗浄性を実現。</p>
+					<div class="mt10 posr mt10 pb20">
+						<img src="images/dishes/eco_feature_pic01.jpg" width="295" height="137" alt="" />
+						<p class="posa" style="right:20px; bottom:0;">麦茶ポットの底まで届く<br />高圧集中噴射</p>
+					</div>
+					<h5 class="tx_rd01 bb_gr01 pb5 mt30">省エネナビで省エネ・節水・節約</h5>
+					<p class="mt10">2つのセンサーにより、食器の汚れ具合と食器量を検知し、最適に運転することによって、水と電気を節約します。</p>
+					<div class="mt20"><img src="images/dishes/eco_feature_pic03.png" width="321" height="225" alt="" /></div>
+				</div>
+				
+				<div class="fr w330">
+					<h5 class="tx_rd01 bb_gr01 pb5">手洗いよりキレイ ─バイオパワー除菌</h5>
+					<p class="mt10">プラネット洗浄に加え、専用洗剤に含まれる「洗浄酵素・漂白成分」を最大限に活性化して作用させる約５０℃の高濃度洗剤を庫内に噴射。バイオパワー除菌ならしっかりと清潔に高い洗浄性を実現。</p>
+					<div class="mt10 posr mt10 pb50 ac">
+						<img src="images/dishes/eco_feature_pic02.jpg" width="261" height="103" alt="" />
+						<p class="posa ac" style="left:0; bottom:0; width:180px;">
+							<strong class="tx_rd01">洗浄前</strong><br />
+							（ラード食紅付）
+						</p>
+						<p class="posa ac" style="right:-10px; bottom:0; width:180px;">
+							<strong class="tx_rd01">洗浄後</strong><br />
+							試験条件はメーカーによる。
+						</p>
+					</div>
+					<div class="bg_gr02 pt15 pb15 pl20 pr20 mt20">
+						<strong class="tx_rd01">ランニングコストがお得</strong>
+						<p class="mt5">手洗いより省エネの食洗機。<br />省エネナビを使ってさらに節水・省エネ。</p>
+						<div class="mt10 ac"><img src="images/dishes/eco_feature_pic04.png" width="282" height="169" alt="" /></div>
+						<p class="ast tx12 mt11 tx_lh10 mt10">※1 ランニングコストは、ZWPM45M12CDSにおけるメーカー試算。</p>
+						<p class="ast mt5 tx12 tx_lh10">※2 汚れ・食器量に応じて得られる省エネナビの最大値。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="cl mt30">
+				<div class="fl mr20 w250">
+					<h5 class="tx_rd01 pb5">ダミーライン取手付き扉面材</h5>
+					<p>
+						キッチン本体の取手にデザインを合わせたダミーライン取手付き扉面材も選択することができます。<br />
+						（ZWPM45M12CDS・ZWPE45M12JDS）<br />
+						※扉面材、専用キャビネットは別途。
+					</p>
+				</div>
+				<div class="fl">
+					<div><img src="images/dishes/eco_feature_pic05.jpg" width="183" height="133" alt="" /></div>
+					<p class="mt5">ダミーライン取手タイプ</p>
+				</div>
+			</div>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+			
+			<table class="item_list pd8">
+				<tr>
+					<th width="110">タイプ</th>
+					<td class="ac" width="283"><h5>省エネナビ付<br />バイオパワー除菌タイプ</h5></td>
+				</tr>
+				<tr>
+					<th>間口</th>
+					<td class="ac">45cm</td>
+				</tr>
+				<tr>
+					<th>写真</th>
+					<td class="ac posr">
+						<img src="images/dishes/eco_spec_pic01.jpg" width="177" height="196" alt="" />
+						<div class="posa" style="left:10px; bottom:8px;"><img src="images/icon_eco.png" width="33" height="33" alt="ECO" /></div>
+					</td>
+				</tr>
+				<tr>
+					<th>色・化粧材</th>
+					<td class="ac vm">ステンレス・扉面材</td>
+				</tr>
+				<tr>
+					<th>品番</th>
+					<td class="ac vm">ZWPM45M12<span class="tx_rd01">CDS</span></td>
+				</tr>
+				<tr>
+					<th>本体価格</th>
+					<td class="ac vm">￥173,000</td>
+				</tr>
+				<tr>
+					<th>収納容量</th>
+					<td class="ac vm">約5人分・40点</td>
+				</tr>
+				<tr>
+					<th>使用水量</th>
+					<td class="ac vm">約8&#8467;（省エネナビ最大値 約6.5&#8467;）</td>
+				</tr>
+				<tr>
+					<th>標準運転経費（目安）</th>
+					<td class="ac vm">約21.3円／回（省エネナビ最大値 約19.3円／回）</td>
+				</tr>
+				<tr>
+					<th>運転コース</th>
+					<td class="ac vm">6コース</td>
+				</tr>
+				<tr>
+					<th>騒音（dB）</th>
+					<td class="ac vm">低騒音設計<br />約37dB／約39dB<br />（50Hz／60Hz）</td>
+				</tr>
+				<tr>
+					<th>主な機能</th>
+					<td class="ac"><img src="images/dishes/eco_spec_label01.png" width="281" height="70" alt="" /></td>
+				</tr>
+			</table>
+			<p class="mt10">
+				●食器洗い乾燥機専用洗剤は花王株式会社製をおすすめします。<br />
+				●標準運転経費は、メーカーによる算出。<br />
+				●本体価格は機器本体であり、扉面材・専用キャビネットは別途。
+			</p>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- /eco -->
+	
+	
+	
+	<!-- plasma -->
+	<div class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/dishes/plasma_title.png" width="700" height="34" alt="プラズマクラスター＆重曹洗浄コース付タイプ" /></h4>
+		<div class="intro mt10 posr">
+			<div class="tx">
+				<p>重曹洗浄コースとプラズマクラスターで除菌＆消臭。<br />“やさしい”と“しっかり”を両立した食器洗い乾燥機。</p>
+			</div>
+			<div class="pic">
+				<div><img src="images/dishes/plasma_intro_pic.jpg" width="350" height="280" alt="" /></div>
+				<p class="mt10">ZWPM45R11<span class="tx_rd01">DDS</span></p>
+			</div>
+			<div class="posa cl" style="top:230px; left:80px;">
+				<p class="fl tx10 w160 mr15">プラズマクラスターマーク及びプラズマクラスター、Plasmaclusterは、シャープ株式会社の商標です。</p>
+				<div class="fl"><img src="images/plasma_intro_logo.png" width="69" height="69" alt="" /></div>
+			</div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<div class="cl">
+				<div class="fl w330">
+					<h5 class="tx_rd01">家族に安心でエコロジーな重曹洗浄</h5>
+					<p class="mt5">自然素材である重曹は口に入っても無害なため、家族みんなの食器を安心して洗うことができます。また、重曹洗浄後の排水は、環境に無害な成分に分解され環境浄化にも役立ちます。</p>
+				</div>
+				<div class="fr w330">
+					<h5 class="tx_rd01">食器を清潔に保つプラズマクラスター搭載</h5>
+					<p class="mt5">プラズマクラスターにより、乾燥時に外気から取り込まれる空気を浄化。</p>
+				</div>
+			</div>
+			
+			<div class="bg_gr04 ac pt5 pb5 mt20"><h6 class="tx14">重曹が汚れを落す仕組み</h6></div>
+			<div class="cl mt10">
+				<div class="fl posr pb50">
+					<img src="images/dishes/plasma_pic01.png" width="508" height="114" alt="" />
+					<p class="posa" style="left:0; top:125px; width:158px;">重曹が汚れにしっかりと密着します。</p>
+					<p class="posa" style="left:175px; top:125px; width:158px;">重曹が汚れと混ざり合い、汚れを中和しています。</p>
+					<p class="posa" style="left:350px; top:125px; width:158px;">中和した汚れを、水・二酸化炭素・ナトリウムの塩（えん）に変化させます。</p>
+				</div>
+				<p class="fr w170 pt15">汚れを浮かせてキレイに落す重曹コース搭載。アルカリ性の重曹は、油などの酸性物質を中和し、自然に分解します。</p>
+			</div>
+			
+			<div class="bg_gr04 ac pt5 pb5 mt40"><h6 class="tx14">付着カビ菌の抑制効果</h6></div>
+			<div class="cl mt20">
+				<div class="fl"><img src="images/dishes/plasma_pic02.png" width="248" height="145" alt="" /></div>
+				<p class="fr w170 w430">
+					●試験依頼元：（財）日本食品分析センタ－<br />
+					●試験成績書：2009/10/27第09010744001-01号<br />
+					●試験方法：シャ－プにて２．６m3空間にイオンを発生させ、塩ビ板上で５日間カビを増殖させたものを依頼。JISZ2911を参考にしたカビ発育面積を比較。（プラズマクラスタ－イオン濃度：25,000個/cm3）<br />
+					■試験結果：５日後に付着カビ菌の増殖を抑制。
+				</p>
+			</div>
+			
+			<div class="bg_gr02 w330 pt15 pb15 pr20 pl20 ml0 mt40">
+				<h5 class="tx_rd01">ランニングコストがお得</h5>
+				<p class="mt5">重曹モードでは低温での洗浄が可能なため、給湯機をOFFにして使えば、従来よりランニングコストがさらにお得。</p>
+				<div class="mt15 ac"><img src="images/dishes//plasma_pic03.png" width="264" height="191" alt="" /></div>
+				<p class="mt10">
+					※1 ランニングコストは、メーカーによる算出。<br />
+					※2 お得な使い方の例であり、必須条件ではありません。
+				</p>
+			</div>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+			
+			<table class="item_list pd8">
+				<tr>
+					<th width="110">タイプ</th>
+					<td class="ac" width="283"><h5>プラズマクラスター＆<br />重曹洗浄コース付タイプ</h5></td>
+				</tr>
+				<tr>
+					<th>間口</th>
+					<td class="ac">45cm</td>
+				</tr>
+				<tr>
+					<th>写真</th>
+					<td class="ac"><img src="images/dishes/plasma_spec_pic01.jpg" width="177" height="196" alt="" /></td>
+				</tr>
+				<tr>
+					<th>色・化粧材</th>
+					<td class="ac vm">ステンレス・扉面材</td>
+				</tr>
+				<tr>
+					<th>品番</th>
+					<td class="ac vm">ZWPM45R11<span class="tx_rd01">DDS</span></td>
+				</tr>
+				<tr>
+					<th>本体価格</th>
+					<td class="ac vm">￥168,000</td>
+				</tr>
+				<tr>
+					<th>収納容量</th>
+					<td class="ac vm">約6人分・40点</td>
+				</tr>
+				<tr>
+					<th>使用水量</th>
+					<td class="ac vm">専用洗剤 約11&#8467;　重曹 約14&#8467;</td>
+				</tr>
+				<tr>
+					<th>標準運転経費（目安）</th>
+					<td class="ac vm">専用洗剤 約29.6円／回　重曹 約25.4円／回</td>
+				</tr>
+				<tr>
+					<th>運転コース</th>
+					<td class="ac vm">８コース</td>
+				</tr>
+				<tr>
+					<th>騒音（dB）</th>
+					<td class="ac vm">低騒音設計<br />約40dB</td>
+				</tr>
+				<tr>
+					<th>主な機能</th>
+					<td class="ac"><img src="images/dishes/plasma_spec_label01.png" width="281" height="70" alt="" /></td>
+				</tr>
+			</table>
+			<p class="mt10">
+				●食器洗い乾燥機専用洗剤は花王株式会社製をおすすめします。<br />
+				●標準運転経費は、メーカーによる算出。<br />
+				●本体価格は機器本体であり、扉面材・専用キャビネットは別途。
+			</p>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- plasma -->
+	
+	
+	
+	<!-- function -->
+	<div class="mt40">
+		<h5>食器洗い乾燥機の主な機能紹介</h5>
+		<div class="bg_gr02 mt15 pt20 pb20">
+			<ul class="wrap670 ul_fl fix_h">
+				<li class="w320 mr20 mb15">
+					<div><img src="images/dish_label01.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">２つのセンサーで自動に最適な洗浄・乾燥するのでいつも省エネ。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/dish_label02.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">プラズマクラスターにより乾燥時はよりクリーンな空気にて乾燥。食器を保管してもクリーンキープ。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/dish_label03.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">専用洗剤が最も効果的に洗浄に作用する約50℃の最活性化温度にし、高濃度と酵素で除菌洗浄。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/dish_label04.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">人に安全な重曹にてしっかり洗浄できる専用のモードを搭載。排水も環境に無害な成分に分解。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/dish_label05.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">洗浄力と節水・省エネを両立した新洗浄方式。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/dish_label06.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">洗浄工程の前と高温すすぎ前と２回の高温スチームを噴霧してより汚れを落としやすくする洗浄。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/dish_label07.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">２段目のカゴや大皿の上部の汚れにしっかりと洗浄水をあてるためにノズル中央が伸縮する洗浄ノズル。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/dish_label08.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">２段目のカゴと小物入れがスライドできることで順序を気にせず入れたり、出したりできるカゴ。</p>
+				</li>
+				<li class="w320 mr20">
+					<div><img src="images/dish_label09.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">全ての操作ボタンを上面に配したことで、あまりかがまなくても操作できる操作部。</p>
+				</li>
+				<li class="w320">
+					<div><img src="images/dish_label10.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">乾燥時に正面より排出される蒸気の温度を低減して排出する排気モード。</p>
+				</li>
+			</ul>
+		</div>
+		
+		<table width="100%" class="mt30">
+			<tr>
+				<td class="bg_gr03 ac vm pr20 pl20"><strong class="tx14 tx_wh">長期使用製品<br />安全点検制度について</strong></td>
+				<td class="pl15">
+					<div class="cl">
+						<p class="fl">●制度の概要／</p>
+						<p class="fl w410">消費生活用製品安全法で指定される <img src="images/icon_safe.png" width="78" height="17" class="vm" alt="特定保守製品" />（経年劣化により安全上支障が生じるおそれの多い製品）について、製品の所有者に所有登録と法定点検（有償）を求める制度です。</p>
+					</div>
+					<p class="mt5">●対象製品／食器洗い乾燥機</p>
+				</td>
+			</tr>
+		</table>
+		
+		<div class="cl mt30">
+			<div class="fl mr15"><img src="images/icon_eco.png" width="33" height="33" alt="ECO" /></div>
+			<p class="fl">省エネ・節約・環境配慮などの観点から優れた商品として、<br />クリナップが特にお勧めする推奨機器のマークです。</p>
+		</div>
+		
+	</div>
+	<!-- /function -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad115&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

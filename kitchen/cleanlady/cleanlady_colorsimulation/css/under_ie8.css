@@ -1,0 +1,110 @@
+@charset "shift_jis";
+/* CSS Document */
+
+/*
+IE8のみ:そのまま
+IE6,7のみ:html*
+*/
+
+/******
+汎用クラス
+******/
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+	zoom:1;
+}
+
+
+
+/******
+コンテンツ内汎用クラス
+******/
+.style-shadow{
+	/*IE8*/
+	background-color:#fff;
+	filter: progid:DXImageTransform.Microsoft.Shadow(Color=#eeeeee, Strength=2, Direction=0),
+		progid:DXImageTransform.Microsoft.Shadow(Color=#eeeeee, Strength=8, Direction=90),
+		progid:DXImageTransform.Microsoft.Shadow(Color=#eeeeee, Strength=8, Direction=180),
+		progid:DXImageTransform.Microsoft.Shadow(Color=#eeeeee, Strength=2, Direction=270);
+}
+html*.style-shadow{
+	filter:none;
+	box-shadow:none;
+}
+html*#menu-a,
+html*#menu-b{/*IE6,7用。これ以外の要素には適用しない*/
+	zoom:1;
+	border:1px solid #ccc;
+}
+
+
+
+/******
+simu
+******/
+#simu{/*style-shadowの余白用の調整*/
+	width:619px\9;
+	height:525px\9;
+}
+
+
+
+/******
+menu
+******/
+#menu{
+	width:337px;
+	height:534px;
+}
+html*.box-menu{
+	width:322px;
+	height:446px;
+}
+/*menu-a*/
+html*.box-item{
+	height:110px;
+}
+
+/*menu-b*/
+#menu-b{
+	margin-top:2px;
+	margin-left:2px;
+}
+html*#menu-b{
+	margin-top:0;
+	margin-left:0;
+}
+.box-color-tab.door{
+	padding-bototm:0;
+}
+
+html*.box-current .ttl-color{
+	display:block;
+	position:relative;
+	top:25%;
+	left:28px;
+	height:auto;
+}
+html*.list-select .box-series{
+	padding-top:4px;
+}
+html*.list-select .box-series.line-under{
+	padding-bottom:6px;
+}
+html*.list-select .box-color{
+	width:83px;
+	height:68px;
+	margin-bottom:4px;
+}
+
+html*.list-select .chip{
+	margin:3px;
+}
+html*.list-select .chip.current,
+html*.wide1280 .list-select .chip.current{
+	margin:1px;
+	zoom:1;
+}
+html*.list-select .box-color .ttl-color{
+	margin-top:0;
+}

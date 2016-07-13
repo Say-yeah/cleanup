@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+	<title>クリナップ│システムキッチン│キッチンカラーシミュレーション│クリンレディ</title>
+	<meta name="viewport" content="width=1024" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<link rel="stylesheet" type="text/css" href="css/simu.css">
+	<link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/under_ie8.css">
+	<![endIf]-->
+	<script type="text/javascript" src="js/lib/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="js/lib/knockout-3.2.0.js"></script>
+	<script type="text/javascript" src="js/lib/modernizr.custom.js"></script>
+	<script type="text/javascript" src="js/first.js"></script>
+	<script type="text/javascript" src="js/master.js"></script>
+	<script type="text/javascript" src="js/constructor.js"></script>
+	<script type="text/javascript" src="js/ko.js"></script>
+	<script type="text/javascript" src="js/view.js"></script>
+	<script type="text/javascript" src="js/init.js"></script>
+</head>
+
+<body>
+	<div id="header">
+		<img src="img/cleanup.gif" class="logo fl" alt="クリナップ">
+		<div class="buttons fr">
+			<a class="print"><img src="img/btn_print.png" alt="印刷する" class="btn-print"></a>
+			<a href="https://cleanup.jp/showroom/index.shtml#kensaku"><img src="img/btn_showroom.png" class="btn-showroom" alt="全国のショールーム案内"></a>
+		</div>
+	</div>
+
+
+
+	<div id="main" class="cf">
+		<noscript>
+			このコンテンツではJavaScriptを使用しています。<br>
+			お使いのブラウザの設定にてJavaScriptを有効にした状態でご覧頂きますようお願い申し上げます。<br>
+			<br>
+		</noscript>
+
+
+		<div id="simu" class="box-contents fl style-shadow">
+			<img class="img-simu base" width="100%" height="100%" src="img/simu/base.jpg" alt="" />
+			<!-- ko foreach : simuList.items -->
+				<!-- ko ifnot :  noSimuImg -->
+				<div class="box-border-simu">
+					<img class="img-simu img-png img-border"
+						data-bind="css : 'border_' + name,
+							attr : {src : 'img/simu/border_' + name + '.png'},
+							style : {zIndex : zIndex + 10}, pngChange : val"
+					 />
+					 <!-- ko if :  name=="door_floor" -->
+					<img class="img-simu img-png img-border"
+						data-bind="css : 'border_' + name + '_b',
+							attr : {src : 'img/simu/border_' + name + '_b.png'},
+							style : {zIndex : zIndex + 10}, pngChange : val"
+					 />
+					 <!-- /ko -->
+				</div>
+				<img class="img-simu img-png" width="100%" height="100%"
+					data-bind="attr : {src : 'img/simu/' + name + '_' + src() + '.png', alt : 'シミュレーション画像'},
+						style : {zIndex : zIndex}, pngChange : val"
+				 />
+				<!-- /ko -->
+			<!-- /ko -->
+		</div>
+
+		<div id="menu" class="box-contents fl">
+			<div class="box-logo"><img src="img/logo_cleanlady.png" alt="rakuera" width="201" height="57" class="logo" /></div>
+			
+			<div id="menu-a" data-bind="css : { off : menuB()}" class="box-menu style-shadow">
+				<ul data-bind="template : {name : menuAtemplate, foreach : simuList.items}">
+				</ul>
+			</div><!-- / #menu-a .box-menu -->
+			
+			
+			<div id="menu-b" class="box-menu" data-bind="css : { on : menuB()}, visualState : { on : menuB() }">
+				<div class="box-header cf">
+					<img class="img-txt fl img-txt-select_ttl" alt="カラーを選択してください" src="img/txt/select_color.png" />
+					<div class="to_menu to_menu-a fr">
+						<img class="img-btn" alt="一覧に戻る" src="img/btn_back.png" />
+					</div>
+				</div>
+				<div data-bind="with : selectItem">
+					<p class="ttl-parts" data-bind="template:{name : 'ttlParts'}"></p>
+					<!-- ko if : partsCategory == "door" -->
+						<ul class="tab-select tab-select-group">
+							<li class="all"><img src="img/tab_all.png" data-bind="visible: $root.tabGroup()"><img src="img/tab_all_current.png" data-bind="visible: !$root.tabGroup()"></li>
+							<li class="parts"><img src="img/tab_parts.png" data-bind="visible:!$root.tabGroup()"><img src="img/tab_parts_current.png" data-bind="visible:$root.tabGroup()"></li>
+						</ul>
+					<!-- /ko -->
+					<div class="box-color-tab" data-bind="css : {door : partsCategory == 'door', doorparts : partsCategory == 'door' && name !== 'door'}">
+						<!-- ko if : partsCategory == "door" && $root.tabGroup() -->
+						<ul class="tab-select tab-select-parts">
+							<li class="door_wall"><img src="img/tab_wall.png" width="151" height="24" data-bind="visible: !$root.tabWall()"><img src="img/tab_wall_current.png" width="151" height="24" data-bind="visible: $root.tabWall()"></li>
+							<li class="door_floor"><img src="img/tab_floor.png" width="151" height="24" data-bind="visible: $root.tabWall()"><img src="img/tab_floor_current.png" width="151" height="24" data-bind="visible: !$root.tabWall()"></li>
+						</ul>
+						<!-- /ko -->
+						<div class="box-color box-current cf">
+							<img class="chip fl" data-bind="attr:{src : 'img/chip/' + partsCategory + '_' + src() + '.png', alt : colorText}" />
+							<p class="ttl-color" data-bind="html : colorHtml"></p>
+						</div>
+						<ul class="list-select" data-bind="css : {tabgroup : $root.tabGroup() },template : {name : 'menu_b_boxseries_template',foreach :simuRakuera.colorList[partsCategory]}">
+						</ul><!-- / .list-select -->
+					</div><!-- / .box-color-tab -->
+				</div>
+			</div><!-- / #menu-b .box-menu -->
+		</div><!-- / #menu .box-contents -->
+	</div><!-- / #contents -->
+
+	
+	<div id="footer">
+		<p class="txt-notice">※ iOSからの印刷には、Air Print に対応したプリンタが必要です。</p>
+	</div>
+
+
+
+	<script type="text/html" id="ttlParts">
+		<!-- ko if : partsCategory == "door" -->
+			<img class="img-txt" data-bind="attr : {src : 'img/txt/door.png', alt : '扉カラー'}" height="100%" />
+		<!-- /ko -->
+		<!-- ko ifnot : partsCategory == "door" -->
+			<img class="img-txt" data-bind="attr : {src : 'img/txt/' + partsCategory + '.png', alt : simuRakuera.ms.getName(name)}" height="100%" />
+		<!-- /ko -->
+	</script>
+
+	<script type="text/html" id="menu_a_template">
+		<li class="box-item cf" data-bind="visible : isVisible()">
+			<div class="box-ttl fl">
+				<p class="ttl-parts" data-bind="template:{name : 'ttlParts'}"></p>
+				<img class="img-txt img-txt-current_select" src="img/txt/current_select.png" alt="現在選択しているカラー" />
+			</div>
+			<div class="box-color fl">
+				<img class="chip" data-bind="attr : {src : 'img/chip/' + name + '_' + src() + '.png', alt : colorText}" />
+				<p class="ttl-color" data-bind="html : colorHtml, css : {long : name == 'door'}"></p>
+			</div>
+			<div class="to_menu to_menu-b fl">
+				<img src="img/btn_select.png" alt="カラーを変更する" width="86" height="98" class="img-btn">
+			</div>
+		</li>
+		<!-- / .box-item cf -->
+	</script>
+	<script type="text/html" id="menu_a_multidoor_template">
+		<!-- ko if : name == "door_wall" -->
+		<li class="box-item cf multidoor" data-bind="visible : isVisible()">
+			<div class="fl multidoor_left">
+				<div class="box-ttl fl">
+					<p class="ttl-parts">
+						<img class="img-txt" src="img/txt/door.png" alt="扉カラー" height="100%" />
+					</p>
+					<img class="img-txt img-txt-current_select" src="img/txt/current_select.png" alt="現在選択しているカラー" />
+				</div>
+				<div class="box-color fl">
+					<div class="box-chip"><img class="chip" data-bind="attr : {src : 'img/chip/door_' + src() + '.png', alt : colorText}" /></div>
+					<div class="box-chip">
+						<img class="chip" data-bind="attr : {src : 'img/chip/door_' + $parent.simuList.items()[2].src() + '.png', alt : $parent.simuList.items()[2].colorText}" />
+					</div>
+				</div>
+				<div class="box-ttl multidoor_ttl multidoor_ttl_line fl">
+					<img class="img-txt img-txt-current_select" src="img/txt/wall_select.png" alt="ウォールキャビネット" />
+				</div>
+				<div class="box-color multidoor_ttl multidoor_ttl_line fl">
+					<p class="ttl-color" data-bind="html : colorHtml, css : {long : name == 'door'}"></p>
+				</div>
+				<div class="box-ttl multidoor_ttl fl">
+					<img class="img-txt img-txt-current_select" src="img/txt/floor_select.png" alt="フロアキャビネット" />
+				</div>
+				<div class="box-color multidoor_ttl fl">
+					<p class="ttl-color" data-bind="html : $parent.simuList.items()[2].colorHtml, css : {long : name == 'door'}"></p>
+				</div>
+			</div>
+			<div class="to_menu to_menu-b fl">
+				<img src="img/btn_select_long.png" alt="カラーを変更する" class="img-btn">
+			</div>
+		</li>
+		<!-- / .box-item cf -->
+		<!-- /ko -->
+	</script>
+	
+	<script type="text/html" id="menu_b_boxseries_template">
+		<li class="box-series cf"
+		data-bind="css : {'line-under' : simuRakuera.colorList[$parent.partsCategory].length - $index() > 1, 
+				'door' : $data.series}"
+		>
+			<!-- ko if : $data.series -->
+			<p class="ttl-series fl">
+				<img class="img-txt"
+					data-bind="attr : {src : 'img/txt/' + $data.series + '_2l.png', 
+						alt : simuRakuera.ms.getName($data.series)}"
+				 />
+			</p>
+			<!-- /ko -->
+			<ul class="ul-select fl" data-bind="css : $data.series, foreach : $data.list">
+				<li class="box-color fl">
+					<img class="chip" data-bind="css : {current : $parents[1].src() == $data},attr:{src : 'img/chip/wide/' + $parent.parts + '_' + simuRakuera.ms.getSrc($data) + '.png', alt : simuRakuera.ms.getName($data)}" />
+					<p class="ttl-color" data-bind="html : simuRakuera.ms.getHtml($data)"></p>
+				</li>
+			</ul>
+		</li><!-- / .box-series -->
+	</script>
+
+
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad123"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+</body>
+</html>

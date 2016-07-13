@@ -1,0 +1,390 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│クリンレディの選び方｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="choice">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　クリンレディの選び方</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<h3><img src="images/choice/title.png" width="700" height="34" alt="クリンレディの選び方" /></h3>
+	<p class="mt25 tx14">暮らし方や使いやすさは十人十色。クリンレディには、長年キッチンを研究しているクリナップの工夫がいっぱい。あらゆるニーズに応えるプランが揃っています。</p>
+	
+	<div class="bg_gr01 mt30 pt30 pb40">
+		<div class="wrap650">
+			
+			
+			
+			<!-- section1 -->
+			<div>
+				<h4><img src="images/choice/howto1_title.png" width="219" height="53" alt="1：レイアウトを決める" /></h4>
+				
+				<h5 class="mt25"><img src="images/choice/howto1_stitle01.png" width="650" height="25" alt="" /></h5>
+				<p class="mt10">
+					もっともベーシックなタイプがⅠ型キッチン。基本機能が凝縮されており、料理に集中できるレイアウトです。<br />
+					対応間口：180～300cm
+				</p>
+				<div class="cl mt15">
+					<div class="fl">
+						<h6>■壁付け</h6>
+						<div><img src="images/choice/howto1_pic01.png" width="205" height="154" alt="" /></div>
+					</div>
+					<div class="fl ml15">
+						<h6>■造作対面</h6>
+						<div><img src="images/choice/howto1_pic02.png" width="205" height="154" alt="" /></div>
+					</div>
+				</div>
+				
+				<h5 class="mt40"><img src="images/choice/howto1_stitle02.png" width="650" height="25" alt="" /></h5>
+				<p class="mt10">
+					シンクとコンロが近く、無駄な動きが少ないＬ型キッチン。コンロ側を壁付けにして、<br />
+					シンク側を対面にした造作対面も人気です。<br />
+					対応間口：コンロ側／165・180cm　シンク側／180～270cm
+				</p>
+				<div class="cl mt15">
+					<div class="fl">
+						<h6>■壁付け</h6>
+						<div><img src="images/choice/howto1_pic03.png" width="203" height="152" alt="" /></div>
+					</div>
+					<div class="fl ml15">
+						<h6>■造作対面</h6>
+						<div><img src="images/choice/howto1_pic04.png" width="203" height="152" alt="" /></div>
+					</div>
+				</div>
+				
+				<h5 class="mt40"><img src="images/choice/howto1_stitle03.png" width="650" height="25" alt="" /></h5>
+				<p class="mt10">
+					開放感のあるオープンタイプの対面キッチン。「フラット対面プラン」のⅠ型、L型、2列型のほか、ダイニング側にカウンターテーブルの付いた「ステップ対面プラン」もご用意しました。
+				</p>
+				
+				<ul class="list01 mt15 fix_h">
+					<li>
+						<h6>■フラット対面［Ⅰ型］</h6>
+						<p>
+							壁付け・アイランド<br />
+							対応間口：<br />
+							壁付けタイプ／244～274cm<br />
+							アイランドタイプ／203～278cm
+						</p>
+						<div><img src="images/choice/howto1_pic05.png" width="203" height="141" alt="" /></div>
+					</li>
+					<li>
+						<h6>■フラット対面［L型］</h6>
+						<p>
+							壁付け<br />
+							対応間口：<br />
+							コンロ側／180～213cm<br />
+							シンク側／199～274cm
+						</p>
+						<div><img src="images/choice/howto1_pic06.png" width="203" height="141" alt="" /></div>
+					</li>
+					<li class="mr0">
+						<h6>■対面システム</h6>
+						<p>壁付け・アイランド</p>
+						<div><img src="images/choice/howto1_pic07.png" width="203" height="141" alt="" /></div>
+					</li>
+					<li>
+						<h6>■スリム対面システム［Ⅰ型］</h6>
+						<p>壁付け・アイランド</p>
+						<div><img src="images/choice/howto1_pic08.png" width="203" height="141" alt="" /></div>
+					</li>
+					<li>
+						<h6>■スリム対面システム［L型］</h6>
+						<p>壁付け</p>
+						<div><img src="images/choice/howto1_pic09.png" width="203" height="141" alt="" /></div>
+					</li>
+					<li class="mr0">
+						<h6>■ステップ対面［Ⅰ型］</h6>
+						<p>
+							壁付け・アイランド<br />
+							対応間口：<br />
+							壁付けタイプ／195～270cm<br />
+							アイランドタイプ／198～273cm
+						</p>
+						<div><img src="images/choice/howto1_pic10.png" width="203" height="141" alt="" /></div>
+					</li>
+				</ul>
+			</div>
+			<!-- /section1 -->
+			
+			
+			
+			<!-- section2 -->
+			<div class="mt10">
+				<h4><img src="images/choice/howto2_title.png" width="234" height="53" alt="2：間口・奥行を決める" /></h4>
+				<p class="mt10 tx14">
+					キッチンのタイプを決めたら間口・奥行サイズを決めましょう。<br />
+					調理スペースの広さは、間口によって変わります。
+				</p>
+				<div class="mt20"><img src="images/choice/howto2_pic01.png" width="650" height="380" alt="" /></div>
+				<p class="mt20">※フラット対面はL型にも対応しております。</p>
+			</div>
+			<!-- section2 -->
+			
+			
+			
+			<!-- section3 -->
+			<div class="mt50">
+				<h4><img src="images/choice/howto3_ttile.png" width="169" height="53" alt="3：高さを決める" /></h4>
+				
+				<div class="mt20 cl">
+					<div class="fl w270">
+						<h5><img src="images/choice/howto3_stitle01.png" width="270" height="25" alt="" /></h5>
+						<p class="mt15">使い勝手や身長に合わせて、ワークトップの高さを3種類から選べます。使い勝手には個人差があります。ショールームにて実際にスリッパをはいてご体験ください。</p>
+						<div class="mt20"><img src="images/choice/howto3_pic03.png" width="270" height="54" alt="" /></div>
+					</div>
+					<div class="fr">
+						<img src="images/choice/howto3_pic01.png" width="354" height="180" alt="" />
+						<p class="ast mt10">※アクリストンワークトップは、ワークトップ面及び<br />バックガード上面が2mm高くなります。</p>
+					</div>
+				</div>
+				
+				<div class="mt30">
+					<h5><img src="images/choice/howto3_stitle02.png" width="320" height="25" alt="" /></h5>
+					<div class="cl mt20">
+						<p class="fl w170">使う人の身長やキッチンのスペースによって、4つの高さをご用意しています。必要なときに手軽に下ろせるハンドムーブなどの機能をプラスして、空間をさらに有効に使うこともできます。</p>
+						<div class="fr"><img src="images/choice/howto3_pic02.png" width="462" height="165" alt="" /></div>
+					</div>
+				</div>
+			</div>
+			<!-- section3 -->
+			
+			
+			
+			<!-- section4 -->
+			<div class="mt40">
+				<h4><img src="images/choice/howto4_title.png" width="187" height="53" alt="4：カラーを決める" /></h4>
+				<div class="cl mt20">
+					<div class="fl w310">
+						<h5><img src="images/choice/howto4_stitle01.png" width="310" height="25" alt="" /></h5>
+						<p class="mt15">5つの価格帯、全40色から選べます。</p>
+						<div class="mt10"><img src="images/choice/howto4_pic01.jpg" width="310" height="440" alt="" /></div>
+					</div>
+					<div class="fr w310">
+						<h5><img src="images/choice/howto4_stitle02.png" width="310" height="25" alt="" /></h5>
+						<p class="mt15">ステンレス、アクリストンの2種類の素材から選べます。アクリストンワークトップは6色、アクリストンシンクは6色の豊富なバリエーションからお選びいただけます。</p>
+						
+						<div class="cl mt30">
+							<div class="fl w50p">
+								<div><img src="images/choice/howto4_pic02.jpg" width="147" height="91" alt="" /></div>
+								<p class="ast mt10"><span class="tx_gr01">■</span>アクリストンワーク<br />トップ</p>
+							</div>
+							<div class="fr w50p">
+								<div><img src="images/choice/howto4_pic03.jpg" width="147" height="91" alt="" /></div>
+								<p class="mt10"><span class="tx_gr01">■</span>アクリストンシンク</p>
+							</div>
+						</div>
+						
+						<div class="cl mt30">
+							<div class="fl w50p">
+								<div><img src="images/choice/howto4_pic04.jpg" width="147" height="91" alt="" /></div>
+								<p class="mt10 ar mr10">ステンレス</p>
+							</div>
+							<div class="fr w50p">
+								<div><img src="images/choice/howto4_pic05.jpg" width="147" height="91" alt="" /></div>
+								<p class="mt10 ar mr10">アクリストン</p>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<!-- /section4 -->
+			
+			
+			
+			<!-- section5 -->
+			<div class="mt20">
+				<h4><img src="images/choice/howto5_title.png" width="380" height="53" alt="5：火まわり・水まわりの基本機器を決める" /></h4>
+				<p class="mt10 tx14">多彩な機能やデザインから、火まわり・水まわりの基本となる機器をお選びください。</p>
+				<div class="ac mt20"><img src="images/choice/howto5_pic01.jpg" width="420" height="239" alt="" /></div>
+				<ul class="list01 mt30">
+					<li>
+						<h5><img src="images/choice/howto5_stitle01.png" width="199" height="25" alt="" /></h5>
+						<p class="mt10 h_auto">熱源をガスにするか、電気にするかを選びます。</p>
+						<div class="mt15"><img src="images/choice/howto5_pic02.jpg" width="199" height="123" alt="" /></div>
+					</li>
+					<li>
+						<h5><img src="images/choice/howto5_stitle02.png" width="199" height="25" alt="" /></h5>
+						<p class="mt10 h_auto">ホースがのびてお掃除がラクなシャワー水栓が人気です。</p>
+						<div class="mt15"><img src="images/choice/howto5_pic03.jpg" width="199" height="123" alt="" /></div>
+					</li>
+					<li class="mr0">
+						<h5><img src="images/choice/howto5_stitle03.png" width="199" height="25" alt="" /></h5>
+						<p class="mt10 h_auto">食器洗い乾燥機もさまざまなタイプをご用意しています。</p>
+						<div class="mt15"><img src="images/choice/howto5_pic04.jpg" width="199" height="123" alt="" /></div>
+					</li>
+				</ul>
+			</div>
+			<!-- /section5 -->
+			
+			
+			
+		</div>
+	</div>
+	
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad101&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

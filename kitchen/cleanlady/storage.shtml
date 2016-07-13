@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│周辺収納｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="storage">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　周辺収納</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/storage/title.png" width="700" height="34" alt="周辺収納" /></h3>
+		<div class="tx">
+			<p>
+				あなたの生活スタイルに合った、様々な収納をご用意しています。<br />
+				キッチンの扉カラーと揃えられるのでデザインも統一でき、スタイリッシュで機能的なキッチン空間を実現できます。
+			</p>
+		</div>
+		<div class="pic"><img src="images/storage/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<!-- intro -->
+	
+	
+	
+	<!-- cup -->
+	<div class="mt80">
+		<h4><img src="images/storage/cup_title.png" width="700" height="34" alt="カップボード／システムエリア収納" /></h4>
+		<div class="cl mt40">
+			<div class="fl w270"><img src="images/storage/cup_pic01.jpg" width="270" height="355" alt="" /></div>
+			<div class="fr w400">
+				<p class="tx14">食器や道具をひとまとめに、たっぷり収納できます。</p>
+			</div>
+		</div>
+		<div class="btn_up"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=142" target="_blank"><img src="images/btn_catalog.png" width="175" height="41" alt=" 詳しくはカタログを見る" /></a></div>
+	</div>
+	<!-- /cup -->
+	
+	
+	
+	<!-- counter -->
+	<div class="mt80">
+		<h4><img src="images/storage/counter_title.png" width="700" height="34" alt="フロアカウンター／ハイフロアカウンター" /></h4>
+		<div class="cl mt40">
+			<div class="fl w270"><img src="images/storage/counter_pic01.jpg" width="270" height="355" alt="" /></div>
+			<div class="fr w400">
+				<p class="tx14">作業の補助スペースとしての機能やキッチン小物を効率よく収納できる引出しタイプ。<br />吊戸棚と合わせて設置することもできます。</p>
+			</div>
+		</div>
+		<div class="btn_up"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=144" target="_blank"><img src="images/btn_catalog.png" width="175" height="41" alt=" 詳しくはカタログを見る" /></a></div>
+	</div>
+	<!-- /counter -->
+	
+	
+	
+	<!-- slide -->
+	<div class="mt80">
+		<h4><img src="images/storage/slide_title.png" width="700" height="34" alt="バーチカルスライド収納" /></h4>
+		<div class="cl mt40">
+			<div class="fl w270"><img src="images/storage/slide_pic01.jpg" width="270" height="355" alt="" /></div>
+			<div class="fr w400">
+				<p class="tx14">カウンターとして使え、来客時などはサッと隠すことができる上下スライド式の収納庫です。</p>
+			</div>
+		</div>
+		<div class="btn_up"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=147" target="_blank"><img src="images/btn_catalog.png" width="175" height="41" alt=" 詳しくはカタログを見る" /></a></div>
+	</div>
+	<!-- /counter -->
+	
+	
+	
+	<!-- storage -->
+	<div class="mt80">
+		<h4><img src="images/storage/storage_title.png" width="700" height="34" alt="収納庫" /></h4>
+		<div class="cl mt40">
+			<div class="fl w270"><img src="images/storage/storage_pic01.jpg" width="270" height="355" alt="" /></div>
+			<div class="fr w400">
+				<p class="tx14">小さな調味料類から、食材・ボトルまで食材を中心にたっぷり収納できます。</p>
+			</div>
+		</div>
+		<div class="btn_up"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=148" target="_blank"><img src="images/btn_catalog.png" width="175" height="41" alt=" 詳しくはカタログを見る" /></a></div>
+	</div>
+	<!-- /storage -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad110&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

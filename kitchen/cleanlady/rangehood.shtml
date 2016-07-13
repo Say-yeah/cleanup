@@ -1,0 +1,1017 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│レンジフード｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<!--　youtube用　-->
+<link href="/common/css/colorbox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/common/js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js"></script>
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+
+
+//youtube再生のクッキー処理
+
+if(!($.browser.msie && $.browser.version < 8)){
+//IE6,7では動作しません
+	$(document).ready(function(){
+		var docref = document.referrer;
+		//遷移元のURLを取得
+		var today = new Date().getDay();
+		//当日の日付を取得
+		
+		if(!(docref == "http://cleanup.jp/index.html" || docref == "http://cleanup.jp/" || docref == "http://cleanup.jp/kitchen/cleanlady/index.shtml" || docref == "http://cleanup.jp/kitchen/cleanlady/" || docref == "http://cleanup.jp/kitchen/cleanlady/stainless_sink.shtml")){
+		//以下、遷移元が指定URLと一致しない場合の処理
+			if($.cookie("pop-m04") != today){
+			//クッキー"pop-m04"の値が当日の日付と違う、或いはクッキー自体が無い場合は当日の日付を値にして設定し、
+				$.cookie("pop-m04", today, { expires: 1 });
+				//モーダルでのyoutube再生
+				$(".youtube").colorbox({
+			        iframe:true,
+			        innerWidth:780,
+					innerHeight:510,
+			        open:true,
+			        opacity: 0.25,
+			        fixed:true
+			    });
+			    VL_Send('pop-m04');
+			}
+		}
+	});
+}
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="rangehood">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　レンジフード</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/rangehood/title.png" width="700" height="34" alt="レンジフード" /></h3>
+		<div class="tx">
+			<p>
+				料理中に出る煙やニオイなどを排気するレンジフードも、デザイン性、機能性、清掃性がアップ。<br />
+				ご家庭にぴったりのレンジフードをお選びください。<br />
+				<br />
+				<span class="tx12">※表示価格は税抜き価格です。</span>
+			</p>
+		</div>
+		<div class="pic"><img src="images/rangehood/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<div class="btn_catalog"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=131" target="_blank"><img src="images/btn_spec.png" width="230" height="40" class="ov" alt="詳しい詳細はカタログを見る" /></a></div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- araeru -->
+	<div id="araeru" class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/rangehood/araeru_title.png" width="700" height="34" alt="洗エールレンジフード" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					業界初！ お湯をセットしてボタンを押すだけでフィルターとファンを自動洗浄。お掃除の悩みを解決しました。<br />
+					「洗える」だけじゃなく、節水・節電もできてお得です。平成26年度省エネ大賞「経済産業大臣賞」を受賞しました。
+				</p>
+				<div class="ac mt20"><img src="images/rangehood/araeru_intro_logo.png" width="244" height="105" alt="洗エールレンジフード" /></div>
+			</div>
+			<div class="pic"><img src="images/rangehood/araeru_intro_pic.jpg" width="350" height="280" alt="" /></div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<h5 class="bb_gr01 pb5 tx16">ボタン１つでフィルターとファンをまるごと自動洗浄</h5>
+			
+			<div class="cl mt20">
+				<div class="fl w330">
+					<h6 class="tx_rd01">3ステップの簡単お掃除</h6>
+					<table class="mt5">
+						<tr>
+							<td class="pr10 pb10"><img src="images/rangehood/araeru_feature_step01.png" width="47" height="17" alt="STEP1" /></td>
+							<td><p class="tx14 tx_lh12 pb10">給湯トレイにお湯（40～45℃）を入れて<br />本体にセット</p></td>
+						</tr>
+						<tr>
+							<td class="pr10 pb10"><img src="images/rangehood/araeru_feature_step02.png" width="47" height="17" alt="STEP2" /></td>
+							<td><p class="tx14 tx_lh12 pb10">洗浄ボタンを押すと集めた油汚れを<br />自動洗浄（約10分）</p></td>
+						</tr>
+						<tr>
+							<td class="pr10"><img src="images/rangehood/araeru_feature_step03.png" width="47" height="17" alt="STEP3" /></td>
+							<td><p class="tx14 tx_lh12">排水トレイの水を捨てる</p></td>
+						</tr>
+					</table>
+					<div class="mt30"><img src="images/rangehood/araeru_feature_pic01.png" width="325" height="341" alt="" /></div>
+					<p class="mt20">フィルターをファンと一体化させた新構造のファンフィルターをお湯で浸け置き洗い。お湯を掻き揚げる動作によって生じる水流を繰り返し衝突させることで汚れを除去。排水は排水トレイに溜まります。</p>
+				</div>
+				
+				<div class="fr w330">
+					<h6 class="tx_rd01">新構造のファンフィルターでラクラクお掃除</h6>
+					<p class="mt5">
+						フィルターとファンを一体化させた新構造のファンフィルターを搭載。ファンフィルターは、レンジフード内の油煙の流れをスムーズにし、油汚れを効率良く集めます。集めた油汚れは、自動洗浄でラクラクお掃除。洗エールレンジフードは、レンジフード内の汚れの約８割※を自動で洗浄できます。<br />
+						※メーカー試験条件による
+					</p>
+					<div class="mt20"><img src="images/rangehood/araeru_feature_pic02.png" width="287" height="237" alt="" /></div>
+					<h6 class="tx_rd01 mt40">約10年間、自動で洗エール</h6>
+					<p class="mt5">
+						給湯トレイにお湯（40～45℃）を入れて本体にセット。洗浄ボタンを押すとファンフィルターに集めた油汚れを自動洗浄。約月１回の洗浄で約10年間ファンフィルターを取り外さずにお掃除が可能です。<br />
+					</p>
+					<p class="ast mt10">※本体の洗浄ランプが点灯したら、必ずファンフィルターの自動洗浄をおこなってください。</p>
+					<p class="ast mt5">※自動洗浄は換気性能を維持するための機能であり、使用時間とともに若干の汚れは残ります。</p>
+					<p class="ast mt5">※10年間は、中運転での換気を１日あたり５時間運転させた場合の換気風量から算出した値です。また、常時換気をご使用の場合は、洗浄回数は月に２回程度となり、ファンフィルターの寿命は通常の約半分となります。油煙の発生量が多い場合、ホコリを吸い込みやすい場合など、調理状況や使用環境によってはファンフィルターの交換時期が短くなる場合があります。ファンフィルターを交換すれば引き続き自動洗浄をご使用できます。</p>
+				</div>
+			</div>
+			
+			<div class="mt40">
+				<h5 class="tx16 bb_gr01 pb5">「洗える」だけじゃなく、こんなにお得。</h5>
+				<h6 class="tx_rd01 mt20">自動洗浄でこんなにお得</h6>
+				<div class="mt10"><img src="images/rangehood/araeru_feature_pic03.png" width="700" height="241" alt="" /></div>
+				<p class="mt15 bb_gr01 pb10">※当社検証比（月に一度手洗いをした場合と月に一度洗エールレンジフードの自動洗浄を行った場合の実験データ）</p>
+				<div class="mt20 bg_gr01 pt10 pb10">
+					<div class="wrap670 cl">
+						<div class="fl"><img src="images/rangehood/araeru_feature_logo.png" width="173" height="53" alt="省エネナビでこんなにお得" /></div>
+						<p class="fr w470">エコ運転ボタンを押すだけで「調理センサー」が調理物の温度を検知し、自動的に換気風量を切り替えて省エネ運転。手動操作と比べると最大約55％※削減。一般的なシロッコファンのレンジフードと比べるとＬＥＤ照明と省エネモーターを含めて最大約86％※も消費電力を削減できます。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt40">
+				<h6 class="tx_rd01">風量を自動調整する省エネナビ</h6>
+				<div class="cl mt15">
+					<div class="fl w190">
+						<strong>エコランプが省エネナビ点灯</strong>
+						<div class="mt10"><img src="images/rangehood/araeru_feature_pic04.jpg" width="181" height="209" alt="" /></div>
+						<p class="mt5">ガスコンロとIHクッキング<br />ヒーターもどちらも対応</p>
+						<div class="mt10"><img src="images/rangehood/araeru_feature_pic05.jpg" width="90" height="77" alt="" /></div>
+						<p class="mt5">
+							<strong>省エネモーター(DC モーター)</strong><br />
+							消費電力はわずか5Ｗ。<br />
+							(常時換気時)発熱量が少なく長寿命。
+						</p>
+					</div>
+					<div class="fr">
+						<strong>揚げ物調理時の省エネナビ運転のイメージ</strong>
+						<div class="mt10"><img src="images/rangehood/araeru_feature_pic06.png" width="499" height="347" alt="" /></div>
+					</div>
+				</div>
+				<strong class="mt20 block tx_rd01">LED照明</strong>
+				<p>高輝度白色LEDにより消費電力は2灯でたったの５Ｗ。</p>
+				<div class="cl mt10">
+					<div class="fl"><img src="images/rangehood/araeru_feature_pic07.jpg" width="264" height="140" alt="" /></div>
+					<div class="fr w420">
+						<p class="ast">※メーカー調べによる標準的な４名家族世帯の１週間の標準的な料理メニューを１品ずつ調理した場合の数値です。<br />
+						・一般的なレンジフードはシロッコファン、ミニ電球、ACモーターを搭載。50Hz時の数値から算出。<br />
+						・加熱機器はIHクッキングヒーター（<a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=122" target="_blank">詳細は加熱機器の一覧ページを参照してください</a>）を使用した場合。<br />
+						</p>
+						<p class="ast mt5">※省エネ効果の数値は最大効果を表しており、調理内容、使用状況、加熱機器の種類によって数値が異なります。</p>
+						<p class="ast mt5">※レンジフードの電力消費量は、ダクト配管35ｍ相当時のものです。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt60">
+				<h5 class="tx16 bb_gr01 pb5">充実したバリエーション</h5>
+				
+				<div class="cl mt15">
+					<div class="fl w330">
+						<h6 class="tx_rd01">わずか35mmのスリムデザイン</h6>
+						<p>フード部が35mmのスリムデザイン。デザイン性の高いレンジフードです。</p>
+						<div class="mt15 ac"><img src="images/rangehood/araeru_feature_pic08.jpg" width="231" height="191" alt="" /></div>
+					</div>
+					<div class="fr w330">
+						<h6 class="tx_rd01">幅広いレイアウトに対応</h6>
+						<p>壁付けタイプに加え、センタータイプ、サイドタイプも登場。対面キッチンにも洗エールレンジフードをお選びいただけます。</p>
+						<div class="mt15">
+							<div class="fl"><img src="images/rangehood/araeru_feature_pic09.jpg" width="173" height="191" alt="" /></div>
+							<div class="fr w140">
+								<strong>扉面材で<br />
+								カラーコーディネート</strong>
+								<p class="mt5">対面タイプの洗エールは、キッチン扉と同じ幕板を選ぶことができます。統一されたカラーコーディネートにより、デザイン性の高いキッチン空間を演出します。</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="cl mt30">
+					<div class="fl mr30">
+						<strong class="tx12">センタータイプ</strong>
+						<div class="mt10"><img src="images/rangehood/araeru_feature_pic10.jpg" width="173" height="237" alt="" /></div>
+					</div>
+					<div class="fl">
+						<strong class="tx12">サイドタイプ</strong>
+						<div class="mt10"><img src="images/rangehood/araeru_feature_pic11.jpg" width="173" height="237" alt="" /></div>
+					</div>
+				</div>
+				
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+		
+			<div class="cl">
+				<h4 class="tx16 fl">壁付けタイプ</h4>
+				<p class="fr">※本体価格には幕板・ダクトカバー等の部材価格は含まれておりません。</p>
+			</div>
+			
+			<!-- list -->
+			<table class="item_list pd4" width="100%">
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10" width="120">タイプ</th>
+					<td colspan="2" class="ac posr pt10 pb10"><h5>洗エールレンジフード</h5><div class="posa" style="right:10px; top:7px;"><img src="images/icon_eco.png" width="28" height="28" alt="" /></div></td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac">
+						<div><img src="images/rangehood/araeru_spec_pic01.jpg" width="216" height="155" alt="" /></div>
+						<p class="ac mt10 tx14">（鋼板前幕板タイプ）</p>
+					</td>
+					<td class="ac">
+						<div><img src="images/rangehood/araeru_spec_pic03.jpg" width="216" height="155" alt="" /></div>
+						<p class="ac mt10 tx14">（鋼板前幕板タイプ）</p>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />60cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>―</strong></td>
+					<td class="ac bb_1px"><strong>ZRS60ABF13<span class="tx_rd01">MSZ</span></strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">―</td>
+					<td class="ac">￥178,000</td>
+				</tr>
+				
+				<tr>
+					<th rowspan="2" class="br">間口<br />75cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS75ABF12<span class="tx_rd01">MWZ</span></strong></td>
+					<td class="ac bb_1px"><strong>ZRS75ABF12<span class="tx_rd01">MSZ</span></strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">￥183,000</td>
+					<td class="ac">￥183,000</td>
+				</tr>
+				
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90ABF12<span class="tx_rd01">MWZ</span></strong></td>
+					<td class="ac bb_1px"><strong>ZRS90ABF12<span class="tx_rd01">MSZ</span></strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">￥198,000</td>
+					<td class="ac">￥198,000</td>
+				</tr>
+				
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="2" class="ac">
+						<div class="mt10"><img src="images/rangehood/araeru_spec_pic02.png" width="521" height="69" alt="" /></div>
+						<p class="ast mt10 al pl25 tx14">※残置運転はレンジフード連動タイプの調理器具との組み合わせ時のみ</p>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">備考</th>
+					<td colspan="2" class="al pl10">
+						<p class="tx14">
+							● 前幕板、横幕板などは別途<br />
+							● 間口60cmに化粧幕板、同時給排気の設定はありません。
+						</p>
+					</td>
+				</tr>
+			</table>
+			<!-- /list -->
+			
+			<div class="cl mt30">
+				<div class="fl mr30">
+					<h5 class="tx_rd01">化粧幕板</h5>
+					<div class="mt5"><img src="images/rangehood/araeru_spec_pic05.jpg" width="185" height="153" alt="" /></div>
+					<p class="mt10">扉面材（本体色ホワイトの場合）</p>
+				</div>
+				<div class="fl">
+					<h5 class="tx_rd01">同時給排気</h5>
+					<div class="mt5"><img src="images/rangehood/araeru_spec_pic06.jpg" width="185" height="153" alt="" /></div>
+					<p class="mt10">ホワイト</p>
+				</div>
+			</div>
+		
+			<div class="cl mt60">
+				<h4 class="tx16 fl">対面タイプ</h4>
+				<p class="fr">※本体価格には幕板・ダクトカバー等の部材価格は含まれておりません。</p>
+			</div>
+			
+			<!-- list -->
+			<table class="item_list pd4" width="100%">
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10" width="120">タイプ</th>
+					<td colspan="2" class="ac posr pt10 pb10"><h5>洗エールレンジフード　サイドタイプ</h5><div class="posa" style="right:10px; top:7px;"><img src="images/icon_eco.png" width="28" height="28" alt="" /></div></td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac"><img src="images/rangehood/araeru_spec_pic07.jpg" width="216" height="155" alt="" /></td>
+					<td class="ac"><img src="images/rangehood/araeru_spec_pic09.jpg" width="216" height="155" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90KBG12<span class="tx_rd01">MWZ</span></strong></td>
+					<td class="ac bb_1px"><strong>ZRS90KBG12<span class="tx_rd01">MSZ</span></strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">￥230,000</td>
+					<td class="ac">￥230,000</td>
+				</tr>
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="2" class="ac">
+						<div class="mt10"><img src="images/rangehood/araeru_spec_pic08.png" width="521" height="69" alt="" /></div>
+						<p class="ast mt10 al pl25 tx14">※残置運転はレンジフード連動タイプの調理器具との組み合わせ時のみ</p>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">備考</th>
+					<td colspan="2" class="al pl10">
+						<p class="tx14">
+							● サイドタイプとセンタータイプは、お選びいただく部材によって機種が変わります。（本体は共通）<br />
+							● ダクトカバー・扉面材などは別途
+						</p>
+					</td>
+				</tr>
+			</table>
+			<!-- /list -->
+			
+			<!-- list -->
+			<table class="item_list pd4 mt30" width="100%">
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10" width="120">タイプ</th>
+					<td colspan="2" class="ac posr pt10 pb10"><h5>洗エールレンジフード　センタータイプ</h5><div class="posa" style="right:10px; top:7px;"><img src="images/icon_eco.png" width="28" height="28" alt="" /></div></td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac"><img src="images/rangehood/araeru_spec_pic11.jpg" width="216" height="155" alt="" /></td>
+					<td class="ac"><img src="images/rangehood/araeru_spec_pic13.jpg" width="216" height="155" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90KBG12<span class="tx_rd01">MWZ</span></strong></td>
+					<td class="ac bb_1px"><strong>ZRS90KBG12<span class="tx_rd01">MSZ</span></strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">￥230,000</td>
+					<td class="ac">￥230,000</td>
+				</tr>
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="2" class="ac">
+						<div class="mt10"><img src="images/rangehood/araeru_spec_pic08.png" width="521" height="69" alt="" /></div>
+						<p class="ast mt10 al pl25 tx14">※残置運転はレンジフード連動タイプの調理器具との組み合わせ時のみ</p>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">備考</th>
+					<td colspan="2" class="al pl10">
+						<p class="tx14">
+							● サイドタイプとセンタータイプは、お選びいただく部材によって機種が変わります。（本体は共通）<br />
+							● ダクトカバー・扉面材などは別途
+						</p>
+					</td>
+				</tr>
+			</table>
+			<!-- /list -->
+			
+			<div class="cl mt30">
+				<div class="fl mr30">
+					<h5 class="tx_rd01">化粧幕板（センタータイプ）</h5>
+					<div class="mt5"><img src="images/rangehood/araeru_spec_pic15.jpg" width="185" height="153" alt="" /></div>
+					<p class="mt10">扉面材（本体色ホワイトの場合）</p>
+				</div>
+				<div class="fl">
+					<h5 class="tx_rd01">化粧幕板（サイドタイプ）</h5>
+					<div class="mt5"><img src="images/rangehood/araeru_spec_pic16.jpg" width="185" height="153" alt="" /></div>
+					<p class="mt10">扉面材（本体色ホワイトの場合）</p>
+				</div>
+			</div>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- /araeru -->
+	
+	
+	
+	<!-- clean hood -->
+	<div id="clean_hood" class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/rangehood/cleanfood_title.png" width="700" height="34" alt="とってもクリンフード" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					フィルターをステンレス製のプレートにすることで、お手入れがとても簡単になりました。
+				</p>
+				<div class="ac mt60"><img src="images/rangehood/cleanfood_intro_logo.png" width="239" height="100" alt="とってもクリンフード" /></div>
+			</div>
+			<div class="pic">
+				<div><img src="images/rangehood/cleanfood_intro_pic.jpg" width="350" height="280" alt="" /></div>
+				<p class="mt5">ステンレスタイプ</p>
+			</div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			
+			<div class="cl">
+				<div class="fl w330">
+					<h5 class="tx_rd01 bb_gr01 pb5">立体構造フィルター</h5>
+					<p class="mt10">「リーフプレート」を使った立体構造のフィルターは、従来のフィルターと同等の油捕集性能を持っています。整流板から急速に入り込んだ油煙が立体構造フィルター内の空間で衝突し合い乱流が発生。乱流によって油分やホコリが油煙から飛び出し、「リーフプレート」などで捕集します。</p>
+					<div class="mt10"><img src="images/rangehood/cleanfood_feature_pic01.jpg" width="262" height="177" alt="" /></div>
+				</div>
+				<div class="fr w330 bg_gr01 pt10 pb10 pl10 pr10 posr">
+					<div class="posa" style="right:10px;"><img src="images/rangehood/cleanfood_feature_logo01.png" width="71" height="26" alt="美コート" /></div>
+					<h5 class="tx_rd01 tx_lh10">美コート<br /><span class="tx12">（親水性のセラミック系特殊コーティング）</span></h5>
+					<p class="mt10">ステンレス仕様のリーフプレートには、美コート（親水性のセラミック系特殊コーティング）が施されています。美コートは水に馴染みやすい性質があるので、汚れの下に水が入り込み、汚れを浮かします。これによりしつこい油汚れやホコリも落としやすくなりました。</p>
+					<div class="mt15 ac"><img src="images/rangehood/cleanfood_feature_pic02.png" width="240" height="126" alt="" /></div>
+					<p class="ast mt15">※美コート（親水性のセラミック系特殊コーティング）は当社試験条件で10年相当の耐久性を確認しております。</p>
+				</div>
+			</div>
+			
+			<div class="cl mt30">
+				<div class="fl w330 posr">
+					<div class="posa" style="right:0; top:0;"><img src="images/rangehood/cleanfood_feature_logo01.png" width="59" height="22" alt="美コート" /></div>
+					<h5 class="tx_rd01 bb_gr01 pb5">リーフプレート</h5>
+					<p class="mt10">美コートを施した「リーフプレート」は一般的なフィルターと異なりオーバルのプレート形状なので、歯ブラシなどを使うことなく、お皿を洗うようにスポンジで簡単に汚れを落とせます。</p>
+					<div class="mt10 ac"><img src="images/rangehood/cleanfood_feature_pic03.jpg" width="262" height="177" alt="" /></div>
+				</div>
+				<div class="fr w330">
+					<h5 class="tx_rd01 bb_gr01 pb5">LED照明</h5>
+					<p class="mt10">LED照明は省エネ長寿命。消費電力はわずか3.5W。</p>
+					<div class="mt60 ac"><img src="images/rangehood/cleanfood_feature_pic04.jpg" width="262" height="177" alt="" /></div>
+				</div>
+			</div>
+			
+			<div class="mt30">
+				<h5 class="tx_rd01 bb_gr01 pb5">従来フィルターとのお掃除比較</h5>
+				<div class="posr mt20">
+					<img src="images/rangehood/cleanfood_feature_pic05.png" width="462" height="227" alt="" />
+					<p class="posa w210" style="right:0; bottom:0;">
+						※当社検証比（月に一度手洗いをした場合の実験データ。お使いの使用環境やお掃除方法によって異なります。）<br />
+						※一般的なフィルターは、穴に詰まった油汚れを除去しやすくするために浸け置きしていますが、リーフプレートは油汚れの詰まりがないので、浸け置きせずに洗い流しています。
+					</p>
+				</div>
+			</div>
+			
+			<div class="bg_gr01 pt30 pb30 mt60">
+				<div class="wrap660">
+					<h5 class="tx16 tx_rd01 bb_gr01 pb5">プレミアムモデル専用機能</h5>
+					<div class="cl mt15">
+						<div class="w310 fl">
+							<h5 class="tx_rd01">お手入れサイン</h5>
+							<p class="mt5">忘れやすいお手入れ時期をお知らせしてくれるサポート機能を搭載しました。</p>
+							<div class="mt20 ac"><img src="images/rangehood/cleanfood_feature_pic06.jpg" width="233" height="139" alt="" /></div>
+						</div>
+						<div class="w310 fr">
+							<h5 class="tx_rd01">ワンタッチ着脱ファン搭載</h5>
+							<p class="mt5">ファンのツマミに設けた取り外しボタンを押すだけで簡単に着脱できるワンタッチ着脱機構を搭載しました。</p>
+							<div class="mt20 ac"><img src="images/rangehood/cleanfood_feature_pic07.jpg" width="233" height="139" alt="" /></div>
+						</div>
+					</div>
+					
+					<div class="posr">
+						<h5 class="tx_rd01 mt30">エコラン&reg; 運転</h5>
+						<p class="mt5">省エネモーター（DCモーター）に加え、「エコラン<span class="tx10">&#9415;</span>運転」制御を搭載することで消費電力を低減しました。</p>
+						<div class="posa" style="right:0; bottom:0;"><img src="images/rangehood/cleanfood_feature_pic10.png" width="41" height="34" alt="エコラン" /></div>
+					</div>
+					
+					<div class="cl mt15">
+						<div class="fl bg_wh pt15 pb15 pl10 pr10 w170">
+							<div><img src="images/rangehood/cleanfood_feature_pic08.png" width="160" height="44" alt="エコラン運転" /></div>
+							<p class="mt15">間欠的な低出力運転とファンの慣性運転により消費電力を最大約7％（※1）低減しながら通常の運転時と同等の風量を確保します。</p>
+						</div>
+						<div class="fr">
+							<h6>通常の運転時と同等の風量を確保！</h6>
+							<div class="mt10"><img src="images/rangehood/cleanfood_feature_pic09.png" width="439" height="125" alt="" /></div>
+						</div>
+					</div>
+					<p class="mt20">
+						※1 エコランの効果は機種によって異なります。<br />
+						※「強」「中」運転時にのみ自動でエコラン<span class="tx10">&#9415;</span>運転となります。<br />
+						※エコランは富士工業（株）の登録商標です。
+					</p>
+				</div>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+			<div class="cl">
+				<h4 class="tx16 fl">壁付けタイプ</h4>
+				<p class="fr">※本体価格には幕板・ダクトカバー等の部材価格は含まれておりません。</p>
+			</div>
+			
+			<!-- list -->
+			<table class="item_list pd4" width="100%">
+				<tr>
+					<th colspan="2" width="120">写真</th>
+					<td colspan="3" class="pl30 pt20">
+						<div class="cl">
+							<div class="fl mr30">
+								<div><img src="images/rangehood/cleanfood_spec_pic01.jpg" width="215" height="155" alt="" /></div>
+								<p class="ac tx14 mt5">ホワイト<br />（鋼板前幕板タイプ）</p>
+							</div>
+							<div class="fl">
+								<div><img src="images/rangehood/cleanfood_spec_pic02.jpg" width="215" height="155" alt="" /></div>
+								<p class="ac tx14 mt5">シルバー<br />（鋼板前幕板タイプ）</p>
+							</div>
+							<div class="fl mr15 mt10">
+								<div><img src="images/rangehood/cleanfood_spec_pic03.jpg" width="215" height="155" alt="" /></div>
+								<p class="ac tx14 mt5">ステンレス<br />（ステンレス前幕板タイプ）</p>
+							</div>
+						</div>
+						<p class="ast tx12 mt10">※写真はプレミアムモデルです。「とってもクリンフード」と「とってもクリンフード プレミアムモデル」では<br />スイッチ部が異なります。</p>
+					</td>
+				</tr>
+				
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10">タイプ</th>
+					<td colspan="3" class="ac posr pt10 pb10">
+						<h5>とってもクリンフード</h5>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+					<td class="ac"><strong>ステンレス</strong></td>
+				</tr>
+				
+				<tr>
+					<th rowspan="2" class="br">間口<br />75cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS75ABH14<span class="tx_rd01">FW</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS75ABH14<span class="tx_rd01">FS</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>―</strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac"><strong>￥113,000</strong></td>
+					<td class="ac"><strong>￥113,000</strong></td>
+					<td class="ac"><strong>―</strong></td>
+				</tr>
+				
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90ABH14<span class="tx_rd01">FW</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS90ABH14<span class="tx_rd01">FS</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS90ABH14<span class="tx_rd01">FU</span>（R・L）</strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac"><strong>￥128,000</strong></td>
+					<td class="ac"><strong>￥128,000</strong></td>
+					<td class="ac"><strong>￥148,000</strong></td>
+				</tr>
+				
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="3" class="ac"><img src="images/rangehood/cleanfood_spec_pic04.png" width="521" height="44" alt="" /></td>
+				</tr>
+				
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10">タイプ</th>
+					<td colspan="3" class="ac posr pt10 pb10">
+						<h5>とってもクリンフード　プレミアムモデル</h5>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+					<td class="ac"><strong>ステンレス</strong></td>
+				</tr>
+				
+				<tr>
+					<th rowspan="2" class="br">間口<br />75cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS75ABJ14<span class="tx_rd01">FW</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS75ABJ14<span class="tx_rd01">FS</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>―</strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac"><strong>￥150,000</strong></td>
+					<td class="ac"><strong>￥150,000</strong></td>
+					<td class="ac">―</td>
+				</tr>
+				
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90ABJ14<span class="tx_rd01">FW</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS90ABJ14<span class="tx_rd01">FS</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS90ABJ14<span class="tx_rd01">FU</span>（R・L）</strong></td>
+				</tr>
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac"><strong>￥165,000</strong></td>
+					<td class="ac"><strong>￥165,000</strong></td>
+					<td class="ac"><strong>￥185,000</strong></td>
+				</tr>
+				
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="3" class="ac"><img src="images/rangehood/cleanfood_spec_pic05.png" width="521" height="69" alt="" /></td>
+				</tr>
+				
+				<tr>
+					<th colspan="2">備考</th>
+					<td colspan="3" class="pl20">
+						<p class="tx14 mt5">● 前幕板、横幕板などは別途</p>
+						<div class="cl mt15">
+							<div class="fl mr20">
+								<strong class="tx16 tx_lh13">とってもクリンフード<br />スイッチ　</strong>
+								<div class="mt5"><img src="images/rangehood/cleanfood_spec_pic06.jpg" width="256" height="37" alt="" /></div>
+							</div>
+							<div class="fl">
+								<strong class="tx16 tx_lh13">とってもクリンフード<br />プレミアムモデル　スイッチ　</strong>
+								<div class="mt5"><img src="images/rangehood/cleanfood_spec_pic07.jpg" width="256" height="37" alt="" /></div>
+							</div>
+						</div>
+						<div class="cl mt20">
+							<div class="fl mr40">
+								<h5 class="tx_rd01">化粧幕板</h5>
+								<div class="mt5"><img src="images/rangehood/cleanfood_spec_pic08.jpg" width="215" height="155" alt="" /></div>
+								<p class="mt5 tx16">扉面材（本体色ホワイトの場合）</p>
+							</div>
+							<div class="fl mr40">
+								<h5 class="tx_rd01">同時給排気</h5>
+								<div class="mt5"><img src="images/rangehood/cleanfood_spec_pic09.jpg" width="215" height="155" alt="" /></div>
+								<p class="mt5 tx16">ホワイト</p>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</table>
+			<!-- /list -->
+			
+			<div class="cl mt60">
+				<h4 class="tx16 fl">対面タイプ</h4>
+				<p class="fr">※本体価格には幕板・ダクトカバー等の部材価格は含まれておりません。</p>
+			</div>
+			
+			<!-- list -->
+			<table class="item_list pd4" width="100%">
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10" width="120">タイプ</th>
+					<td colspan="2" class="ac posr pt10 pb10">
+						<h5>とってもクリンフード　プレミアムモデル　サイドタイプ</h5>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac"><img src="images/rangehood/cleanfood_spec_pic10.jpg" width="215" height="155" alt="" /></td>
+					<td class="ac"><img src="images/rangehood/cleanfood_spec_pic12.jpg" width="216" height="155" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90SBK14<span class="tx_rd01">FW</span>（R・L）</strong></td>
+					<td class="ac bb_1px"><strong>ZRS90SBK14<span class="tx_rd01">FS</span>（R・L）</strong></td>
+				</tr> 
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">￥190,000</td>
+					<td class="ac">￥190,000</td>
+				</tr>
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="2" class="ac">
+						<div class="mt10 mb10"><img src="images/rangehood/cleanfood_spec_pic11.png" width="521" height="94" alt="" /></div>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">備考</th>
+					<td colspan="2" class="al pl10">
+						<p class="tx14">● ダクトカバーは別途</p>
+					</td>
+				</tr>
+			</table>
+			<!-- /list -->
+			
+			<!-- list -->
+			<table class="item_list pd4 mt30" width="100%">
+				<tr class="bg_pk01 posr">
+					<th colspan="2" class="pt10 pb10" width="120">タイプ</th>
+					<td colspan="2" class="ac posr pt10 pb10">
+						<h5>とってもクリンフード　プレミアムモデル　センタータイプ</h5>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac"><img src="images/rangehood/cleanfood_spec_pic14.jpg" width="215" height="155" alt="" /></td>
+					<td class="ac"><img src="images/rangehood/cleanfood_spec_pic16.jpg" width="215" height="155" alt="" /></td>
+				</tr>
+				<tr>
+					<th colspan="2">色</th>
+					<td class="ac"><strong>ホワイト</strong></td>
+					<td class="ac"><strong>シルバー</strong></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">間口<br />90cm</th>
+					<th class="bb_1px ac">品 名</th>
+					<td class="ac bb_1px"><strong>ZRS90CBL14<span class="tx_rd01">FWZ</span></strong></td>
+					<td class="ac bb_1px"><strong>ZRS90CBL14<span class="tx_rd01">FSZ</span></strong></td>
+				</tr> 
+				<tr class="bg_gr02">
+					<th class="nr ac tx_lh10">価 格<br /><span class="tx10">(本体のみ)</span></th>
+					<td class="ac">￥240,000</td>
+					<td class="ac">￥240,000</td>
+				</tr>
+				<tr>
+					<th colspan="2">主な機能</th>
+					<td colspan="2" class="ac">
+						<div class="mt10 mb10"><img src="images/rangehood/cleanfood_spec_pic11.png" width="521" height="94" alt="" /></div>
+					</td>
+				</tr>
+				<tr>
+					<th colspan="2">備考</th>
+					<td colspan="2" class="al pl10">
+						<p class="tx14">● ダクトカバーは別途</p>
+					</td>
+				</tr>
+			</table>
+			<!-- /list -->
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- /clean hood -->
+	
+	
+	
+	<!-- function -->
+	<div class="mt40">
+		<div class="bb_gr01 pb10"><img src="images/label_option.png" width="79" height="20" alt="OPTION" title="OPTION"></div>
+		<div class="cl mt15">
+			<div class="fl w500">
+				<h5 class="tx_rd01">ワイヤレスリモコン（別売）</h5>
+				<p class="mt10">離れた場所からリモコンでラクラク操作。スイッチのON・OFFはもちろん、風量の調節やタイマー操作も可能です。</p>
+				<strong class="block mt10 tx_lh12">ZZRMC-06<br />￥3,800</strong>
+				<p class="mt10">
+					洗エールレンジフード（全タイプ）<br />
+					とってもクリンフード（全タイプ）<br />
+					Sタイプレンジフード（全タイプ）<br>
+					フェデリカ
+				</p>
+			</div>
+			<div class="fr mr30"><img src="images/rangehood/function_pic01.jpg" width="139" height="153" alt="" /></div>
+		</div>
+		<p class="ast mt10">※一部の機能はリモコンスイッチでは操作できませんので、ご注意ください。</p>
+		
+		<h5 class="mt50">レンジフードの主な機能紹介</h5>
+		<div class="bg_gr02 mt15 pt20 pb20">
+			<ul class="wrap670 ul_fl fix_h">
+				<li class="w320 mr20 mb15">
+					<div><img src="images/rangehood_label01.png" width="126" height="20" alt="" /></div>
+					<p class="mt5">気密性の高い現代の住宅では、汚れた空気や湿気、臭いなどがたまりがち。1時間に約100&#13221;と、少しずつ静かに換気をおこなう常時換気モードが、24時間運転します。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/rangehood_label03.png" width="126" height="20" alt="" /></div>
+					<p class="mt5">静圧が高く、外風に影響されやすい場所やダクト排気を行う場合に適します。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/rangehood_label05.png" width="126" height="20" alt="" /></div>
+					<p class="mt5">リング状のフィルターと専用のシロッコファンを一体化した構造。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/rangehood_label06.png" width="126" height="20" alt="" /></div>
+					<p class="mt5">
+						コンロをつけると前面から赤外線を発信してレンジフードを自動的に運転します。コンロを切るとしばらく換気をした後にレンジフードは自動的にストップします。コンロにはレンジフードの操作スイッチも付いていますのでレンジフードのスイッチに手が届きにくい方も快適に使える便利な機能です。<br />
+						※コンロはレンジフード連動機能付き機種とセットでお選びください。
+					</p>
+				</li>
+			</ul>
+		</div>
+		
+		<table width="100%" class="mt30">
+			<tr>
+				<td class="bg_gr03 ac vm pr20 pl20"><strong class="tx14 tx_wh">長期使用製品<br />安全表示制度について</strong></td>
+				<td class="pl15">
+					<div class="cl">
+						<p class="fl">●制度の概要／</p>
+						<p class="fl w410 tx_lh13">経年劣化による重大事故の発生率は高くないものの、長期間の使用が想定される製品について、設計上の標準使用期間と経年劣化についての注意喚起等の表示が義務づけられ、使用者に注意をうながす制度です。</p>
+					</div>
+					<p class="mt5">●対象製品／換気扇（レンジフード）</p>
+					<p><a href="http://cleanup.jp/important/long-use.shtml" target="_blank" class="tx_bl01">「長期仕様製品　安全点検制度・安全表示制度」施行のお知らせでご確認ください。</a></p>
+				</td>
+			</tr>
+		</table>
+		
+		<div class="cl mt30">
+			<div class="fl mr15"><img src="images/icon_eco.png" width="33" height="33" alt="ECO" /></div>
+			<p class="fl">省エネ・節約・環境配慮などの観点から優れた商品として、<br />クリナップが特にお勧めする推奨機器のマークです。</p>
+		</div>
+	</div>
+	<!-- /function -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad119&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- youtube再生用のリンク -->
+<a href="https://www.youtube.com/embed/nJgybVsUDAw?autoplay=1&rel=0" class="youtube" title="" style="display:none;">YouTube</a>
+</body>
+</html>

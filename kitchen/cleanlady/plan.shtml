@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│プランバリエーション｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+<script type="text/javascript" src="js/plan.js"></script>
+
+</head>
+
+<body id="plan">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　プランバリエーション</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+		<div id="mainvisual">
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan01_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan01.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan02_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan02.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan03_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan03.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan04_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan04.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan05_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan05.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan06_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan06.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan07_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan07.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan08_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan08.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan09_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan09.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan10_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan10.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan11_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan11.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan12_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan12.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan13_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan13.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan14_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan14.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan15_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan15.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan16_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan16.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan17_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan17.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan18_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan18.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan19_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan19.jpg" width="700" height="460" alt="" /></div>
+			</div>
+			<div>
+				<div class="btn"><a href="javascript:void(0);"><img src="images/plan/btn_detail.gif" width="170" height="26" class="ov" alt="" /></a></div>
+				<div class="detail"><img src="images/plan/plan20_detail.png" width="490" height="460" alt="" /></div>
+				<div class="pic"><img src="images/plan/plan20.jpg" width="700" height="460" alt="" /></div>
+			</div>
+		</div>
+		
+		<ul id="thumb">
+			<li><a href="javascript:void(0);"><img src="images/plan/plan01_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan02_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan03_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan04_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan05_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan06_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan07_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li class="mr0"><a href="javascript:void(0);"><img src="images/plan/plan08_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan09_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan10_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan11_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan12_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan13_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan14_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan15_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li class="mr0"><a href="javascript:void(0);"><img src="images/plan/plan16_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan17_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan18_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan19_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+			<li><a href="javascript:void(0);"><img src="images/plan/plan20_thumb.jpg" width="70" height="67" class="ov" alt="" /></a></li>
+		</ul>
+		
+		<div class="btn_up"><a href="simulation.shtml"><img src="images/btn_simulation.png" width="173" height="40" class="ov" alt="カラーシミュレーション" /></a></div>
+		
+		<div class="info">
+			<div class="note_left">クリックすると写真が切り替わります。</div>
+			<div class="note_right">※表示価格は税抜き価格です。</div>
+		</div>
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad104&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

@@ -1,0 +1,673 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│ステンレスシンク｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<!--　youtube用　-->
+<link href="/common/css/colorbox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/common/js/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js"></script>
+
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+
+
+//youtube再生のクッキー処理
+
+if(!($.browser.msie && $.browser.version < 8)){
+//IE6,7では動作しません
+	$(document).ready(function(){
+		var docref = document.referrer;
+		//遷移元のURLを取得
+		var today = new Date().getDay();
+		//当日の日付を取得
+		
+		if(!(docref == "http://cleanup.jp/" || docref == "http://cleanup.jp/index.html" || docref == "http://cleanup.jp/kitchen/cleanlady/index.shtml" || docref == "http://cleanup.jp/kitchen/cleanlady/"|| docref == "http://cleanup.jp/kitchen/cleanlady/rangehood.shtml")){
+		//以下、遷移元が指定URLと一致しない場合の処理
+			if($.cookie("pop-m03") != today){
+			//クッキー"pop-m03"の値が当日の日付と違う、或いはクッキー自体が無い場合は当日の日付を値にして設定し、
+				$.cookie("pop-m03", today, { expires: 1 });
+				//モーダルでのyoutube再生
+				$(".youtube").colorbox({
+			        iframe:true,
+			        innerWidth:780,
+					innerHeight:510,
+			        open:true,
+			        opacity: 0.25,
+			        fixed:true
+			    });
+			    VL_Send('pop-m03');
+			}
+		}
+	});
+}
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="stainless_sink">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　ステンレスシンク</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/stainless_sink/title.png" width="700" height="34" alt="ステンレスシンク" /></h3>
+		<div class="tx">
+			<p>
+				図書館並みの静かさで、お手入れ簡単な「美・サイレントシンク」に使用後のひと手間をスッキリ解決してくれる新たな機能を追加した「流レールシンク」。<br />
+				ステンレスワークトップだけでなく、アクリストン（人工大理石）ワークトップにも組み合わせることができます。
+			</p>
+		</div>
+		<div class="pic"><img src="images/stainless_sink/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- ng -->
+	<div id="nagareru" class="mt30">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/stainless_sink/nr_title.png" width="700" height="34" alt="流レールシンク" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					お料理中などで使う水が野菜くずや油汚れを集めて、排水口へと流してくれる新水路構造。<br />
+					網カゴもお手入れしやすい一体成形。汚れとキズに強い美コート加工をしているので、いつもシンクがキレイに保てます。作業音も抑えるサイレント仕様です。
+				</p>
+				<div class="ac mt40"><img src="images/stainless_sink/nr_intro_logo.png" width="220" height="76" alt="流レールシンク" /></div>
+			</div>
+			<div class="pic"><img src="images/stainless_sink/nr_intro_pic.jpg" width="350" height="280" alt="" /></div>
+		</div>
+		
+		<!-- accordion / feature -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<h5 class="tx16 bb_gr01 pb5">シンクのキレイをお手伝い</h5>
+			
+			<div class="cl mt15">
+				<div class="fl w330">
+					<h6 class="tx_rd01">新発想の「流レール」が生みだす水流。</h6>
+					<p class="mt10">お料理中などに使う水が、ゴミや汚れを手前の「流レール」に集めながら流れます。「流レール」に入ったゴミは水流に押されて排水口に集まる仕組み。調理中からシンクをキレイに保つ主婦思いの機能です。</p>
+					<div class="mt5"><img src="images/stainless_sink/nr_feature_pic01.png" width="330" height="152" alt="" /></div>
+					<h6 class="tx_rd01 mt25">シンクと継ぎ目がないから清潔な排水口。</h6>
+					<p class="mt10">汚れやすい排水口をシンクと一体成形。継ぎ目がないのでお掃除がスムーズ。さらに美コート（親水性のセラミック系特殊コーティング）が汚れをガードします。</p>
+				</div>
+				<div class="fr w330">
+					<h6 class="tx_rd01"> 「クリン網カゴ」も、継ぎ目のない一体成形。</h6>
+					<p class="mt10">ゴミを受けとめ、汚れがちな網カゴも、もちろんステンレスの一体成形。シンクや排水口同様に美コートが施されているので、汚れを落しやすく、とっても清潔。</p>
+					<div class="mt5"><img src="images/stainless_sink/nr_feature_pic02.png" width="330" height="291" alt="" /></div>
+				</div>
+			</div>
+			
+			<div class="cl mt30">
+				<div class="fl"><img src="images/stainless_sink/nr_feature_pic03.jpg" width="343" height="186" alt="" /></div>
+				<div class="fr"><img src="images/stainless_sink/nr_feature_pic04.jpg" width="343" height="186" alt="" /></div>
+			</div>
+			
+			<div class="bg_gr02 pt20 pb20 mt50">
+				
+				<div class="wrap650">
+					<div class="cl">
+						<div class="fl">
+							<h6 class="tx16"> 美コート<br /><span class="tx10">（親水性のセラミック系特殊コーティング）</span></h6>
+							<div class="cl w300 mt15">
+								<p class="fl w150">水に馴染みやすい親水性セラミック系の特殊コーティング。汚れの下に水が入り込み、汚れを浮かします。油汚れ、水アカなどの落ちにくい汚れも落としやすくなりました。</p>
+								<div class="fr"><img src="images/stainless_sink/nr_feature_pic05.png" width="133" height="115" alt="" /></div>
+							</div>
+						</div>
+						<div class="fr w340">
+							<div class="ar"><img src="images/stainless_sink/nr_feature_pic06.png" width="336" height="132" alt="" /></div>
+							<p class="ast mt15">※美コート（親水性のセラミック系特殊コーティング）は当社試験条件で10年相当の耐久性を確認しております。</p>
+						</div>
+					</div>
+					<div class="cl bt_gr01 mt15">
+						<div class="fl w360 br_gr01 pt10">
+							<strong class="tx_rd01">油汚れの水洗い比較</strong>
+							<div class="mt15"><img src="images/stainless_sink/nr_feature_pic07.png" width="341" height="110" alt="" /></div>
+							<p class="ast mt10 ml20">左：実際のご家庭でお手入れをせずに1週間使用した<br />　クリンプレート</p>
+							<p class="ast mt5 ml20">右：油汚れを水洗いしたクリン網カゴ</p>
+						</div>
+						<div class="fr pt10">
+							<strong class="tx_rd01 ac">シンク全体をカバー</strong>
+							<div class="mt15 ac"><img src="images/stainless_sink/nr_feature_pic08.jpg" width="178" height="110" alt="" /></div>
+							<p class="mt10">排水口部分まで含めて全面に美コート加工。<br />シンク全体を美しく保ちます。</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt60">
+				<h5 class="tx16 bb_gr01 pb5">キズがつきにくく、目立たない</h5>
+				<div class="cl mt15">
+					<div class="fl w330 mr20">
+						<h6 class="tx_rd01">特殊エンボス加工</h6>
+						<p class="mt5">
+							シンク表面にエンボス加工を施すことにより、キズがつきにくく、キズがついても目立たなくなりました。<br />
+							※当社従来品のシンクとの比較
+						</p>
+					</div>
+					<div class="fl mt20 posr h150">
+						<img src="images/stainless_sink/nr_feature_pic09.jpg" width="288" height="124" alt="" />
+						<p class="posa ac tx11" style="bottom:0; left:0; width:130px;">［従来のシンク］</p>
+						<p class="posa ac tx11" style="bottom:0; right:0; width:130px;">「流レールシンク」</p>
+					</div>
+				</div>
+				<div class="cl mt20">
+					<div class="fl w330 mr20">
+						<p>シンク表面の特殊エンボス加工が、食器等とシンクが接する面を減少。こすれキズがつきにくく、目立ちにくくしています。</p>
+					</div>
+					<div class="fl posr h150">
+						<img src="images/stainless_sink/nr_feature_pic10.png" width="289" height="107" alt="" />
+						<p class="posa ac tx11" style="bottom:15px; left:0; width:130px;">従来のフラットなシンク</p>
+						<p class="posa ac tx11" style="bottom:0; right:0; width:140px;">特殊エンボス加工を施した<br />「流レールシンク」</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt60">
+				<h5 class="tx16 bb_gr01 pb5">お手入れカンタン</h5>
+				<div class="cl mt15">
+					<div class="fl w330 mr20">
+						<h6 class="tx_rd01">クリンラック</h6>
+						<p class="mt5">
+							高さを変えられる、便利な洗剤ラック。洗い物やシンクのお掃除の時は高い位置へ、シンクを広々使えるようになります。ラックの底面は外せるので、お掃除も簡単です。
+						</p>
+					</div>
+					<div class="fl mt20"><img src="images/stainless_sink/nr_feature_pic11.jpg" width="285" height="182" alt="" /></div>
+				</div>
+				<div class="cl mt30">
+					<div class="fl w330 mr20">
+						<p>継ぎ目が多く、汚れがちな洗剤ラックも、サッと外せて分解して洗えるのでお手入れラクラク。</p>
+						<div class="cl mt30">
+							<div class="fl"><img src="images/stainless_sink/nr_feature_pic12.png" width="163" height="213" alt="" /></div>
+							<div class="fl w160">
+								<p>
+									<strong>［従来の洗剤ラック］</strong><br />
+									縦横のワイヤーがクロスし重なった部分は、汚れがたまりやすくお手入れしにくい構造です。
+								</p>
+								<p class="mt30">
+									<strong>［クリンラック］</strong><br />
+									クロスした部分が外せる構造なのでスポンジで簡単にお手入れできます。
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="fl"><img src="images/stainless_sink/nr_feature_pic13.jpg" width="192" height="282" alt="" /></div>
+				</div>
+			</div>
+			
+			<div class="mt60">
+				<h5 class="tx16 bb_gr01 pb5">水音が静か</h5>
+				<p class="mt15">シンク裏の底面だけでなく側面にまで広がった制振構造。<br />水はね音などが抑えられますので会話を妨げられることがありません。</p>
+				<div class="cl mt20">
+					<div class="fl pt30"><img src="images/stainless_sink/nr_feature_pic14.png" width="324" height="226" alt="" /></div>
+					<div class="fr w330">
+						<div><img src="images/stainless_sink/nr_feature_pic15.png" width="318" height="266" alt="" /></div>
+						<p class="mt15">シャワー水栓から出る水道水がシンク表面にあたる音は、約60dB※1の騒音を立てていた従来のシンクに対して何と約40dB※2という静かさ。</p>
+						<p class="ast mt15">※1：当社試験条件による数値です。（シャワー水流：10&#8467;/分、500Hzでの比較）シャワー水栓から出る水道水がシンク表面にあたる音を測定しています。</p>
+						<p class="ast mt5">※2：当社のシンクでの比較です。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion / feature -->
+		
+		
+		
+		<!-- accordion / spec -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+		
+			<div class="cl">
+				<div class="fl w330">
+					<h5 class="bb_gr01 pb5">奥行65cm</h5>
+					<div class="ac mt20"><img src="images/stainless_sink/nr_spec_pic01.jpg" width="305" height="92" alt="" /></div>
+					<div class="cl bb_gr01 mt5 pb5">
+						<div class="fl w50p ac"><strong>SYシンク</strong></div>
+						<div class="fl w50p ac"><strong>SAシンク</strong></div>
+					</div>
+					<div class="cl bb_gr01 mt10 pb5">
+						<p class="fl w50p tx11">内寸：W60×D52×H18.5cm</p>
+						<p class="fl w50p tx11">内寸：W75×D52×H18.5cm</p>
+					</div>
+					<div class="cl mt10 pb5">
+						<p class="fl w50p tx11">対応間口：180～255cm</p>
+						<p class="fl w50p tx11">対応間口：225～300cm</p>
+					</div>
+				</div>
+				<div class="fr w330">
+					<h5 class="bb_gr01 pb5">奥行80・98cm</h5>
+					<div class="ac mt20"><img src="images/stainless_sink/nr_spec_pic02.jpg" width="311" height="92" alt="" /></div>
+					<div class="cl bb_gr01 mt5 pb5">
+						<div class="fl w50p ac"><strong>SYシンク</strong></div>
+						<div class="fl w50p ac"><strong>SAシンク</strong></div>
+					</div>
+					<div class="cl bb_gr01 mt10 pb5">
+						<p class="fl w50p tx11">内寸：W60×D52×H18.5cm</p>
+						<p class="fl w50p tx11">内寸：W75×D52×H18.5cm</p>
+					</div>
+					<div class="cl mt10 pb5">
+						<p class="fl w50p tx11">対応間口：203～263cm</p>
+						<p class="fl w50p tx11">対応間口：244～278cm</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="cl bb_gr01 pb10 mt50"><img src="images/label_option.png" width="79" height="20" alt="OPTION" title="OPTION"></div>
+			
+			<div class="cl mt20">
+				<div class="fl mr20"><img src="images/stainless_sink/nr_spec_pic03.jpg" width="189" height="135" alt="" /></div>
+				<div class="fl">
+					<h5 class="tx_rd01">クリンコーナー</h5>
+					<p class="mt5 w260">流レールシンクの排水口にジャストフィットするクリンコーナー。ステンレス製＋「美コート」で汚れに強く、簡単なお手入れでいつもキレイ。したたり落ちる汚れた水分は、そのまま排水口に入るのでシンクに広がりません。</p>
+				</div>
+			</div>
+			
+			<div class="btn_catalog"><a href="stainless_worktop.shtml"><img src="images/btn_stainless_worktop.png" width="234" height="40" class="ov" alt="ステンレスワークトップを見る" /></a></div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion / spec -->
+		
+	</div>
+	<!-- /ng -->
+	
+	
+	
+	<!-- silent -->
+	<div class="mt80">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/stainless_sink/bi_title.png" width="700" height="34" alt="美・サイレントシンク" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					図書館並の静かさを実現し、いつもキレイでお手入れ簡単なシンクです。<br />
+					美コートと特殊エンボス加工により、水汚れ、キズがつきにくい高機能シンク。家族が集まる時間をより心地よくする、美しく、静かなキッチンです。オプションでお選びいただけます。
+				</p>
+				<div class="ac mt40"><img src="images/stainless_sink/bi_intro_logo.png" width="231" height="86" alt="美・サイレントシンク" /></div>
+			</div>
+			<div class="pic"><img src="images/stainless_sink/bi_intro_pic.jpg" width="350" height="280" alt="" /></div>
+		</div>
+		
+		<!-- accordion / feature -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			
+			<div class="cl">
+				<div class="fl w330">
+					<h5 class="tx_rd01">クリンプレート</h5>
+					<p class="mt5">ヌルつきやすい排水口プレートもステンレス製なので、お手入れラクラク。シンクの表面と同様の美コートが施されているので、汚れがつきにくく、スッキリ落とせます。</p>
+					<div class="mt15 ac"><img src="images/stainless_sink/bi_feature_pic01.png" width="242" height="149" alt="" /></div>
+					<p class="mt20 ast">※実際のご家庭でお手入れをせず1週間使用した<br />クリンプレート。</p>
+				</div>
+				<div class="bg_gr02 w330 fr pt10 pb20">
+					<div class="w290 ma_auto">
+						<div class="mb5"><img src="images/bal_point.png" width="168" height="20" alt="こんなところも魅力！" /></div>
+						<strong>排水口</strong><br />
+						<p class="mt5">浅型の排水口なので、毎日手軽にお掃除できます。トラップ内の「防臭パイプ」がカンタンにはずせる新構造。スポンジでサッと洗えます。</p>
+						<div class="mt10"><img src="images/stainless_sink/bi_feature_pic02.jpg" width="285" height="152" alt="" /></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="bg_gr02 pt20 pb20 mt40">
+				<div class="cl wrap650">
+					<div class="fl">
+						<strong> 美コート<br /><span class="tx11">（親水性のセラミック系特殊コーティング）</span></strong>
+						<div class="cl mt10">
+							<p class="fl w150 mr15">水に馴染みやすい親水性セラミック系の特殊コーティング。汚れの下に水が入り込み、汚れを浮かします。油汚れ、水アカなどの落ちにくい汚れも落としやすくなりました。</p>
+							<div class="fr"><img src="images/stainless_sink/bi_feature_pic03.jpg" width="133" height="115" alt="" /></div>
+						</div>
+					</div>
+					<div class="fr w340">
+						<div class="ar"><img src="images/stainless_sink/bi_feature_pic04.png" width="335" height="130" alt="" /></div>
+						<p class="mt15 ast">※美コート（親水性のセラミック系特殊コーティング）は当社試験条件で10年相当の耐久性を確認しております。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt50">
+				<h5 class="tx16 bb_gr01 pb5">キズがつきにくく、目立たない</h5>
+				<h6 class="tx_rd01 mt15">特殊エンボス加工</h6>
+				<div class="cl mt5">
+					<p class="fl mr20 w330">シンク表面にエンボス加工を施すことにより、キズがつきにくく、キズがついても目立たなくなりました。<br />※当社従来品のシンクとの比較</p>
+					<div class="fl">
+						<div class="posr pb25">
+							<img src="images/stainless_sink/bi_feature_pic05.jpg" width="288" height="124" alt="" />
+							<p class="posa ac tx11" style="left:0; bottom:0; width:130px;">[従来のシンク]</p>
+							<p class="posa ar tx11" style="right:0; bottom:0; width:130px;">[美・サイレントシンク]</p>
+						</div>
+					</div>
+				</div>
+				<div class="cl mt5">
+					<p class="fl mr20 w330">シンク表面の特殊エンボス加工が、食器等とシンクが接する面を減少。こすれキズがつきにくく、目立ちにくくしています。</p>
+					<div class="fl">
+						<div class="posr pb40">
+							<img src="images/stainless_sink/bi_feature_pic06.png" width="289" height="107" alt="" />
+							<p class="posa ac tx11" style="left:0; bottom:15px; width:130px;">従来のフラットなシンク</p>
+							<p class="posa ac tx11" style="right:0; bottom:0; width:140px;">特殊エンボス加工を施した<br />美・サイレントシンク</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt50">
+				<h5 class="tx16 bb_gr01 pb5">お手入れカンタン</h5>
+				<h6 class="tx_rd01 mt15">クリンラック</h6>
+				<p>継ぎ目が多く、汚れがちな洗剤ラックも、サッと外せて分解して洗えるのでお手入れラクラク。</p>
+				<div class="cl mt20">
+					<div class="fl mr10"><img src="images/stainless_sink/bi_feature_pic07.png" width="146" height="91" alt="" /></div>
+					<p class="fl mr10 w160">
+						<strong>［従来の洗剤ラック］</strong><br />
+						縦横のワイヤーがクロスし重なった部分は、汚れがたまりやすくお手入れしにくい構造です。
+					</p>
+					<div class="fl mr20"><img src="images/stainless_sink/bi_feature_pic08.png" width="185" height="91" alt="" /></div>
+					<p class="fl w160">
+						<strong>［クリンラック］</strong><br />
+						クロスした部分が外せる構造なのでスポンジで簡単にお手入れできます。
+					</p>
+				</div>
+			</div>
+			
+			<div class="mt50">
+				<h5 class="tx16 bb_gr01 pb5">水音が静か</h5>
+				<p class="mt10">
+					シンク裏の底面だけでなく側面にまで広がった制振構造。<br />
+					水はね音などが抑えられますので会話を妨げられることがありません。
+				</p>
+				<div class="cl mt20">
+					<div class="fl pt30"><img src="images/stainless_sink/bi_feature_pic09.png" width="281" height="271" alt="" /></div>
+					<div class="fr w320">
+						<div><img src="images/stainless_sink/bi_feature_pic10.png" width="318" height="264" alt="" /></div>
+						<p class="mt20">シャワー水栓から出る水道水がシンク表面にあたる音は、約60dB※1の騒音を立てていた従来のシンクに対して何と約40dB※2という静かさ。</p>
+						<p class="mt10 ast">※1：当社試験条件による数値です。（シャワー水流：10&#8467;/分、500Hzでの比較）シャワー水栓から出る水道水がシンク表面にあたる音を測定しています。</p>
+						<p class="mt5 ast">※2：当社のシンクでの比較です。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion / feature -->
+		
+		<!-- accordion / spec -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+		
+			<div class="cl">
+				<div class="fl w330">
+					<h5 class="bb_gr01 pb5">奥行65cm</h5>
+					<div class="ac mt20"><img src="images/stainless_sink/bi_spec_pic01.jpg" width="322" height="100" alt="" /></div>
+					<div class="cl bb_gr01 mt5 pb5">
+						<div class="fl w50p ac"><strong>SVシンク</strong></div>
+						<div class="fl w50p ac"><strong>SKシンク</strong></div>
+					</div>
+					<div class="cl bb_gr01 mt10 pb5">
+						<p class="fl w50p tx11">内寸：W67×D52×H20.4cm</p>
+						<p class="fl w50p tx11">内寸：W82×D52×H21.5cm</p>
+					</div>
+					<div class="cl mt10 pb5">
+						<p class="fl w50p tx11">対応間口：195～270cm</p>
+						<p class="fl w50p tx11">対応間口：255～300cm</p>
+					</div>
+				</div>
+				<div class="fr w330">
+					<h5 class="bb_gr01 pb5">奥行60cm</h5>
+					<div class="ac mt20"><img src="images/stainless_sink/bi_spec_pic02.jpg" width="318" height="100" alt="" /></div>
+					<div class="cl bb_gr01 mt5 pb5">
+						<div class="fl w50p ac"><strong>SDシンク</strong></div>
+						<div class="fl w50p ac"><strong>SBシンク</strong></div>
+					</div>
+					<div class="cl bb_gr01 mt10 pb5">
+						<p class="fl w50p tx11">内寸：W65×D48.5×H18.3cm</p>
+						<p class="fl w50p tx11">内寸：W82×D48.5×H18.3cm</p>
+					</div>
+					<div class="cl mt10 pb5">
+						<p class="fl w50p tx11">対応間口：180～270cm</p>
+						<p class="fl w50p tx11">対応間口：255～300cm</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="w330 mr0 ml0 mt10">
+				<h5 class="bb_gr01 pb5">奥行80・98cm</h5>
+				<div class="ac mt20"><img src="images/stainless_sink/bi_spec_pic03.jpg" width="318" height="100" alt="" /></div>
+				<div class="cl bb_gr01 mt5 pb5">
+					<div class="fl w50p ac"><strong>SVシンク</strong></div>
+					<div class="fl w50p ac"><strong>SKシンク</strong></div>
+				</div>
+				<div class="cl bb_gr01 mt10 pb5">
+					<p class="fl w50p tx11">内寸：W67×D52×H20.4cm</p>
+					<p class="fl w50p tx11">内寸：W82×D52×H21.5cm</p>
+				</div>
+				<div class="cl mt10 pb5">
+					<p class="fl w50p tx11">対応間口：203～278cm</p>
+					<p class="fl w50p tx11">対応間口：259～278cm</p>
+				</div>
+			</div>
+			
+			<div class="btn_up"><a href="stainless_worktop.shtml"><img src="images/btn_stainless_worktop.png" width="234" height="40" class="ov" alt="ステンレスワークトップを見る" /></a></div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion / spec -->
+		
+	</div>
+	<!-- /silent -->
+	
+	
+	
+	<!-- clean -->
+	<div id="tottemo_clean" class="mt80">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/stainless_sink/clean_title.png" width="700" height="34" alt="とってもクリン排水溝" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>
+					手間をかけずにキレイで清潔なシンクが保てるように、排水口にもさまざまな工夫を施しました。<br />
+					ステンレス一体成形＋美コートで、排水口にこびりつく汚れをガード。気になる汚れも、中性洗剤とスポンジで簡単にお手入れできます。<br />
+					流レールシンクに標準装備です。
+				</p>
+			</div>
+			<div class="pic"><img src="images/stainless_sink/clean_intro_pic.jpg" width="350" height="280" alt="" /></div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<h5 class="tx16 bb_gr01 pb5">お掃除するのもラクラク</h5>
+			<p class="mt10">
+				シンクの汚れを効率的に排水口に集めるシンクだから、<br />手間をかけずにキレイが保てるように排水口にもさまざまな工夫を施しました。
+			</p>
+			<div class="cl">
+				<div class="fl w320">
+					<h6 class="tx_rd01 mt40">シンクと継ぎ目がないから、清潔な排水口。</h6>
+					<p class="mt5">汚れやすい排水口をシンクと一体成形。継ぎ目がないのでお掃除がスムーズ。さらに美コート（親水性のセラミック系特殊コーティング）が汚れをガードします。</p>
+					<div class="mt15 ac"><img src="images/stainless_sink/clean_feature_pic01.png" width="270" height="293" alt="" /></div>
+				</div>
+				<div class="fr"><img src="images/stainless_sink/clean_feature_pic02.png" width="354" height="389" alt="" /></div>
+			</div>
+			<div class="cl mt30">
+				<div class="w320 fl">
+					<h6 class="tx_rd01">「クリン網カゴ」も、継ぎ目のない一体成形。</h6>
+					<p class="mt5">
+						ゴミを受けとめ、汚れがちな網カゴも、もちろんステンレスの一体成形。シンクや排水口同様に美コートが施されているので汚れを落としやすく、とっても清潔。
+					</p>
+					<div class="mt20"><img src="images/stainless_sink/clean_feature_pic03.jpg" width="262" height="168" alt="" /></div>
+				</div>
+				<div class="w320 fr">
+					<h6 class="tx_rd01">油汚れの水洗い比較</h6>
+					<div class="mt20"><img src="images/stainless_sink/clean_feature_pic04.png" width="300" height="108" alt="" /></div>
+					<p class="ast mt10">左：実際のご家庭でお手入れをせずに1週間使用した<br />　クリンプレート</p>
+					<p class="ast mt5">右：油汚れを水洗いしたクリン網カゴ</p>
+				</div>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- clean -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad111&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- youtube再生用のリンク -->
+<a href="https://www.youtube.com/embed/4HKGE83X714?autoplay=1&rel=0" class="youtube" title="" style="display:none;">YouTube</a>
+</body>
+</html>

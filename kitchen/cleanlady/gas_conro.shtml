@@ -1,0 +1,395 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│ガスコンロ｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="gas_conro">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　ガスコンロ</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/gas_conro/title.png" width="700" height="34" alt="ガスコンロ" /></h3>
+		<div class="tx">
+			<p>
+				グリル、トッププレートなど、あらゆる部分に優れた機能が搭載されたガスコンロ。<br />
+				力強い炎が、効率よく、おいしく料理を仕上げます。<br />
+				<br />
+				<span class="tx12">※表示価格は税抜き価格です。</span><br />
+			</p>
+		</div>
+		<div class="pic"><img src="images/gas_conro/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<div class="btn_catalog"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=120" target="_blank"><img src="images/btn_spec.png" width="230" height="40" alt="詳しい仕様はカタログを見る" /></a></div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- lisse -->
+	<div class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/gas_conro/lisse_title.png" width="700" height="34" alt="ガラストップコンロ　LiSSe" /></h4>
+		<div class="intro">
+			<div class="tx">
+				<p>
+					コンロの回りの温度上昇を抑え、吹きこぼれなどの料理中の汚れが焦げ付きにくいヒートオフガラストップ。<br />
+					グリルには遠赤外線セラミックバーナーを搭載し、食材をむらなくこんがり焼き上げます。
+				</p>
+                <div class="ar mt20 lisse-gdlogo"><img src="images/gas_conro/lisse_intro_logo.gif" width="25" height="44" alt="洗エールレンジフード" /></div>
+			</div>
+			<div class="pic">
+				<div><img src="images/gas_conro/lisse_intro_pic.jpg" width="350" height="280" alt="" /></div>
+				<p class="mt5 tx11">ZGGRK7R14<span class="tx_rd01">**S</span>-K　品名の**はフェイスの色記号になります。</p>
+			</div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<h5 class="tx_rd01 bb_gr01 pb5">むらなくこんがり焼き上げる遠赤外線セラミックバーナー</h5>
+			<div class="cl mt20">
+				<div class="fl w340">
+					<div><img src="images/gas_conro/lisse_feature_pic01.jpg" width="345" height="190" alt="" /></div>
+					<p class="mt15">
+						備長炭のように、遠赤外線と直火でじっくりと加熱。遠赤外線で中はふっくら、直火で外はこんがり。<br />
+						耐久性に優れたセラミックでできているからバーナーも長持ちします。
+					</p>
+				</div>
+				<div class="fr">
+					<div><img src="images/gas_conro/lisse_feature_02.png" width="330" height="201" alt="" /></div>
+					<div class="cl mt10">
+						<p class="fl w160 mr20">表面から伝わる熱だけなので、次第に水分が失われ、中心まで火が通る頃にはパサパサに。</p>
+						<p class="fl w150">中心まで届く遠赤外線の熱と、表面をこんがり焼き上げる直火により、外はパリッと、中はふっくら焼き上げます。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt40">
+				<h5 class="tx_rd01 bb_gr01 pb5">オートグリル機能搭載</h5>
+				<div class="cl mt20">
+					<div class="fl mr20"><img src="images/gas_conro/lisse_feature_03.jpg" width="378" height="128" alt="" /></div>
+					<p class="fl w190">「姿焼」「切身」「干物」の種類と焼き加減を選択すれば自動でおいしく魚を焼き上げます。また自動で消火してくれるので安心です。</p>
+				</div>
+			</div>
+			
+			<div class="mt40">
+				<h5 class="tx_rd01 bb_gr01 pb5">焦げつきにくいヒートオフガラストップ</h5>
+				<div class="cl mt20">
+					<div class="fl mr40">
+						<div><img src="images/gas_conro/lisse_feature_04.jpg" width="264" height="187" alt="" /></div>
+						<p class="mt15 w260">
+							調理時に飛散した油汚れ・煮こぼれなどの焦げ付きの原因はガラスの温度上昇でした。<br />
+							トッププレートの裏側に装着したアルミパネルにより熱を分散させ、表面の温度上昇を抑えます。
+							お手入れが楽になりいつも清潔。
+						</p>
+					</div>
+					<div class="fl posr pb30 pt20 w380">
+						<img src="images/gas_conro/lisse_feature_05.jpg" width="304" height="122" alt="" />
+						<strong class="block posa tx12" style="left:0; top:0;">従来のガラストップ</strong>
+						<strong class="block posa tx12" style="left:170px; top:0;">ヒートオフガラストップ</strong>
+						<p class="mt15" style="left:0; bottom:0;">サーモグラフィーで比較すると、温度に差があることがわかります。<br />※高温部は赤色</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="cl mt40">
+				<div class="fl w330">
+					<h5 class="bb_gr01 tx_rd01 pb5">ダブル高火力・トロ火</h5>
+					<div class="mt20 ac"><img src="images/gas_conro/lisse_feature_06.jpg" width="265" height="188" alt="" /></div>
+					<p class="mt15">
+						両バーナーとも高火力・トロ火が使えます。<br />
+						料理に合わせてバーナーを使い分けることがなく、キッチンレイアウトを選びません。
+					</p>
+				</div>
+				<div class="fr w330">
+					<h5 class="bb_gr01 tx_rd01 pb5">130℃&#12316;220℃の幅広い温度調整機能</h5>
+					<div class="mt20 ac"><img src="images/gas_conro/lisse_feature_07.jpg" width="329" height="319" alt="" /></div>
+					<p class="mt15">
+						玉子焼きからステーキまで。様々なお料理の火加減に応じます。天ぷらなど一定の温度でお料理する時に便利です。
+					</p>
+				</div>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+			
+			<div class="posr">
+				<!-- list -->
+				<table class="item_list pd4">
+					<tr>
+						<th colspan="2" width="100">品名</th>
+						<td class="ac posr" width="283"><h5>ガラストップコンロ　LiSSe</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">写真</th>
+						<td class="ac"><img src="images/gas_conro/lisse_spec_pic01.jpg" width="231" height="192" alt="" /></td>
+					</tr>
+					<tr>
+						<th colspan="2">フェイス／<br />トッププレート／ゴトク</th>
+						<td class="ac">カラーステンレス／シルバー／ホーロー</td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">間口<br />75cm</th>
+						<th class="tx80 bb_1px">機 番</th>
+						<td class="ac bb_1px"><strong>ZGGRK7R14<span class="tx_rd01">**S</span>-K</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">価 格</th>
+						<td class="ac"><strong>￥243,000</strong></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">間口<br />60cm</th>
+						<th class="tx80 bb_1px">機 番</th>
+						<td class="ac bb_1px"><strong>ZGGRK6R14<span class="tx_rd01">**S</span>-K</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">価 格</th>
+						<td class="ac"><strong>￥238,000</strong></td>
+					</tr>
+					<tr>
+						<th colspan="2">グリル機能</th>
+						<td class="ac"><img src="images/gas_conro/lisse_spec_label01.png" width="281" height="19" alt="" /></td>
+					</tr>
+					<tr>
+						<th colspan="2">主な機能</th>
+						<td class="ac"><img src="images/gas_conro/lisse_spec_label02.png" width="281" height="67" alt="" /></td>
+					</tr>
+					<tr>
+						<th colspan="2"></th>
+						<td class="ac"><img src="images/gas_conro/lisse_spec_pic02.png" width="245" height="143" alt="" /></td>
+					</tr>
+					<tr>
+						<td colspan="3" class="ac bg_gr01 bl0"><strong class="tx16">省エネ基準達成率（％）</strong></td>
+					</tr>
+					<tr>
+						<th colspan="2" class="tx80 bb_1px">コンロ部<br />目標年度：2006年度</th>
+						<td class="ac bb_1px"><img src="images/icon_ecoball.png" width="14" height="14" class="vm" alt="" /> 100</td>
+					</tr>
+					<tr>
+						<th colspan="2" class="tx80">グリル部<br />目標年度：2008年度</th>
+						<td class="ac"><img src="images/icon_ecoball.png" width="14" height="14" class="vm" alt="" /> 105</td>
+					</tr>
+				</table>
+				<!-- list -->
+				<p class="posa w250 ast tx_lh12" style="right:0; bottom:0;">
+					※品名の**はフェイスカラーのアルファベットが入ります。<br />
+					VQ:シャンパン　VE:ワイン　VN:セピア　JV:シルバー　JY:アクア　JX:ロゼ　JH:ボルドー　JE:レッド　JN:チャコール　K9:ブロンズ
+				</p>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+	</div>
+	<!-- /lisse -->
+	
+	
+	
+	<!-- function -->
+	<div class="mt40">
+		<h5>ガスコンロの主な機能紹介</h5>
+		<div class="bg_gr02 mt15 pt20 pb20">
+			<ul class="wrap670 ul_fl fix_h">
+				<li class="w320 mr20 mb15">
+					<div><img src="images/conro_label02.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">トッププレートの熱を分散させて、ガラスの表面温度の上昇を抑えるため、煮こぼれなどによる焦げ付きを防止します。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/conro_label03.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">食材の中まで届く遠赤外線と、表面をパリっと仕上げる直火の効果で、外はパリっと中はふんわり、食材をおいしく焼き上げます。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/conro_label01.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">グリル扉開閉機構にフルスライドレールを採用。焼網を全て引き出せるため、料理が取り出しやすくなります。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/conro_label04.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">温度調節、タイマー、自動炊飯、自動湯沸の機能がついており、コンロが自動で火力を調節してくれます。揚げ物も綺麗な色に仕上がります。</p>
+				</li>
+				<li class="w320 mr20 mb15">
+					<div><img src="images/conro_label05.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">左右どちらのバーナーも高火力からトロ火まで使用できるので、炒めものから煮物まで左右の使い勝手を選びません。</p>
+				</li>
+				<li class="w320 mb15">
+					<div><img src="images/conro_label07.png" width="137" height="20" alt="" /></div>
+					<p class="mt5">
+						コンロを点火すると、レンジフードと連動して自動で換気がスタートします。<br />
+						※1 ZGGRK（6・7）R14**S-Kは、レンジフードの換気風量も火力に応じて自動で調節します。
+					</p>
+				</li>
+			</ul>
+		</div>
+		
+		<p class="mt15">
+			<img src="images/icon_ecoball.png" width="14" height="14" class="vm" alt="" /> マーク　「省エネ基準達成率」は、省エネルギー法に定められた目標年度基準に対する達成率を示しています。
+		</p>
+	</div>
+	<!-- /function -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad116&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

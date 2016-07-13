@@ -1,0 +1,572 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│リフォームのポイント｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="reform">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　リフォームのポイント</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+		
+		<h3><img src="images/reform/title.png" width="700" height="34" alt="リフォームのポイント" /></h3>
+		<p class="tx14">
+			キッチンは主婦にとって毎日使う大切なスペースです。<br />
+			しかもLDKの場合は、リビングの印象を決めてしまう重要ポイント。デザインや機能、家族との距離感や生活動線も考えて決めましょう。
+		</p>
+		
+		<!-- tab -->
+		<div id="tab" class="mt35">
+			<ul>
+				<li id="tab01" class="on"><a href="javascript:void(0);">初級編</a></li>
+				<li id="tab02"><a href="javascript:void(0);">中級編</a></li>
+				<li id="tab03"><a href="javascript:void(0);">上級編</a></li>
+				<li id="tab04"><a href="javascript:void(0);">マンション編／地震対策編</a></li>
+			</ul>
+		</div>
+		<!-- /tab -->
+		
+		
+		<!-- point_frame -->
+		<div id="point_frame">
+			
+			
+			<!-- point1 -->
+			<div class="point" id="point1">
+				<div class="wrap650">
+					
+					<div>
+						<h4><img src="images/reform/point1_title01.png" width="461" height="45" alt="1：憧れの生活スタイルを思い浮かべて選びましょう。" /></h4>
+						<div class="select posr">
+							<p class="posa" style="left:36px;  top:192px; width:280px;">ダイニングとの一体空間で広々。壁付けキッチンは吊戸棚が付けられるので高い収納力が魅力。</p>
+							<p class="posa" style="left:342px; top:192px; width:260px;">吊戸棚やカウンターに段差のないオープンなキッチン。広々と開放感のあるインテリア空間をつくりたい方におすすめです。</p>
+							<p class="posa" style="left:36px;  top:400px; width:280px;">料理好きが選ぶ独立型。収納スペースも取りやすく、作業中のキッチンを見られる心配もありません。</p>
+							<p class="posa" style="left:342px; top:400px;">ダイニングやリビングにいる家族を見守りながら、<br />作業中の手元を隠せるように造作壁で仕切られています。</p>
+						</div>
+					</div>
+					
+					<div class="mt55">
+						<h4><img src="images/reform/point1_title02.png" width="352" height="45" alt="2：工夫次第で夢の対面キッチンも実現" /></h4>
+						<div class="cl mt20">
+							<div class="fl w300">
+								<h5><img src="images/reform/point1_tx01.png" width="242" height="59" alt="" /></h5>
+								<p class="h100 mt10">シンクとコンロを分けたプランで、<br />限られたスペースでの対面キッチンをかなえました。</p>
+								<div><img src="images/reform/point1_pic02.jpg" width="300" height="366" alt="" /></div>
+							</div>
+							<div class="fr w300 border_bl01 pl25">
+								<h5><img src="images/reform/point1_tx02.png" width="222" height="59" alt="" /></h5>
+								<p class="h100 mt10">限られたスペースで、広い作業面と短い作業動線を両立するのがL型の魅力。さらにほど良く仕切られたスリム対面を組み合わせると家族が見守れる機能的な対面キッチンになります。</p>
+								<div><img src="images/reform/point1_pic03.jpg" width="300" height="366" alt="" /></div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="mt60">
+						<h4><img src="images/reform/point1_title03.png" width="428" height="45" alt="3：既存のキッチンとの入れ替えにもしっかり対応" /></h4>
+						<p class="mt20">
+							今のキッチンレイアウトをそのまま使いたい。でも通路の広さや収納力を確保したい。<br />
+							そんなご家庭のために、キッチンも、収納庫も、奥行きの浅いスリムタイプをご用意。<br />
+							細長いキッチン空間でも広々と有効に使えます。
+						</p>
+						<div class="mt30"><img src="images/reform/point1_pic04.jpg" width="650" height="227" alt="" /></div>
+					</div>
+					
+				</div>
+			</div>
+			<!-- /point1 -->
+			
+			
+			<!-- point2 -->
+			<div class="point" id="point2">
+				<div class="wrap650">
+					
+					<div>
+						<h4><img src="images/reform/point2_title01.png" width="511" height="45" alt="1：リビング・ダイニングに面しているから「音」にもこだわる" /></h4>
+						
+						<div class="cl mt30">
+							<div class="fl w355">
+								<p>リビングにいる家族との会話を快適にするためクリンレディは徹底的に静音性を追求。シンクの水はねや引出しの開閉はもちろん、レンジフードや食器洗い乾燥機などの機器類もグッと静かになりました。</p>
+								<div class="mt40"><img src="images/reform/point2_pic01.jpg" width="355" height="280" alt="" /></div>
+							</div>
+							<ul class="fr ul_fl w265">
+								<li class="mb20 mr15">
+									<div><img src="images/reform/point2_pic02.jpg" width="123" height="114" alt="" /></div>
+									<p class="mt5 tx11">流レールシンク</p>
+								</li>
+								<li class="mb20">
+									<div><img src="images/reform/point2_pic03.jpg" width="123" height="114" alt="" /></div>
+									<p class="mt5 tx11">サイレントシャワー水栓</p>
+								</li>
+								<li class="mb20">
+									<div><img src="images/reform/point2_pic04.jpg" width="146" height="114" alt="" /></div>
+									<p class="mt5 tx11">サイレントレール</p>
+								</li>
+								<li class="mb20 mr15">
+									<div><img src="images/reform/point2_pic05.jpg" width="" height="" alt="" /></div>
+									<p class="mt5 tx11">食器洗い乾燥機</p>
+								</li>
+								<li>
+									<div><img src="images/reform/point2_pic06.jpg" width="" height="" alt="" /></div>
+									<p class="mt5 tx11">洗エールレンジフード</p>
+								</li>
+							</ul>
+						</div>
+						
+						<div class="mt40 around">
+							<h4><img src="images/reform/point2_title02.png" width="456" height="45" alt="2：周辺収納もリビング・ダイニングを意識しましょう" /></h4>
+							<div class="mt25 posr">
+								<div class="tx01 posa" style="left:0;">
+									<h5>キッチンと同じ扉でコーディネート</h5>
+									<p class="mt25">リビング側から見たキッチンと周辺収納の統一感がぐんと高まるリフォーム。キッチンと収納庫の扉カラーをトータルコーディネートすることができます。</p>
+								</div>
+								<div class="tx02 posa" style="left:345px;">
+									<h5>コーナー用ハイフロアカウンターで<br />多彩なレイアウトに</h5>
+									<p class="mt10">キッチンより少し背の高いハイフロアカウンターをキッチンと組み合わせて設置するレイアウト。L型キッチンと組み合わせればコの字型のキッチンにバージョンアップすることも可能です。</p>
+								</div>
+							</div>
+						</div>
+						
+						<div class="mt20"><strong class="tx_br01">クリンレディならではの工夫がいっぱい</strong></div>
+						<div class="cl mt25">
+							<div class="fl w310">
+								<h5>扉付トール家電収納庫</h5>
+								<p>オーブンや炊飯器、ポットなどの家電を隠して収納できる便利な収納庫です。</p>
+								<div class="mt10"><img src="images/reform/point2_pic08.jpg" width="308" height="281" alt="" /></div>
+							</div>
+							<div class="fr w310">
+								<h5>ステップコンテナ</h5>
+								<p>高い位置のものを取るときの踏み台としても活用できます。引き出すと動かないよう自動でロックします。</p>
+								<div class="mt10"><img src="images/reform/point2_pic09.jpg" width="308" height="245" alt="" /></div>
+							</div>
+						</div>
+						
+						<div class="mt60">
+							<h4><img src="images/reform/point2_title03.png" width="555" height="45" alt="3：間口や高さが限られていてもクリンレディならこんなに機能的" /></h4>
+							<div class="cl mt20">
+								<p class="fl w180">クリンレディの先進機器は小スペースのキッチンにこそ、力を発揮。同じ空間でも、広さや使い勝手が大きくアップします。</p>
+								<div class="fr"><img src="images/reform/point2_pic10.jpg" width="446" height="404" alt="" /></div>
+							</div>
+							<ul class="list01 mt45">
+								<li>
+									<h5><img src="images/reform/point2_stitle01.png" width="312" height="34" alt="1：食器洗い乾燥機" /></h5>
+									<div class="cl">
+										<p class="fl w140">小間口でも食器洗い乾燥機と引出し収納を両立できるのがクリンレディの魅力です。キッチンの間口を広げなくても食器洗い乾燥機をプラスすることができます。</p>
+										<div class="fr"><img src="images/reform/point2_pic11.jpg" width="160" height="135" alt="" /></div>
+									</div>
+								</li>
+								<li class="mr0">
+									<h5><img src="images/reform/point2_stitle02.png" width="312" height="34" alt="2：とってもクリンフード" /></h5>
+									<div class="cl">
+										<p class="fl w140">プレート形状のフィルターでお手入れがとってもラクなレンジフード。小間口のキッチンにも数多く採用されています。</p>
+										<div class="fr"><img src="images/reform/point2_pic12.jpg" width="160" height="135" alt="" /></div>
+									</div>
+								</li>
+								<li>
+									<h5><img src="images/reform/point2_stitle03.png" width="312" height="34" alt="3：ガスコンロ・IHクッキングヒーター" /></h5>
+									<div class="cl">
+										<p>高性能かつお手入れがしやすいガスコンロ・IHクッキングヒーターから、電気容量に制約のある住宅向けの低電気容量タイプのIHまで幅広いラインナップからお選びいただけます。</p>
+										<div class="cl w270 mt15">
+											<div class="fl">
+												<div><img src="images/reform/point2_pic13.jpg" width="129" height="89" alt="" /></div>
+												<p class="mt5">3口ガスコンロ</p>
+											</div>
+											<div class="fr">
+												<div><img src="images/reform/point2_pic14.jpg" width="129" height="89" alt="" /></div>
+												<p class="mt5">IHクッキングヒーター</p>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="mr0">
+									<h5><img src="images/reform/point2_stitle04.png" width="312" height="34" alt="4：ハンドムーブ" /></h5>
+									<div class="cl">
+										<p class="fl w140">天井高に合わせて50・60・70cmの3サイズをご用意。マンションなどキッチン上のスペースが小さい場合でも、便利なハンドムーブをご活用いただけます。</p>
+										<div class="fr">
+											<div><img src="images/reform/point2_pic15.jpg" width="160" height="135" alt="" /></div>
+											<p class="mt5">ハンドムーブ</p>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /point2 -->
+			
+			
+			<!-- point3 -->
+			<div class="point" id="point3">
+				<div class="wrap650">
+					
+					
+					<!-- point3_1 -->
+					<div class="point3_1">
+						<h4><img src="images/reform/point3_01_title.png" width="318" height="45" alt="1：理想の使い勝手にピッタイ対応！" /></h4>
+						<div class="ac"><img src="images/reform/point3_01_pic01.png" width="442" height="189" alt="" /></div>
+						<h5 class="mt20"><img src="images/reform/point3_01_stitle01.png" width="650" height="35" alt="1：豊富なサイズバリエーション" /></h5>
+						<p>
+							ワークトップの間口は1mm単位で調整が可能なので無駄なスペースをつくらず理想のサイズがピッタリ入ります。<br />
+						</p>
+						<p class="mt5">
+							※下記寸法以外にも条件によっては最大360cmなど特注対応が可能です。詳しくはクリナップ営業所・ショールームへお問い合わせください。
+						</p>
+						<div class="posr mt20">
+							<img src="images/reform/point3_01_pic02.png" width="650" height="185" alt="" />
+							<p class="posa ast" style="left:435px; top:135px;">※フラット対面はL型にも<br />対応しております。</p>
+						</div>
+						<div class="mt30">
+							<h5><img src="images/reform/point3_01_stitle02.png" width="650" height="35" alt="2：シンクとコンロの位置" /></h5>
+							<p>シンクとコンロの位置は自由自在。今まで使い慣れた位置、今まで感じていた不満を解消した理想の位置など、思い描くキッチンを作ることができます。</p>
+							<div class="posr mt20">
+								<img src="images/reform/point3_01_pic03.png" width="650" height="168" alt="" />
+								<p class="posa" style="left:185px; top:0;">シンクとコンロの間隔をあけて、<br />調理スペースを広く取ることができます。</p>
+								<p class="posa" style="right:0; bottom:0;">調理スペースを2つに分ければ、<br />2人で同時に作業ができます。</p>
+							</div>
+						</div>
+						<div class="mt20 cl">
+							<div class="fl w315">
+								<h5><img src="images/reform/point3_01_stitle03.png" width="313" height="35" alt="3：シンクとコンロのサイズ" /></h5>
+								<p>シンクとコンロのサイズはそれぞれ2種類。洗い物のしかたや鍋・フライパンの使い方に合わせて選びましょう。間口が限られている場合は小さいサイズにして、調理スペースをゆったりとることもできます。</p>
+								<div class="posr mt15">
+									<img src="images/reform/point3_01_pic04.png" width="313" height="255" alt="" />
+									<p class="posa ac" style="left:0;  top:95px;  width:120px;">小シンク</p>
+									<p class="posa ac" style="right:0; top:95px;  width:145px;">大シンク</p>
+									<p class="posa ac" style="left:0;  top:215px; width:120px;">60cmコンロ</p>
+									<p class="posa ac" style="right:0; top:215px; width:145px;">75cmコンロ</p>
+								</div>
+							</div>
+							<div class="fr w315">
+								<h5><img src="images/reform/point3_01_stitle04.png" width="313" height="35" alt="4：ワークトップの高さ" /></h5>
+								<p>使い勝手や身長に合わせて、ワークトップの高さを3種類から選べます。使い勝手には個人差があります。ショールームにて実際にスリッパをはいてご体験ください。</p>
+								<div class="mt15"><img src="images/reform/point3_01_pic05.png" width="315" height="223" alt="" /></div>
+								<p class="ast mt15">※アクリストンワークトップは、ワークトップ面及び<br />バックガード上面が2mm高くなります。</p>
+							</div>
+						</div>
+					</div>
+					<!-- /point3_1 -->
+					
+					
+					<!-- point3_2 -->
+					<div class="point3_2 mt60">
+						<h4><img src="images/reform/point3_02_title.png" width="278" height="45" alt="2：間口も高さもぴったり対応！" /></h4>
+						<div class="ac mt15"><img src="images/reform/point3_02_pic01.png" width="503" height="330" alt="" /></div>
+						<div class="cl mt20">
+							<div class="fl w315">
+								<h5><img src="images/reform/point3_02_stitle01.png" width="312" height="35" alt="1：壁との隙間に対応" /></h5>
+								<p>ワークトップの間口は1mm単位で調整可能。扉と同じ面材のフィラー（調整板）を使って、隙間のない美しいキッチンを実現できます。</p>
+								<p class="ast mt10">※扉面材フィラーは現場でのカット・取付になるので50㎜以上の隙間からの対応になります。<br />50㎜未満の隙間にはキャビネット色の見切り材（15㎜）での対応となります。</p>
+								<p class="ast mt5">※ダミーフロアコンテナフィラーは現場でカットできません。対応間口は60・75・90・105・120・135mmです。</p>
+							</div>
+							<div class="fr mt35"><img src="images/reform/point3_02_pic02.png" width="324" height="157" alt="" /></div>
+						</div>
+						<div class="cl">
+							<div class="fl"><img src="images/reform/point3_02_pic03.png" width="343" height="240" alt="" /></div>
+							<div class="fr bg_wh01 mt30 w250 pb5 pt15 pl20 pr20 ac">
+								<strong class="tx_rd01">不燃仕様のフィラーもご用意</strong>
+								<div class="mt10"><img src="images/reform/point3_02_pic04.jpg" width="185" height="117" alt="" /></div>
+								<p class="al mt10">レンジフードの横に隙間ができてしまう場合にも不燃仕様のフィラーでピッタリ対応できます。</p>
+							</div>
+						</div>
+						<div class="cl mt25">
+							<div class="fl w200 mr25">
+								<h5><img src="images/reform/point3_02_stitle02.png" width="198" height="35" alt="2：吊戸棚の高さに対応" /></h5>
+								<p>既存の窓枠との干渉を避けるため、高さ50・60・70・90cmのバリエーションを用意。</p>
+								<div class="mt15"><img src="images/reform/point3_02_pic05.jpg" width="199" height="177" alt="" /></div>
+							</div>
+							<div class="fl w200 mr25">
+								<h5><img src="images/reform/point3_02_stitle03.png" width="198" height="35" alt="3：天井との隙間に対応" /></h5>
+								<p>吊戸棚と天井にできてしまう隙間を、扉素材の天井幕板を使ってキレイに仕上げることができます。</p>
+								<div class="mt15"><img src="images/reform/point3_02_pic06.jpg" width="199" height="200" alt="" /></div>
+							</div>
+							<div class="fl w200">
+								<h5><img src="images/reform/point3_02_stitle04.png" width="198" height="35" alt="4：2つの高さの収納棚" /></h5>
+								<p>システムエリア収納と片面カップボードの高さは216㎝と236㎝の2タイプをご用意。天井高に合わせてお選びいただけます。 </p>
+								<div class="ac mt15"><img src="images/reform/point3_02_pic07.jpg" width="145" height="200" alt="" /></div>
+							</div>
+						</div>
+					</div>
+					<!-- /point3_2 -->
+					
+					
+					<!-- point3_3 -->
+					<div class="point3_3 mt60">
+						<h4><img src="images/reform/point3_03_title.png" width="457" height="45" alt="3：マンションなどに多い梁や配管にもしっかり対応！" /></h4>
+						<div class="mt15 ac"><img src="images/reform/point3_03_pic01.png" width="463" height="277" alt="" /></div>
+						<div class="cl mt30">
+							<div class="fl w315">
+								<h5><img src="images/reform/point3_03_stitle01.png" width="313" height="34" alt="1：レンジフードの梁欠き対応" /></h5>
+								<p>幕板タイプのレンジフードなら、キッチンの奥行き方向に梁があっても幕板を切り欠いて設置できます。梁の大きさにより制限がありますので、事前に梁型の大きさを確認して下さい。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic02.jpg" width="200" height="185" alt="" /></div>
+							</div>
+							<div class="fr w315">
+								<h5><img src="images/reform/point3_03_stitle02.png" width="313" height="34" alt="2：プロペラファンからシロッコファンへ（ふさぎ板）" /></h5>
+								<p>今まで使用していたプロペラファンの通気穴を再利用。穴をふさぎながらダクトを通して、さまざまな機能が付いたシロッコファンにリフォームできます。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic03.png" width="249" height="202" alt="" /></div>
+							</div>
+						</div>
+						<div class="cl mt35">
+							<div class="fl w315">
+								<h5><img src="images/reform/point3_03_stitle03.png" width="313" height="34" alt="3：動かせないダクト穴への対応" /></h5>
+								<p>マンションなどでダクト穴が動かせない場合でも専用のフレキシブルダクト管とアダプタで柔軟に配管を対応できます。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic04.jpg" width="233" height="156" alt="" /></div>
+							</div>
+							<div class="fr w315">
+								<h5><img src="images/reform/point3_03_stitle04.png" width="313" height="34" alt="4：吊戸棚の梁欠き対応" /></h5>
+								<p>キッチンの間口方向に梁がある場合は梁欠き対応することができます。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic05.jpg" width="233" height="156" alt="" /></div>
+							</div>
+						</div>
+						<div class="mt35">
+							<h5><img src="images/reform/point3_03_stitle05.png" width="650" height="34" alt="5：横引き配管対応" /></h5>
+							<div class="posr">
+								<p class="posa" style="left:0; top:0;">
+									マンションなどで一般的なのが壁のパイプスペースからの横引き配管。<br />
+									配管スペースを持つキャビネット内に納まれば、<br />
+									そのままの配管を活かしてリフォームすることができます。<br />
+									※図はキッチン奥行650mmの場合
+								</p>
+								<img src="images/reform/point3_03_pic06.png" width="650" height="216" alt="" />
+							</div>
+						</div>
+						<div class="cl mt30">
+							<div class="fl w315">
+								<h5><img src="images/reform/point3_03_stitle06.png" width="313" height="34" alt="6：床立ち上げ排水管にも対応" /></h5>
+								<p class="h100">フロアコンテナの外観はそのままに、シンク下の既設排水管に対応できます。引出しは排水管に合わせて現場加工となります。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic07.jpg" width="246" height="178" alt="" /></div>
+							</div>
+							<div class="fr w315">
+								<h5><img src="images/reform/point3_03_stitle07.png" width="313" height="34" alt="7：開き扉シンクキャビネット" /></h5>
+								<p class="h100">引出し式では設置できないディスポーザーや大型浄水器のために、開き扉シンクキャビネットをご用意。電源コンセントなどの既存設備が引出しに干渉する場合にも、開き扉キャビネットで収納スペースを活かしつつ対応することができます。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic08.jpg" width="246" height="178" alt="" /></div>
+							</div>
+						</div>
+						<div class="cl mt65">
+							<div class="fl w315">
+								<h5><img src="images/reform/point3_03_stitle08.png" width="313" height="27" alt="高圧洗浄への対応" /></h5>
+								<p class="h100">クリンレディの排水口は全て高圧洗浄に対応しています。ジャバラホースより水圧に強い排水用フリーパイプセット（オプション）を使用すれば安心して高圧洗浄に対応できます。</p>
+								<div class="ac mt15"><img src="images/reform/point3_03_pic09.png" width="272" height="190" alt="" /></div>
+								<p class="mt10 ast">※配管スペース有りのキャビネットには使用できません。</p>
+							</div>
+							<div class="fr w315">
+								<h5><img src="images/reform/point3_03_stitle09.png" width="313" height="27" alt="将来のリフォーム対策！" /></h5>
+								<strong class="tx_rd01">ライフフィットキャビネット</strong>
+								<p class="h100">
+									設置後に、ガスや電気の工事が必要になった場合、簡単に引き抜けます。<br />
+									※設置・組み替えについては、クリナップ営業所・ショールームにお問い合わせください。
+								</p>
+								<div class="ar mt15 posr">
+									<p class="posa" style="left:0; bottom:0;">ライフフィットタイプ<br />（奥行：60・65cm）</p>
+									<img src="images/reform/point3_03_pic10.jpg" width="182" height="206" alt="" />
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- /point3_3 -->
+					
+					
+				</div>
+			</div>
+			<!-- /point3 -->
+			
+			
+			<!-- point4 -->
+			<div class="point" id="point4">
+				<div class="wrap650">
+					<h4><img src="images/reform/point3_04_title01.png" width="456" height="45" alt="マンション編：キッチンレイアウト変更時の注意点" /></h4>
+					<div class="cl mt30">
+						<div class="fl w200 mr25">
+							<h5><img src="images/reform/point3_04_stitle01.png" width="198" height="34" alt="1：換気扇の移設" /></h5>
+							<p class="mt10">マンションであっても換気扇の移設は可能です。ただし、ダクトが長くなりすぎると吸い込む力が弱くなります。梁の位置によっても移動を制限されることがありますので換気ルートをリフォーム業者に確認しましょう。また、外壁側には排気口がありますが外壁部分は共用部分となるため排気口の位置変更やべントキャップの変更はできません。</p>
+						</div>
+						<div class="fl w200 mr25">
+							<h5><img src="images/reform/point3_04_stitle02.png" width="198" height="34" alt="2：排水管の移動" /></h5>
+							<p class="mt10">排水管の移動でシンク位置の変更も可能です。大きく変更する場合は床の工事を伴いますが床下で配管を移動できます。しかし、勾配がないと排水が流れないので床の高さと移動距離によって制限が生じます。床の工事をしないリフォームの場合はパイプスペースとキッチンが隣接していないと配管できないので、キッチンの位置を大きく変更することはできません。配管ルートをリフォーム業者に確認しましょう。</p>
+						</div>
+						<div class="fl w200">
+							<h5><img src="images/reform/point3_04_stitle03.png" width="198" height="34" alt="3：天井高の確認" /></h5>
+							<p class="mt10">排水管の移動などのリフォームによって床を二重床に変更すると、天井高は低くなります。逆に、工事内容によっては天井高が高くなることもあります。天井高が低いと設置できない機器や収納庫もありますので、リフォーム後の天井高をキッチン検討前にリフォーム業者に必ず確認しておきましょう。</p>
+						</div>
+					</div>
+					<h4 class="mt50"><img src="images/reform/point3_04_title02.png" width="347" height="45" alt="地震対策編：キッチンにも地震対策！" /></h4>
+					<div class="cl mt35">
+						<div class="fl w315">
+							<h5><img src="images/reform/point3_04_stitle04.png" width="313" height="29" alt="開放防止部品付キャビネット" /></h5>
+							<p class="mt10">地震の際の収納物の落下・散乱や、引出し部分の飛び出しといった危険を回避するため、開放防止部品付キャビネットをご用意しました。地震などの揺れを感知し、引出しや扉を自動的にロックしてくれます。</p>
+							<div class="mt10"><img src="images/reform/point3_04_pic01.jpg" width="308" height="138" alt="" /></div>
+							<p class="mt15 ast">※開放防止部品につきましては、弊社工場の取り付け部品となります。後付けでのご注文は、受け付けかねますのでご了承願います。</p>
+						</div>
+						<div class="fr w315">
+							<h5><img src="images/reform/point3_04_stitle05.png" width="313" height="29" alt="周辺収納も壁にしっかりと固定" /></h5>
+							<p class="mt10">クリンレディの周辺収納は壁面にしっかりとビス固定するので、一般的な置き型の家具よりも転倒のリスクを抑えることができます。</p>
+							<div class="mt30"><img src="images/reform/point3_04_pic02.jpg" width="312" height="135" alt="" /></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /point4 -->
+			
+			
+		</div>
+		<!-- /point_frame -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad102&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

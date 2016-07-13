@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>クリナップ｜システムキッチン、システムバスルーム、洗面化粧台を製造販売する総合住宅機器メーカーです。</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body>
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="./">ラクエラ</a>　&gt;　パッケージプラン</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+
+
+	<!-- content --> 
+	<div id="content">
+
+
+				<!-- 2列 -->
+				<table class="item_list pd6" width="100%">
+					<tr>
+						<th colspan="2" width="100">機能</th>
+						<td class="ac"><h5>機能タイトル</h5></td>
+						<td class="ac"><h5>機能タイトル</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">形状</th>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">対応<br />間口<br />(mm)</th>
+						<th class="tx80 bb_1px">D650用</th>
+						<td rowspan="2" class="ac"><strong>750・900・950・1050</strong></td>
+						<td rowspan="2" class="ac"><strong>750・900・1050</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">D600用</th>
+					</tr>
+					<tr>
+						<th colspan="2">有効寸法図</th>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+					</tr>
+				</table>
+				<!-- 2列 -->
+				
+				<br /><br /><br /><br /><br />
+				
+				<!-- 2列 -->
+				<table class="item_list pd8" width="100%">
+					<tr>
+						<th colspan="2" width="100">機能</th>
+						<td class="ac"><h5>機能タイトル</h5></td>
+						<td class="ac"><h5>機能タイトル</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">形状</th>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">対応<br />間口<br />(mm)</th>
+						<th class="tx80 bb_1px">D650用</th>
+						<td class="ac bb_1px"><strong>750・900・950・1050</strong></td>
+						<td class="ac bb_1px"><strong>750・900・1050</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">D600用</th>
+						<td class="ac">─</td>
+						<td class="ac">─</td>
+					</tr>
+					<tr>
+						<th colspan="2">有効寸法図</th>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+					</tr>
+				</table>
+				<!-- 2列 -->
+			
+			<br /><br /><br /><br /><br />
+			
+				<!-- 1列 -->
+				<table class="item_list pd8 mt30">
+					<tr>
+						<th colspan="2" width="100">機能</th>
+						<td class="ac" width="283"><h5>機能タイトル</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">形状</th>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">対応<br />間口<br />(mm)</th>
+						<th class="tx80 bb_1px">D650用</th>
+						<td class="ac bb_1px"><strong>750・900・1050</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">D600用</th>
+						<td class="ac">─</td>
+					</tr>
+					<tr>
+						<th colspan="2">有効寸法図</th>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+					</tr>
+				</table>
+				<!-- 1列 -->
+				
+				<br /><br /><br /><br /><br />
+				
+				<!-- 3列 -->
+				<table class="item_list pd6" width="100%">
+					<tr>
+						<th colspan="2" rowspan="2" width="70">機能</th>
+						<td rowspan="2" class="ac" ><h5>機能タイトル</h5></td>
+						<td colspan="2" class="ac"><h5>機能タイトル</h5></td>
+					</tr>
+					<tr>
+						<td class="ac"><h5>機能タイトル</h5></td>
+						<td class="ac"><h5>機能タイトル</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">形状</th>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">対応<br />間口<br />(mm)</th>
+						<th class="tx80">D650用</th>
+						<td rowspan="2" class="ac"><strong>00000</strong></td>
+						<td rowspan="2" class="ac"><strong>00000</strong></td>
+						<td rowspan="2" class="ac"><strong>00000</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">D600用</th>
+					</tr>
+					<tr>
+						<th colspan="2">有効寸法図</th>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+					</tr>
+				</table>
+				<!-- 3列 -->
+				
+				<br /><br /><br /><br /><br />
+				
+				<!-- 3列 -->
+				<table class="item_list pd6" width="100%">
+					<tr>
+						<th colspan="2" width="70">機能</th>
+						<td class="ac"><h5>機能タイトル</h5></td>
+						<td class="ac"><h5>機能タイトル</h5></td>
+						<td class="ac"><h5>機能タイトル</h5></td>
+					</tr>
+					<tr>
+						<th colspan="2">形状</th>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.jpg" width="" height="" alt="" /></td>
+					</tr>
+					<tr>
+						<th rowspan="2" class="br">対応<br />間口<br />(mm)</th>
+						<th class="tx80">D650用</th>
+						<td rowspan="2" class="ac"><strong>00000</strong></td>
+						<td rowspan="2" class="ac"><strong>00000</strong></td>
+						<td rowspan="2" class="ac"><strong>00000</strong></td>
+					</tr>
+					<tr>
+						<th class="tx80">D600用</th>
+					</tr>
+					<tr>
+						<th colspan="2">有効寸法図</th>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+						<td class="ac"><img src="xxx.png" width="" height="" alt="" /></td>
+					</tr>
+				</table>
+				<!-- 3列 -->
+
+	</div>
+	<!-- /content --> 
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main --> 
+</div>
+
+
+
+</body>
+</html>

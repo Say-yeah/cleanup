@@ -1,0 +1,324 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│壁パネル｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="panel">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　壁パネル</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro posr">
+		<h3><img src="images/panel/title.png" width="700" height="34" alt="壁パネル" /></h3>
+		<div class="tx">
+			<p>耐久性、清掃性に優れた壁パネルと、料理中よく使うものを手の届きやすい場所に置けるアシストラックをご用意しました。</p>
+		</div>
+		<div class="pic"><img src="images/panel/intro_pic.jpg" width="350" height="280" alt="" /></div>
+		<div class="posa" style="left:0; bottom:0;"><a href="simulation.shtml"><img src="images/btn_simulation.png" width="173" height="40" class="ov" alt="カラーシミュレーション" /></a></div>
+	</div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- panel -->
+	<div class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/panel/panel_title.png" width="700" height="34" alt="クリン壁パネル" /></h4>
+		<div class="intro mt10 posr">
+			<div class="tx">
+				<p>
+					ステンレス、セラミック調、石目調、木目調のデザインからお選びいただけます。<br />
+					目地が少ないので、お手入れも簡単。
+				</p>
+			</div>
+			<div class="pic"><img src="images/panel/panel_intro_pic01.jpg" width="350" height="280" alt="" /></div>
+			<div class="posa" style="left:128px; bottom:0;"><img src="images/panel/panel_intro_pic02.jpg" width="194" height="132" alt="" /></div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+		
+			<div class="cl">
+				<div class="fl w330">
+					<div class="cl bb_gr01 pb5">
+						<h5 class="fl tx_rd01">ステンレス</h5>
+						<p class="fr">国土交通大臣認定NM-0684</p>
+					</div>
+					<p class="mt5">
+						熱と汚れに強いステンレス壁パネル。油を拭くだけで落とせるイージークリーン塗装です。<br />
+						※素材はステンレスSUS430になります。
+					</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic01.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">クリア（SC）</p>
+				</div>
+				<div class="fr w330">
+					<div class="cl bb_gr01 pb5">
+						<h5 class="fl tx_rd01">セラミック調</h5>
+						<p class="fr">国土交通大臣認定NM-2183</p>
+					</div>
+					<p class="mt5">
+						磁器タイルのような質感のエンボス仕上げ。光によりさまざまな表情が楽しめます。
+						<br /><br />
+					</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic02.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">白波（AM）</p>
+				</div>
+			</div>
+			
+			<div class="cl mt40">
+				<div class="fl w330">
+					<div class="cl bb_gr01 pb5">
+						<h5 class="fl tx_rd01">石目調</h5>
+						<p class="fr ar">国土交通大臣認定NM-8217（BH・BR）<br />NM-2183（BA・BB）</p>
+					</div>
+					<p class="mt5">
+						高級感ある大理石柄や手作り感あるタイル・レンガ柄で、お気に入りの空間を実現します。
+					</p>
+					<div class="mt20"><img src="images/panel/panel_feature_pic03.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">ホワイトマーブル（BH）</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic04.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">ホワイトブリック（BA）</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic05.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">パステルタイル（BB）</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic06.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">ジュエルストーン（BR）</p>
+				</div>
+				<div class="fr w330">
+					<div class="cl bb_gr01 pb5">
+						<h5 class="fl tx_rd01">木目調</h5>
+						<p class="fr">国土交通大臣認定NM-8217<br /><br /></p>
+					</div>
+					<p class="mt5">
+						インテリアに馴染む色から空間を引き締める濃色まで、使いやすい木目柄3色をラインナップしました。
+					</p>
+					<div class="mt20"><img src="images/panel/panel_feature_pic07.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">ホワイトウッド（CG）</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic08.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">グレイッシュウッド（CA）</p>
+					<div class="mt10"><img src="images/panel/panel_feature_pic09.jpg" width="327" height="105" alt="" /></div>
+					<p class="mt5">ダークウッド（CE）</p>
+				</div>
+			</div>
+			
+			<div class="mt30">
+				<p class="ast">※セラミック調のクリン壁パネルは鏡面性の高いエンボス仕上げのため、間取りや照明によって表面のエンボス柄がワークトップに反射する場合があります。</p>
+				<p class="ast mt5">※クリア、ホワイトブリック、ホワイトウッド、グレイッシュウッド、ダークウッドの柄は横目になりますが、サイドパネルとして使う場合は縦目となります。</p>
+				<p class="ast mt5">※木目調や石目調について、2枚の壁パネルをつなぎ合わせる場合、柄はつながりません。</p>
+			</div>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- /panel -->
+	
+	
+	
+	<!-- lack -->
+	<div class="mt60">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<h4><img src="images/panel/lack_title.png" width="700" height="34" alt="アシストラック" /></h4>
+		<div class="intro mt10">
+			<div class="tx">
+				<p>クリン壁パネルに収納用モールを設置すると、調味料やよく使う調理小物を収納できて、ワークトップを広々と使えます。</p>
+			</div>
+			<div class="pic"><img src="images/panel/lack_intro_pic.jpg" width="350" height="280" alt="" /></div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+			<ul class="ul_fl">
+				<li class="mr15 mb30">
+					<div><img src="images/panel/lack_feature_pic01.jpg" width="222" height="140" alt="" /></div>
+					<p class="mt5">調味料ラック KFA-MR30</p>
+				</li>
+				<li class="mr15 mb30">
+					<div><img src="images/panel/lack_feature_pic02.jpg" width="222" height="140" alt="" /></div>
+					<p class="mt5">マルチスタンド KFA-CR25</p>
+				</li>
+				<li class="mb30">
+					<div><img src="images/panel/lack_feature_pic03.jpg" width="222" height="140" alt="" /></div>
+					<p class="mt5">ハンギングラック KFA-HR</p>
+				</li>
+				<li class="mr15">
+					<div><img src="images/panel/lack_feature_pic04.jpg" width="222" height="140" alt="" /></div>
+					<p class="mt5">ふきんラック KFA-HR35</p>
+				</li>
+				<li>
+					<div><img src="images/panel/lack_feature_pic05.jpg" width="222" height="140" alt="" /></div>
+					<p class="mt5">ペーパーラック KFA-PR</p>
+				</li>
+			</ul>
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+	</div>
+	<!-- /lack -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad121&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>

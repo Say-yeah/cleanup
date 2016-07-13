@@ -1,0 +1,412 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--[if lte IE 6]>
+<meta http-equiv="refresh" content="0; url=ie6.shtml" />
+<script type="text/javascript">window.top.location = "ie6.shtml";</script>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<title>システムキッチン│クリンレディ│水栓金具・整水器・浄水器｜クリナップ</title>
+<meta name="keywords" content="クリンレディ,クリナップ,ステンレス,システムキッチン,キッチン,リフォーム,水まわり, 流レール,シンク,キャビネット,くりんれでぃ">
+<meta name="description" content="クリナップのベストセラーキッチン！見えない部分まで上質ステンレスのシステムキッチン「クリンレディ」。シンクの清掃性を追求した「流レールシンク」も加わり、お手入れもラクラク！">
+<link rel="stylesheet" href="../../common/css/default.css" type="text/css">
+<link rel="stylesheet" href="../../common/css/base2.css" type="text/css">
+
+<!-- 個別css読込み -->
+<link rel="stylesheet" href="../../common/css/kitchen/kitchen_cl3.css" type="text/css">
+
+<!-- js読込み -->
+<script type="text/javascript" src="../../common/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="../../common/js/font-size.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="../../common/js/jquery.textresizer.js"></script>
+<script type="text/javascript" src="../../common/js/smartRollover.js"></script>
+
+<script type="text/javascript" src="../../common/js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="../../common/js/product_top.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery(".textresizer a").textresizer({
+		target: "#wrapper" ,
+		sizes:  [ "1em", "1.2em" ]
+	});
+});
+</script>
+
+<!-- 個別css読込み -->
+<script type="text/javascript" src="js/lib/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/lib/heightLine.js"></script>
+<script type="text/javascript" src="js/cleanlady.js"></script>
+
+</head>
+
+<body id="faucet">
+<div id="wrapper">
+
+
+<!-- header include -->
+<!--#include virtual="/common/header2_wide.html" -->
+<!-- /header include -->
+
+
+<!-- breadcrumb --> 
+<div id="breadcrumb">
+	<p><a href="/">Home</a>　&gt;　<a href="/kitchen/">キッチン</a>　&gt;　<a href="index.shtml">クリンレディ</a>　&gt;　水栓金具・整水器・浄水器</p>
+</div>
+<!-- /breadcrumb --> 
+
+
+<!-- main -->
+<div id="main" class="cf">
+	
+	
+	<!-- content --> 
+	<div id="content">
+	
+	
+	
+	<!-- intro -->
+	<div class="intro">
+		<h3><img src="images/faucet/title.png" width="700" height="34" alt="水洗金具・整水器・浄水器" /></h3>
+		<div class="tx">
+			<p>
+				節水タイプからサイレントタイプなど様々な水栓をご用意しました。<br />
+				ご予算や生活スタイルに合わせてお選びいただけます。<br />
+				<span class="tx12">※表示価格は税抜き価格です。</span>
+			</p>
+		</div>
+		<div class="pic"><img src="images/faucet/intro_pic.jpg" width="350" height="280" alt="" /></div>
+	</div>
+	<div class="btn_catalog"><a href="http://www.catalabo.org/cgi-bin/openCatalog.cgi?catalogId=0259_cleanlad&pageId=113"><img src="images/btn_catalog.png" width="175" height="41" alt="詳しくはカタログを見る" /></a></div>
+	<!-- /intro -->
+	
+	
+	
+	<!-- bugbble -->
+	<div class="mt60" id="bubble">
+		<div class="ml5 mb10"><img src="images/bal_pickup.png" width="158" height="18" alt="PICK UP ITEM！" /></div>
+		<div class="intro">
+			<h4><img src="images/faucet/bubble_title.png" width="700" height="34" alt="バブルシャワー水栓" /></h4>
+			<div class="tx">
+				<p>
+					水流に、新しい機能を追加しました。空気をたっぷり含んだ「ソフトバブルシャワー」は、水はねと水音が抑えられるだけでなく、葉物野菜を包み込むように優しく洗えます。<br />
+					吐水力の強い「ジェットバブルシャワー」は、美コート加工のシンクと組み合わせることによって、汚れを浮き上がらせてシンクをキレイに保てます。
+				</p>
+			</div>
+			<div class="pic"><img src="images/faucet/bubble_intro_pic.jpg" width="350" height="280" alt="" /></div>
+		</div>
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_feature_close.png" width="700" height="47" class="ov" alt="特長" /></a>
+		<div class="accordion">
+		
+			<div>
+				<h4 class="tx_rd01 bb_gr01 pb5">ソフトバブルシャワー</h4>
+				<div class="cl mt15">
+					<div class="fl mr15"><img src="images/faucet/bubble_feature_pic01.jpg" width="203" height="167" alt="" /></div>
+					<p class="fl w480">空気をたっぷり含んでいるのでデリケートな葉物野菜もやさしく洗えます。<br />さらに浄水を使えば、残留塩素によるビタミン損失を抑えられるので野菜洗いに<br />最適です。</p>
+				</div>
+				<p class="mt20">残留塩素は食材に吸収され、約10～30％のビタミンが失われる（メーカー調べ）ので、<br />食材は浄水での洗浄をおすすめします。</p>
+				<div class="mt10"><img src="images/faucet/bubble_feature_pic02.jpg" width="700" height="124" alt="" /></div>
+				<ul class="ul_fl mt10">
+					<li class="w146 mr38"><p>試薬を水道水に入れます。</p></li>
+					<li class="w146 mr38"><p>かきまぜると、塩素に反応して水がピンク色になります。</p></li>
+					<li class="w146 mr38"><p>そこに茶葉を入れてかきまぜると…</p></li>
+					<li class="w146"><p>水が透明になります。茶葉が塩素を吸収した証拠です。</p></li>
+				</ul>
+			</div>
+			
+			<div class="mt40">
+				<h4 class="tx_rd01 bb_gr01 pb5">ジェットバブルシャワー</h4>
+				<div class="cl posr mt15">
+					<div class="w330 fl">
+						<p>「ソフトバブルシャワー」と同じ水量でも倍速の水流を出すことができる「ジェットバブルシャワー」。落ちにくい汚れの洗浄に最適です。</p>
+						<div class="mt10"><img src="images/faucet/bubble_feature_pic04.jpg" width="223" height="150" alt="" /></div>
+						<p class="mt10">美コートあり ＋ ジェットバブルシャワー</p>
+					</div>
+					<div class="w340 fr">
+						<div><img src="images/faucet/bubble_feature_pic03.jpg" width="203" height="180" alt="" /></div>
+						<p class="mt10">汚れを浮かしやすく、美コートの親水性をより発揮します。</p>
+						<p class="ast mt5">※吐水力が高いので、水がはねる場合があります。シャワーホースを引き出してお使いください。</p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mt40 cl">
+				<div class="fl w330">
+					<h4 class="tx_rd01 bb_gr01 pb5">省エネ ： 節湯効果、泡沫シャワー効果</h4>
+					<h5 class="mt10"><span class="tx_gr01">■</span> 節湯B、節湯C1の省エネ効果</h5>
+					
+					<div class="cl mt10">
+						<div class="fl pt30"><img src="images/faucet/bubble_feature_pic05.png" width="126" height="147" alt="" /></div>
+						<div class="fr w180">
+							<p>使用頻度の高いレバー中央位置で水のみを吐水し、ムダなお湯の使用を制限。また、少ない流量で使えます。</p>
+							<p class="mt5">
+								<strong>
+									節湯B、節湯C1の節ガス効果<br />
+									約<span class="tx18">41</span>％（※）<br />
+									従来品と比べて、4人家族当たり<br />
+									約<span class="tx18">10,200</span>円／年も節約
+								</strong>
+							</p>
+							<p class="mt5">
+								・水道代：約1,600円／年<br />
+								・ガス代：約8,600円／年<br />
+								・CO<sub>2</sub>削減量：約108kg／年
+							</p>
+						</div>
+					</div>
+					<p class="mt15">※（一社）バルブ工業会試算条件による。</p>
+					<h5 class="mt20"><span class="tx_gr01">■</span> ソフトバブルシャワーの節水効果</h5>
+					<div class="mt15 posr">
+						<img src="images/faucet/bubble_feature_pic07.png" width="233" height="148" alt="" />
+						<p class="posa tx11" style="left:245px; top:90px;">※節湯評価基準<br />　による</p>
+					</div>
+					<p class="mt10">普段使いから少ない量で使えます。</p>
+					<h5 class="mt20"><span class="tx_gr01">■</span> ジェットバブルシャワーの節水効果</h5>
+					<div class="mt15 posr">
+						<img src="images/faucet/bubble_feature_pic08.png" width="233" height="172" alt="" />
+						<p class="posa tx11" style="left:245px; top:110px;">※当社試験条件<br />　による</p>
+					</div>
+					<p class="mt10">汚れ流しも短時間、少流量で流せます。</p>
+				</div>
+				
+				<div class="fr w330">
+					<h4 class="tx_rd01 bb_gr01 pb5">身体にやさしいデザイン</h4>
+					<div class="cl mt20">
+						<p class="fl w130">
+							従来水栓より約10cm高い吐水口位置、ふところの深いL型形状によって、腰への負担を軽減させます。<br />
+							毎日のキッチン作業で長く前傾姿勢でいるシンクでの作業がラクになります。
+						</p>
+						<div class="fr"><img src="images/faucet/bubble_feature_pic06.png" width="176" height="230" alt="" /></div>
+					</div>
+					<h5 class="mt20"><span class="tx_gr01">■</span> 腰曲げ（回数）時の立ち位置比較</h5>
+					<div class="mt15"><img src="images/faucet/bubble_feature_pic09.png" width="274" height="143" alt="" /></div>
+					<h5 class="mt40"><span class="tx_gr01">■</span> 腰曲げ（時間）時の立ち位置比率</h5>
+					<div class="mt15"><img src="images/faucet/bubble_feature_pic10.png" width="274" height="151" alt="" /></div>
+					<p class="ar mt20">※当社調理検証による行動分析結果（カレー調理の例）</p>
+				</div>
+			</div>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<!-- accordion -->
+		<a href="javascript:void(0);" class="switch"><img src="images/btn_spec_close.png" width="700" height="47" class="ov" alt="仕様" /></a>
+		<div class="accordion">
+		
+			<!-- list -->
+			<table class="item_list pd4" width="100%">
+				<tr>
+					<th colspan="2" width="100">商品名</th>
+					<td class="ac posr"><h5>浄水器兼用<br />バブルシャワー水栓</h5></td>
+					<td class="ac posr"><h5>バブルシャワー水栓</h5></td>
+				</tr>
+				<tr>
+					<th colspan="2">写真</th>
+					<td class="ac">
+						<img src="images/faucet/bubble_spec_pic01.jpg" width="208" height="175" alt="" />
+						<p class="mt10 al	ml35 tx14">※ビルトイン浄水器別売</p>
+					</td>
+					<td class="ac vt"><img src="images/faucet/bubble_spec_pic02.jpg" width="208" height="175" alt="" /></td>
+				</tr>
+				<tr>
+					<th rowspan="2" class="br">品名</th>
+					<th class="tx80 bb_1px">一般地</th>
+					<td class="ac vm"><strong>ZSLMT100T14AC　￥60,000</strong></td>
+					<td class="ac vm bb_1px"><strong>ZSLHT200T14AH　￥60,000</strong></td>
+				</tr>
+				<tr>
+					<th class="tx80">寒冷地</th>
+					<td class="ac vm">─</td>
+					<td class="ac vm"><strong>ZSLHT200T14AW　￥60,000</strong></td>
+				</tr>
+				<tr>
+					<th colspan="2">シャワーホース</th>
+					<td class="ac">あり</td>
+					<td class="ac">あり</td>
+				</tr>
+				<tr>
+					<th colspan="2">節湯</th>
+					<td class="ac">節湯B／節湯C1</td>
+					<td class="ac">節湯B／節湯C1</td>
+				</tr>
+				<tr>
+					<th colspan="2">吐水形態</th>
+					<td class="ac"><img src="images/faucet/bubble_spec_label01.png" width="281" height="58" alt="" /></td>
+					<td class="ac vt"><img src="images/faucet/bubble_spec_label02.png" width="281" height="44" alt="" /></td>
+				</tr>
+			</table>
+			<!-- /list -->
+			
+			<div class="mt40">
+				<h5>吐水形態</h5>
+				
+				<div class="cl mt5">
+					<ul class="fl ul_fl w300">
+						<li class="w140 mr10 mb10">
+							<div class="mb5"><img src="images/faucet/bubble_spec_label03.png" width="137" height="19" alt="整流" /></div>
+							<p>ストレートな吐水です。</p>
+						</li>
+						<li class="w140 mb10">
+							<div class="mb5"><img src="images/faucet/bubble_spec_label05.png" width="137" height="19" alt="ソフトバブルシャワー" /></div>
+							<p>手当たりのやわらかな泡沫シャワーです。</p>
+						</li>
+						<li class="w140">
+							<div class="mb5"><img src="images/faucet/bubble_spec_label06.png" width="137" height="19" alt="ジェットバブルシャワー" /></div>
+							<p>流速が速く吐水力が高い泡沫シャワーです。</p>
+						</li>
+					</ul>
+					<div class="fr w390">
+						<div class="bg_gr03 ac pt10 pb10"><strong class="tx_wh">節湯型水栓について</strong></div>
+						<p class="mt10">「エネルギーの使用の合理化に関する法律（省エネ法）」の「エネルギーの使用の合理化に関する建築主等及び特定建築物の所有者の判断の基準」および「住宅事業建築主の判断の基準」に基づき、給湯設備における省エネ措置の1つとして（一社）日本バルブ工業会において設定した基準に該当する商品です。</p>
+					</div>
+				</div>
+			</div>
+			
+			<table class="list01 mt70">
+				<tbody>
+					<tr>
+						<td rowspan="2" style="width:165px;">エネルギーの使用の合理化に関する建築主等及び特定建築物の所有者の判断の基準</td>
+						<td>節湯A1</td>
+						<td>手元などで容易に止水操作ができる節湯水栓</td>
+					</tr>
+					<tr>
+						<td>節湯C1</td>
+						<td>水優先の操作において湯が吐水されない節湯水栓</td>
+					</tr>
+					<tr>
+						<td rowspan="3">住宅事業建築主の<br />判断の基準</td>
+						<td>節湯A</td>
+						<td>手元などで容易に止水操作ができること （従来型に対して削減率9％以上）</td>
+					</tr>
+					<tr>
+						<td>節湯B</td>
+						<td>最適流量が5&#8467;/分以下であること （従来型6&#8467;/分に対して削減率17％以上）</td>
+					</tr>
+					<tr>
+						<td>節湯AB</td>
+						<td>節湯Aおよび節湯Bの基準を満たしていること</td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<div class="btn_close"><a href="javascript:void(0);"><img src="images/btn_close.png" width="700" height="33" class="ov" alt="詳細を隠す" /></a></div>
+		</div>
+		<!-- /accordion -->
+		
+		<div class="cl mt30">
+			<div class="fl mr10"><img src="images/icon_eco.png" width="33" height="33" alt="ECO" /></div>
+			<p class="fl">省エネ・節約・環境配慮などの観点から優れた商品として、<br />クリナップが特にお勧めする推奨機器のマークです。</p>
+		</div>
+		
+	</div>
+	<!-- /bugbble -->
+	
+	
+	</div>
+	<!-- /content -->
+
+
+	<!-- side include -->
+	<!--#include virtual="/common/navi_kitchen_cleanlady.html" -->
+	<!-- /side include -->
+
+
+</div>
+<!-- /main -->
+
+
+<!-- Catalog and Showroom -->
+<!--#include virtual="/kitchen/colty/inc/footer_ctlg_sr.html" -->
+<!-- /Catalog and Showroom -->
+
+
+<!-- footer include -->
+<!--#include virtual="/common/footer_wide.html" -->
+<!-- /footer include -->
+
+
+</div>
+
+
+
+<!-- 2014.10 retargeting
+--------------------------------------------------->
+
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'BXMKJCI5P0';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980696026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980696026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-----------------------------------------------------
+                    / 2014.10 Yahoo!・YDN retargeting  -->
+
+<!-- 2013/12/09 追加リターゲティングタグ -->
+<!-- ADNETWORK by RAO ReTargeting Tag BEGIN -->
+<script type="text/javascript">
+document.writeln('<sc'+'ript language="JavaScript" type="text/javascript" charset="utf-8" src="'+location.protocol+'//cdn.c-team.jp/ran/c/cleanup/cleanup.js"></sc'+'ript>');
+</script>
+<!-- ADNETWORK by RAO ReTargeting Tag END -->
+<!-- 2013/12/09 追加リターゲティングタグ　ここまで -->
+
+
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55242224-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- / Google Analytics Tracking Code -->
+
+
+
+<!--  ここから計測タグ -->
+<!-- TagCreator generated. [BEGIN] Do not modify. -->
+<SCRIPT type="text/javascript" src="https://www09.tracer.jp/VL/Trace?tp=1&c=4224&p=lad114&fl=1"></SCRIPT>
+<!-- TagCreator generated. [END] -->
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; &#12479;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 991097175;
+var google_conversion_label = "mHxPCLGVoAUQ1-LL2AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991097175/?value=0&amp;label=mHxPCLGVoAUQ1-LL2AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>
