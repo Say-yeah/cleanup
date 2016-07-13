@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+img {margin:0 !important; padding:0 !important;}
+h2.sttl {margin-bottom:40px !important;}
+h3 {margin:100px 0 40px 0 !important;}
+#content .product1 {margin:0; padding:0; width:700px;}
+#content .product2 {margin:0; padding:0; width:552px;}
+#content .boaderline { width:100%; border:1px #b3b4b5 solid; padding:0;}
+#content .product-txt { float:right; width:185px; margin:30px 25px 0 25px;}
+#content .product-image {float:left;}
+#content .product-link { float:right; margin:-75px 0 0 0; }

@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+div#navi ul#submenu_hairo2010{border-top:1px solid #BDBDBD; border-left:1px solid #BDBDBD; border-right:1px solid #BDBDBD; margin:0 10px 0 0; padding:0; margin-bottom:10px;}
+div#navi ul#submenu_hairo2010 li{list-style-type: none;width:168px;font-size:0;line-height:0;margin:0;vertical-align:bottom;}
+div#navi ul#submenu_hairo2010 li a{display:block; width:168px; line-height:normal;}
+div#navi ul#submenu_hairo2010 li a span{display:none;}
+
+div#navi ul#submenu_hairo2010 ul#inlinemenu li{width:168px;}
+div#navi ul#submenu_hairo2010 ul#inlinemenu li a{display:block; width:168px; line-height:normal;}
+div#navi ul#submenu_hairo2010 ul#inlinemenu li a span {display:none;}
+
+div#navi ul#submenu_hairo2010 li#menu_hairo a{height:34px;background:url(/common/image/2nd/bath/btn_navi_hairo2010.gif) no-repeat 0 -1px;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_attaka a{height:49px;background:url(/common/image/2nd/bath/btn_navi_hairo2010_attaka.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_anshin a{height:49px;background:url(/common/image/2nd/bath/btn_navi_hairo2010_anshin.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_clean a{height:49px;background:url(/common/image/2nd/bath/btn_navi_hairo2010_clean.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_plan a{height:35px;background:url(/common/image/2nd/bath/btn_navi_hairo2010_plan.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_ct a{height:44px;background:url(/common/image/2nd/bath/btn_navi_hairo2010_ct.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_fr a{height:44px;background:url(/common/image/2nd/bath/btn_navi_hairo2010_fr.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_bath a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo2010_bath.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_color a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo2010_color.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_pln_variation a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo2010_pln_variation.gif) no-repeat;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_kosodate a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo2010_kosodate.gif) no-repeat;}
+
+
+div#navi ul#submenu li#aqulia_bath a{height:33px;}
+
+div#navi ul#submenu_hairo2010 li#menu_hairo a:hover{background-position:100% -1px;}
+div#navi ul#submenu_hairo2010 li#menu_hairo_attaka a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_anshin a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_clean a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_plan a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_ct a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_fr a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_bath a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_color a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_pln_variation a:hover,
+div#navi ul#submenu_hairo2010 li#menu_hairo_kosodate a:hover{background-position:100% 0;}
+
+

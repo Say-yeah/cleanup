@@ -1,0 +1,196 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* For modern browsers */
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {
+    clear:both;
+}
+/* For IE 6/7 (trigger hasLayout) */
+.cf {
+    zoom:1;
+}
+.clear {
+	clear:both;
+}
+
+body {
+	width:100%;
+	font-size:85%;
+}
+li img {
+	vertical-align:bottom;
+}
+#headerNew,
+#nav .inner,
+#breadcrumb,
+#main,
+#footerNew .inner {
+	width:960px;
+	margin:0 auto;
+	text-align:left;
+}
+#headerNew {
+	margin: 30px auto 10px;
+	line-height: 100%;
+}
+/*** textresizer ***/
+.textresizer{
+	float: right;
+	width: 165px;
+	margin-right: 20px;
+}
+.textresizer p {
+	float:left;
+}
+.textresizer ul li {
+	float:left;
+	width:48px;
+	height:27px;
+}
+.textresizer ul li a {
+	display:block;
+	width:48px;
+	height:27px;
+	text-align:left;
+	text-indent: -9999px;
+}
+#textresizer1 a {
+	background: url(/common/image2/header/h_textresizer1_off.gif);
+}
+#textresizer2 a {
+	background: url(/common/image2/header/h_textresizer2_off.gif);
+}
+#textresizer1 a:hover {
+	background: url(/common/image2/header/h_textresizer1_on.gif);
+}
+#textresizer2 a:hover {
+	background: url(/common/image2/header/h_textresizer2_on.gif);
+}
+#headerNew .rightBlock {
+	float: right;
+}
+#headerNew .rightBlock #subNav {
+	clear: right;
+	padding-top: 15px;
+}
+#headerNew .rightBlock #subNav li {
+	float: right;
+	line-height:100%;
+}
+#headerNew .rightBlock #searchArea {
+	float: right;
+}
+#headerNew .rightBlock #searchArea input{
+	line-height:100%;
+}
+#headerNew .rightBlock #searchArea #search2 #searchtxt {
+	border: 1px solid #D6D6D6;
+	background: url(/common/image2/header/i_search2.gif) no-repeat 5px center;
+	padding-top: 6px;
+	padding-bottom: 5px;
+	padding-left: 23px;
+	float: left;
+	margin-right: 5px;
+	width: 160px;
+}
+#headerNew .rightBlock #searchArea #search2 #btn {
+	border: none;
+}
+#breadcrumb p {
+	font-size: 85% !important;
+}
+#nav {
+	margin-bottom: 10px;
+	background:url(/common/image2/header/nav_bg.gif) repeat-x;
+}
+#nav ul li {
+	float: left;
+	line-height:100%;
+}
+#headerNew .textresizer p,
+#headerNew .textresizer li,
+#headerNew h1 {
+	line-height:100%;
+}
+#wrapper #main #content {
+	float: right;
+	width: 700px;
+}
+#wrapper #main #content h2 {
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+#wrapper #main #content h3 {
+	margin-bottom: 20px;
+}
+#wrapper #main #content p {
+	margin-bottom: 20px;
+}
+#wrapper #main #side {
+	float: left;
+	width: 220px;
+}
+#wrapper #main #side h2 {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper #main #side .nav {
+	border: 1px solid #ddd;
+	padding: 9px;
+	margin-bottom: 30px;
+	background: #f6f6f6;
+}
+#wrapper #main #side .bannerArea ul li {
+	margin-bottom: 10px;
+}
+#wrapper #main #side .topmg {
+	margin-top: 30px !important;
+}
+
+#wrapper #footerNew {
+	margin-top: 60px;
+	background: #f3f3f3;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+#wrapper #footerNew .inner p {
+	line-height: 100%;
+	margin: 0px;
+	padding-bottom: 10px;
+	font-size: 85%;
+}
+#wrapper .copyright {
+	margin-bottom: 10px;
+}
+#wrapper #main {
+	margin-top: 20px;
+}
+
+#top dt.year {
+	border-bottom::1px solid #DEDEDE;
+/* border-top:1px solid #DEDEDE; */
+	padding-bottom:20px;
+	margin-top:20px !important;
+	text-decoration:underline !important;
+}
+
+
+/* 下部カタログ請求&ショールーム案内ボタン
+---------------------------------------------*/
+.bottom_navi_links{height:97px; margin:60px 0 -40px; _margin:60px 0 0; overflow:hidden;}
+	.bottom_navi_link{margin:0; padding:0;}
+	.bottom_navi_link#cata{float:left;}
+	.bottom_navi_link#sr{float:right;}
+
+/* ショールームドリーミアボタン　リード挿入
+---------------------------------------------*/
+#main #content .readbtn { margin:0 0 0 40px;}
+#main #content p.doreamia_list { display:block; padding: 0 0 10px 0 !important; margin-bottom:10px !important; border-bottom:1px solid #CCC; width:400px;}
+

@@ -1,0 +1,390 @@
+@charset "Shift_JIS";
+
+
+/* -------------------------
+     共通設定
+------------------------- */
+#wrapper #main #content{text-align:left; line-height:1.6em;}
+#wrapper #main #content p{margin: 0 0 1.5em;}
+#wrapper #main #content h5{font-size:100%;}
+#content .notice{font-size:90%;}
+#content a{color:#333; text-decoration:underline;}
+#content a:hover{color:#999;}
+
+/* 税込み表示 */
+.taxinfo {font-size:10px; float:right; border:1px solid #999; margin:5px 0 0 0; padding:3px; line-height:110%;}
+.taxinfo2 {font-size:10px; float:right; border:1px solid #999; margin:-10px 0 0 0; padding:3px; line-height:110%;}
+
+/* Webカタログ-110902-add-
+------------------------------
+#wrapper #main #content .webcTop{margin-top:20px;}
+#wrapper #main #content .webcBtm{margin-bottom:20px;}
+#wrapper #main #content .webcR30{margin-right:20px;}*/
+
+#wrapper #main #content .webcatalogue .catalogueTxt{
+	text-align:right;
+	padding-bottom:0.2em;
+	margin:0;
+}
+#wrapper #main #content .catalogueLink2{
+	height:50px;
+	margin:0;
+	position:relative;
+}
+.catalogueLink2 a{
+	position:absolute;
+	right:0;
+}
+.catalogue2{
+	display:block;
+	width:192px;
+	height:50px;
+	background:url(../../../common/image/btn-catalogue.gif) no-repeat left top;
+	text-indent:-9999px;
+	overflow:hidden; zoom:1;
+}
+.catalogue2:hover{
+	background:url(../../../common/image/btn-catalogue.gif) no-repeat right top;
+}
+
+/* .option
+----------------*/
+.option{clear:both; padding:20px 0 20px 30px; background:#faf9f7; border:solid 1px #ccc; overflow:hidden; zoom:1;}
+
+.option h4, 
+.ih_option h5{margin:0 0 20px;}
+.option h4 img, 
+.ih_option h5 img{margin:0 0 0 -30px;}
+
+
+/* -------------------------
+     各ページ設定
+------------------------- */
+
+/* top
+-----------------*/
+#top_intro{margin:0 0 95px; position:relative;}
+	#wrapper #main #content #top_h3{margin:0; padding:79px 0 28px; line-height:1;}
+	#wrapper #main #content #top_h3_read{margin:0; padding:0 0 97px; line-height:1;}
+	#top_mainImg_01{position:absolute; top:0; right:0;}
+
+#wrapper #main #content div#threeType h4{margin:0 0 25px;}
+	div#threeType div.type{margin:0 0 30px; overflow:hidden; zoom:1;}
+	div#threeType div.type h5{float:right; margin:0 0 10px;}
+	#wrapper #main #content div#threeType div.type p.img{margin:0; float:left;}
+	#wrapper #main #content div#threeType div.type p.txt{width:379px; float:right; margin:0 0 20px;}
+	#wrapper #main #content div#threeType div.type p.link{width:391px; border-bottom:solid 1px #666; float:right;}
+		div#threeType div.type p.link a{text-decoration:none; display:block; height:12px; text-indent:-9999px; margin-bottom:5px;}
+		div#threeType div.type p#basicLink a{width:153px; background:url(../../../kitchen/colty/images/top/basic_link.gif) no-repeat; margin-left:234px;}
+		div#threeType div.type p#floorLink a{width:146px; background:url(../../../kitchen/colty/images/top/floor_link.gif) no-repeat; margin-left:240px;}
+		div#threeType div.type p#freeLink a{width:168px; background:url(../../../kitchen/colty/images/top/free_link.gif) no-repeat; margin-left:218px;}
+		div#threeType div.type p#basicLink a:hover,
+		div#threeType div.type p#floorLink a:hover,
+		div#threeType div.type p#freeLink a:hover{background-position:100% 0;}
+
+ul#top_contentsLink{margin:70px -3px 0 0; overflow:hidden; zoom:1;}
+ul#top_contentsLink li{float:left; margin-right:3px; margin-bottom:3px;}
+ul#top_contentsLink a{text-indent:-9999px; display:block; width:230px; height:115px; background:url(../../../kitchen/colty/images/top/link_btn.jpg) no-repeat;}
+	ul#top_contentsLink li#warktop a{background-position:0 0;}
+	ul#top_contentsLink li#tap a{background-position:-230px 0;}
+	ul#top_contentsLink li#konro a{background-position:-460px 0;}
+	ul#top_contentsLink li#ih a{background-position:-690px 0;}
+	ul#top_contentsLink li#range a{background-position:-920px 0;}
+	ul#top_contentsLink li#common a{background-position:-1150px 0;}
+	ul#top_contentsLink li#color a{background-position:100% 0;}
+
+
+/* 3type : basic, floor storage, free konro
+---------------------------------------------*/
+#wrapper #main #content #basic_h3{margin:40px 0 0;}
+#wrapper #main #content #basic_h3_read img {float:left; margin:0 0 40px;}
+#wrapper #main #content #basic_mainImg{ clear:both; margin:0 0 5px;}
+#wrapper #main #content #basic_readTxt{margin:0 15px 30px;}
+
+#free_mainImg{ clear:both; position:relative; margin:-20px 0 30px; height:223px;}
+	#wrapper #main #content #free_mainImg .img{float:left; margin:0;}
+	#wrapper #main #content #free_mainImg .txt{clear:both; position:absolute; bottom:0; left:360px; width:340px; margin:0;}
+	#free_mainImg .txt img{margin-bottom:8px;}
+
+#set{height:450px; position:relative; clear:both;}
+/* #wrapper #main #content #set .img{float:left; border:1px solid #d9d9d9; padding:19px; margin:0;} */
+#wrapper #main #content #set .img{float:left; padding:19px; margin:0;}
+
+#setCaption{position:absolute; bottom:10px; left:365px;}
+	#wrapper #main #content #setCaption .txt1{border-bottom:solid 1px #666; padding-bottom:10px; margin-bottom:10px;}
+	#wrapper #main #content #setCaption .txt1 img{margin-top:10px;}
+	#wrapper #main #content #setCaption p.cabinet{margin:10px 0;}
+	#wrapper #main #content #setCaption p.txt2 img.num{margin:0 5px;}
+	#wrapper #main #content #setCaption .dtlLink{text-align:right; margin:10px 0 0; font-size:90%;}
+
+/* 実例 */
+.room{margin:60px 0;}
+	#wrapper #main #content .room p.img{margin:0 0 5px;}
+	#wrapper #main #content .room p.spec{float:left; margin:0 0 20px;}
+	#wrapper #main #content .room p.capTxt{float:right; width:350px; margin:0 0 20px; padding:2px 0 0; font-size:90%;}
+	#wrapper #main #content #room04 p.capTxt{width:320px;}
+
+	.room .set{margin:0 0 30px; clear:both; letter-spacing:2px;}
+		.room .set h5{padding:0 0 4px; border-bottom:solid 2px #666; margin:0;}
+		.room table{width:100%;}
+		.room th{width:px; font-weight:normal; text-align:left; padding:0;}
+		.room td{width:px; padding:0;} 
+		.room .line01{width:160px; border-bottom:solid 1px #999; padding:7px 0; line-height:1;}
+		.room .line02{width:180px; border-bottom:solid 1px #999; padding:7px 0; line-height:1;}
+		.room .line03{width:160px; border-bottom:solid 1px #999; padding:7px 0; line-height:1; margin:0 0 0 20px;}
+		.room .line04{width:180px; border-bottom:solid 1px #999; padding:7px 0; line-height:1;}
+
+	.room .set_price{overflow:hidden; zoom:1;}
+		#wrapper #main #content .room .g{float:left; margin:0;}
+		#wrapper #main #content .room .m{float:right; margin:0;}
+
+#cabinetFeature{overflow:hidden; zoom:1; background:#faf9f7; border:solid 1px #cecece; margin-bottom:60px; padding:0 0 0 30px;}
+	#cabinetFeature h4{padding:28px 20px; margin:0 0 0 -20px; height:2px;}
+	#cabinetFeature dl{width:204px; float:left; padding-bottom:30px; position:relative;}
+	#cabinetFeature dl.cb_left,
+	#cabinetFeature dl.cb_center{margin-right:14px;}
+	#cabinetFeature dl.cb_right{}
+	#cabinetFeature dt{font-weight:bold; margin-top:186px; margin-bottom:3px;}
+	#cabinetFeature dd img{position:absolute; top:0; left:0;}
+
+#plumberFeature{overflow:hidden; zoom:1; background:#f1f6f9; border:solid 1px #cecece; margin:0 0 45px; padding:28px 0 0 50px;}
+	#wrapper #main #content #plumberFeature h4{margin:0 0 15px;}
+	#wrapper #main #content #plumberFeature .txt{margin:0;}
+	#plumberFeature .capture{margin:30px 50px 30px 0; overflow:hidden; zoom:1;}
+	#wrapper #main #content #plumberFeature .capture .img{float:left; margin:0;}
+	#wrapper #main #content #plumberFeature .capture .capTxt{float:right; width:325px; margin:40px 0 0;}
+
+
+/* worktop
+---------------------------------------------*/
+#wrapper #main #content #worktop_h3{margin:40px 0 20px;}
+#wrapper #main #content #worktop_h3_read{margin:0 0 40px;}
+
+#worktop{}
+	#worktop h4{margin:0 0 30px;}
+	#worktop #stainless,
+	#worktop #marble{margin:0 0 50px; position:relative; min-height:390px; height:auto !important; height:390px;}
+	#wrapper #main #content #worktop #stainless .img,
+	#wrapper #main #content #worktop #marble .img{position:absolute; top:0; left:0; margin:0;}
+	#worktop #stainless h5,
+	#worktop #marble h5{width:500px; border-bottom:solid 1px #666; padding:225px 0 7px 3px; margin:0 0 10px;}
+	#wrapper #main #content #worktop #stainless .txt,
+	#wrapper #main #content #worktop #marble .txt{width:500px; margin:0 0 0 3px;}
+		#worktop #stainless .txt img,
+		#worktop #marble .txt img{vertical-align:top; margin:10px 0 0;}
+	#wrapper #main #content #worktop #stainless .material,
+	#wrapper #main #content #worktop #marble .material{position:absolute; top:220px; right:20px; width:150px; text-align:right; margin:0;}
+		#worktop #stainless .material img,
+		#worktop #marble .material img{margin:0 0 3px;}
+
+#sink{margin:70px 0 30px 0;}
+	#sink h4{margin:0 0 20px;}
+	#sink .sinkType{float:left; position:relative;}
+	#sink #w360{width:370px;}
+	#sink #w530{width:330px;}
+		#sink .sinkType .img{position:absolute; top:0;}
+		#sink .sinkType h5{margin:235px 0 0; padding:0 0 10px 12px; border-left:solid 1px #666;}
+		#sink .sinkType .txt{padding:0 10px 10px 10px; border-left:solid 1px #666;}/* margin-bottom:20px; */
+
+	#sink div#bascket{clear:both; border-top:solid 1px #666; border-left:solid 1px #666; padding:20px 0 0 20px; overflow:hidden; zoom:1;}
+		#sink div#bascket h5{margin:0 0 10px;}
+		#wrapper #main #content #sink div#bascket .img{margin:0 15px 10px 0; float:left;}
+		#wrapper #main #content #sink div#bascket .txt{margin:0;}
+
+/* option */
+.worktop_option{margin:70px 0; letter-spacing:2px;}
+	.worktop_option .option01{width:300px; float:left; margin:0 30px 0 0;}
+	.worktop_option .option02{width:300px; float:left;}
+	.worktop_option .option01 p.txt{width:170px; float:right;}
+	.worktop_option .option02 p.txt{width:190px; float:right;}
+	.worktop_option .option01 img, 
+	.worktop_option .option02 img{float:left;}
+	
+	.worktop_option .option03{clear:both; overflow:hidden; zoom:1;}
+	.worktop_option .option03 p.txt{width:450px; float:right;}
+	.worktop_option .option03 p.img01,
+	.worktop_option .option03 p.img02{width:100px; float:left; text-align:center; font-size:90%; line-height:1em;}
+	#wrapper #main #content .worktop_option .option03 p.img01{margin:0 10px 3px 0;}
+	#wrapper #main #content .worktop_option .option03 img{margin:0 0 3px;}
+
+
+/* builtin
+---------------------------------------------*/
+#wrapper #main #content h3#built_h3{width:200px; float:left;}
+ul#anchor{width:487px; float:right; margin:0 0 50px; overflow:hidden; zoom:1;}
+	ul#anchor li{display:inline;}
+	ul#anchor li a{display:block; float:left; margin:0 0 3px; height:35px; background:url(../../../kitchen/colty/images/builtin/top_navi.gif) no-repeat; text-indent:-9999px;}
+	ul#anchor li#tapNavi a{width:110px; background-position:0 0; margin-right:3px;}
+	ul#anchor li#heaterNavi a{width:186px; background-position:0 -35px; margin-right:3px;}
+	ul#anchor li#konroNavi a{width:184px; background-position:0 -70px;}
+	ul#anchor li#ihNavi a{width:300px; background-position:0 -105px; margin-right:3px;}
+	ul#anchor li#rangeNavi a{width:184px; background-position:0 -140px;}
+
+.built_section{overflow:hidden; zoom:1;}
+.built_section h4{margin:0 0 10px;}
+#wrapper #main #content .built_section .readTxt{margin:0 0 10px; padding:0 0 10px; border-bottom:solid 1px #666;}
+
+
+/*　#builtin_body .webcatalogue{margin-bottom:50px;}　*/
+.webcatalogue{margin-bottom:50px;}
+
+/* 水栓 */
+#blt_tap{clear:both;}
+	#blt_tap .tap01{width:220px; float:left; margin-right:20px;}
+	#blt_tap .tap02{width:312px; float:left; margin-right:20px;}
+	#blt_tap h5{margin:0 0 5px;}
+	#blt_tap img{margin-bottom:3px;}
+
+/* 電気温水器 */
+#blt_heater{margin:0 0 50px;}
+	#blt_heater h4{padding:0 0 10px; border-bottom:solid 1px #666; margin-bottom:10px; line-height:1;}
+	#blt_heater .img img{float:left; margin-right:25px;}
+	#wrapper #main #content #blt_heater .txt01{margin:0 0 15px 0; position:relative; left:-0.9em;}
+	#wrapper #main #content #blt_heater .notice{text-indent:-1em; margin-bottom:5px; margin-right:1em;}
+
+/* ガスコンロ、電機・IHヒーター */
+#blt_konro,
+#blt_ih{margin:0 0 20px;}
+	#wrapper #main #content #blt_konro .readTxt,
+	#wrapper #main #content #blt_ih .readTxt{margin:0 0 10px 0;}
+
+	.blt_konro, 
+	.blt_ih{width:220px; float:left; position:relative;}
+	.mar_right_20{margin-right:20px;}
+		.blt_konro h5, 
+		.blt_ih h5{color:#666666; margin:0 0 5px; padding:150px 0 0;}
+		#wrapper #main #content .blt_konro .img, 
+		#wrapper #main #content .blt_ih .img{position:absolute; top:0; margin:0;}
+
+#blt_range{margin:60px 0 0 0;}
+	#blt_range .blt_range{width:211px; float:left; margin:0 0 30px; position:relative;}
+	#blt_range .r01,
+	#blt_range .r02{margin-right:33px;}
+	#blt_range .blt_range h5{margin:193px 0 10px;}
+	#wrapper #main #content #blt_range .blt_range .img{position:absolute; top:0; margin:0;}
+	
+	#blt_range .blt_range dt{margin:10px 0 0;}
+	#blt_range .blt_range dt.maguti{display:none;}
+	#blt_range .blt_range dl dt{margin:0 0 2px;}
+	#blt_range .blt_range dl dd{margin:0 0 8px 10px;}
+	#blt_range .blt_range dl dd.maguti{margin:0 0 8px;}
+	
+	#blt_range .r04{clear:both; width:100%;}/* .blt_section.r40 */
+	#blt_range .r04 .img01{position:absolute; top:0; left:0; width:211px;}
+	#blt_range .r04 dl{width:211px;}
+	#blt_range .r04 p.img02{position:absolute; width:470px; left:230px; top:0;}
+	#blt_range .r04 p.img02 img{float:left; margin-right:10px;}
+
+/* option */
+#wrapper #main #content .ih_option p.option01, 
+#wrapper #main #content .ih_option p.option02{width:310px; float:left; margin:0 0 20px;}
+#wrapper #main #content .ih_option p.option01 img, 
+#wrapper #main #content .ih_option p.option02 img{float:left; margin:0 5px 0 30px;}
+
+.ih_option .option03{clear:both; margin:0 62px 0 30px; padding:20px 0 0; border-top:solid 1px #999;}
+.ih_option .option03 p.txt01{}
+#wrapper #main #content .ih_option .option03 p.img01{float:left; text-align:center; padding:0 0 0 100px; margin:0 20px 10px 0;}
+#wrapper #main #content .ih_option .option03 p.img02{float:left; width:178px; text-align:center; margin:0 0 0 10px;}
+	.ih_option .option03 p.img01 img, 
+	.ih_option .option03 p.img02 img{margin:0 0 3px;}
+#wrapper #main #content .ih_option .option03 .txt02{clear:both; font-size:90%; line-height:1.35em; text-indent:-1em; margin:0 0 5px 20px;}
+
+
+
+/* color
+---------------------------------------------*/
+#wrapper #main #content #color_h3{margin:10px 0;}
+#wrapper #main #content #color_h3_read{margin:0 0 40px;}
+.color_section{overflow:hidden; zoom:1;}
+
+/* .color_section h4{margin:0 0 10px;}*/
+.color_section h4{margin:0 0 50px;}
+#wrapper #main #content .color_section .readTxt{margin:0 0 10px;}
+.color_section p img{margin-bottom:3px;}
+
+#g, 
+#m{margin:0 0 0px;}
+	#g h4, 
+	#m h4{margin:0 0 35px;}
+	#g .color , 
+	#m .color {padding:0 0 0 150px; margin:0 0 30px; position:relative; overflow:hidden; zoom:1;}
+	#wrapper #main #content .color .txt{margin:0 0 30px;}
+	.color .readImg{width:130px; position:absolute; top:0; left:0; font-size:90%; line-height:1.3em;}
+		.color .readImg img{margin:0 0 3px;}
+	#wrapper #main #content .color .colorImg_1{width:260px; float:left; margin:0 0 40px;}
+	#wrapper #main #content .color .colorImg_2{width:260px; float:right; margin:0 0 40px;}
+
+#color_worktop{margin:0 0 40px;}
+	#wrapper #main #content #color_worktop .img{width:260px; float:left; margin:0 50px 0 0;}
+
+#color_handle{margin:0 0 40px;}
+#color_CA{margin:0 0 50px;}
+#color_handle{margin:0 0 40px;}
+#color_CA{margin:0 0 50px;}
+	#wrapper #main #content #color_handle p.img, 
+	#wrapper #main #content #color_CA p.img{width:175px; float:left;}
+	#wrapper #main #content #color_handle .mar_right_50, 
+	#wrapper #main #content #color_CA  .mar_right_50{margin-right:50px;}
+
+
+/* parts
+---------------------------------------------*/
+#wrapper #main #content #parts_h3{margin:40px 0;}
+.parts_section{position:relative; border-left:solid 1px #666; margin:0 0 70px; overflow:hidden; zoom:1;}
+.parts_section h4{margin:0 0 13px 16px;}
+#wrapper #main #content .parts_section .readTxt{margin:0 0 10px 16px;}
+
+div#shelf{}
+	#shelf #select{margin:0 21px 10px 0; min-height:210px; height:auto!important; height:210px; padding:0 0 0 294px; position:relative;}
+	#shelf #select h5{margin:0 0 5px;}
+	#wrapper #main #content #shelf #select .txt{padding-bottom:2em; margin:0;}
+	#wrapper #main #content #shelf #select .mainImg{width:569px; height:210px; position:absolute; bottom:0; left:0; font-size:90%; line-height:1; margin:0;}
+	#shelf #select .mainImg img{margin:0 5px 0 0;}
+	
+	#shelf .details{float:left; width:329px; margin:20px 0 0 0; min-height:105px; height:auto!important; height:105px; position:relative;}
+	#shelf #door,
+	#shelf #hall{margin-right:40px;}
+	#shelf .details h5{margin:0 0 3px 145px;}
+	#wrapper #main #content #shelf .details .txt{padding:0 0 0 145px; margin:0;}
+	#shelf .details p img{position:absolute; top:0; left:0;}
+
+#suspipe{margin:60px -30px 60px 0;}
+	#suspipe .suspipe{width:260px; float:left; margin:0 30px 0 0; padding:163px 0 0; position:relative;}
+	#suspipe .suspipe h5,
+	#wrapper #main #content #suspipe .suspipe p{padding-left:23px; margin:0 0 3px;}
+	#suspipe .suspipe p img{position:absolute; top:0; left:0;}
+
+/* コンパクトボックス（#conpact）、コンパクト対面（#taimen） */
+#conpact{min-height:619px; height:auto!important; height:619px;}
+#taimen{min-height:648px; height:auto!important; height:648px;}
+	#wrapper #main #content #conpact p.mainImg,
+	#wrapper #main #content #taimen p.mainImg{margin:0 0 10px;}
+	
+	#wrapper #main #content #conpact p.txt,
+	#wrapper #main #content #taimen p.txt{float:right; width:490px; margin:20px 0 3.5em;}
+	
+	#conpact .detail,
+	#taimen .detail{position:absolute; bottom:0;}
+	#wrapper #main #content #conpact .detail p,
+	#wrapper #main #content #taimen .detail p{margin:0;}
+	#conpact .detail span,
+	#taimen .detail span{display:block; width:513px; position:absolute; bottom:0; left:187px; font-size:90%; line-height:1.4em; padding:1.5em 0 0;}
+
+/* caボード */
+#ca{position:relative;}
+	#wrapper #main #content #ca .mainImg{margin:0 0 10px;}
+	#wrapper #main #content #ca .txt{width:463px; margin:0 0 50px 23px;}
+	
+	#ca .color{width:183px; position:absolute; top:55px; right:0;}
+	#wrapper #main #content #ca .color p{margin:0 0 7px;}
+	#ca .color img{margin:0 0 2px;}
+	
+	#board{margin-left:150px;}
+		#wrapper #main #content #board p#top{margin:0 0 5px; text-align:right;}
+		#board_inn{border:solid 1px #999; padding:20px 0 20px 125px; overflow:hidden; zoom:1;}
+			#wrapper #main #content #board_inn h5{margin:0 0 5px;}
+			#wrapper #main #content #board_inn p.img01{width:109px; float:left; text-align:center; margin:0 30px 0 0;}
+			#wrapper #main #content #board_inn p.img02{width:167px; float:left; text-align:center; margin:0;}
+		#wrapper #main #content #ca #board p#bottom{font-size:90%; margin:5px 0 0; text-align:right; line-height:1;}
+
+

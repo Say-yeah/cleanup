@@ -1,0 +1,57 @@
+@charset "shift_jis";
+
+/* ===========================
+     フォントサイズ
+=========================== */
+
+/*　見出し　*/
+h2 {
+	font-size: 120%;
+	line-height: 100%;
+}
+h3 {
+	font-size: 120%;
+	line-height: 100%;
+}
+/*　本文基本サイズ　*/
+body {
+	font-size: 90%;
+	line-height: 150%;
+}
+/*　固定　*/
+.ft01{
+	font-size: 10px;
+	line-height: 140%;
+}
+.ft02{
+	font-size: 12px;
+	line-height: 140%;
+}
+.ft03{
+	font-size: 14px;
+	line-height: 150%;
+}
+.ft04{
+	font-size: 16px;
+	line-height: 150%;
+}
+.ft05{
+	font-size: 18px;
+	line-height: 150%;
+}
+.ft06{
+	font-size: 20px;
+	line-height: 150%;
+}
+/*　可変　*/
+.e9{font-size:65%; line-height:120%;}
+.e10{font-size: 70%;line-height: 120%;}
+.e12{font-size: 80%;line-height: 120%;}
+.cr10{font-size: 70%;line-height: 120%;letter-spacing:1px;}
+
+.j9{font-Size:65%; line-height:140%;}
+.j10{font-size: 70%;line-height:140%;}
+.j12{font-size: 80%;line-height:140%; letter-spacing:1px;}
+.j14{font-size: 100%; line-height:140%; letter-spacing:1px;}
+
+.j12read{font-Size:80%; line-height:160%; letter-spacing:1px;}

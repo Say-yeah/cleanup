@@ -1,0 +1,108 @@
+@charset "shift_jis";
+
+/* --------------------------------------------------------------
+#header
+-------------------------------------------------------------- */
+
+#header {
+	width:960px!important;
+	margin:0 auto!important;
+	}
+	
+/*for IE7*/
+*+html #header {
+	margin:0 auto 30px auto!important;
+	}
+	
+/*for IE6*/
+* html #header {
+	margin:0 auto 30px auto!important;
+	}
+
+	
+#header h1{
+	float:left;
+	margin:40px 0 23px 0;
+	}
+	
+#header .rightArea {
+	float:right;
+	margin:30px 0 23px 0;
+	}
+
+#header .rightArea {
+	position:relative;
+	width:496px;
+	}
+	
+#header .rightArea form {
+	position:absolute;
+	left:0;
+	top:0;
+	width:310px;
+	height:24px;
+	border-bottom:solid 1px #222;
+	line-height:1;
+	}
+	
+#header .rightArea form #searchtxt {
+	/*border:none;*/
+	width:280px;
+	float:right;
+	border:none;
+	}
+	
+#header .rightArea form #btn {
+	float:left;
+	border:none;
+	}
+	
+#header .rightArea dl{
+	position:absolute;
+	top:0;
+	right:0;
+	}
+	
+#header .rightArea dl dt{
+	float:left;
+	padding:5px 10px 0 0;
+	}
+	
+#header .rightArea dl dd{
+	float:left;
+	padding:0 2px 0 0;
+	}
+	
+#header .rightArea dl dd a{
+	background:url(/images/common/bt_font_s.gif) 0 0 no-repeat;
+	display:block;
+	width:24px;
+	height:24px;
+	text-indent:-9999px;
+	}
+	
+#header .rightArea dl dd.fontS a{
+	background:url(/common/images/common/bt_font_s.gif) 0 0 no-repeat;
+	}
+	
+#header .rightArea dl dd.fontM a{
+	background:url(/common/images/common/bt_font_m.gif) 0 0 no-repeat;
+	}
+	
+#header .rightArea dl dd.fontL a{
+	background:url(/common/images/common/bt_font_l.gif) 0 0 no-repeat;
+	}
+	
+#header .rightArea dl dd.current a{
+	background-position:0 -24px;
+	}
+	
+#header .rightArea ul{
+	position:absolute;
+	top:44px;
+	left:0;
+	}
+	
+#header .rightArea ul li {
+	float:left;
+	}

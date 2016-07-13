@@ -1,0 +1,43 @@
+@charset "shift_jis";
+
+/* -------------------------
+     タグの再定義
+------------------------- */
+
+body{margin:0;padding:0;}
+div#header,div#footer,div#navi{margin:0;padding:0;}
+
+p#pankuzu{text-align:right;}
+
+
+/* 見出し */
+h1#header{margin:6px 0 11px 0;float:left;}
+h2.newH2{margin:6px 0 11px 0;}
+
+/* フォーム */
+input#searchtxt{border:1px solid #333333;}
+
+/* リスト */
+div#header ul,div#header li,
+div#footer ul,div#footer li,
+div#navi ul,div#navi li{margin:0;padding:0;}
+
+/* -------------------------
+   大枠レイアウトテーブル
+------------------------- */
+table#layout{text-align:center;margin:0 auto;}
+
+
+/* -------------------------
+   ショールーム印刷ボタン
+------------------------- */
+tr#print td a{
+	display:block;
+	width:560px;
+	height:35px;
+	text-indent:-9999px;
+	background:url(../../showroom/info/images/print_btn.gif) no-repeat;
+}
+tr#print td a:hover{
+	background-position:0 100%;
+}

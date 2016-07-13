@@ -1,0 +1,18 @@
+@charset "shift_jis";
+
+.clear {clear:both;}
+.innermargin { padding:10px;}
+
+#info01 div.txtbox {margin-bottom:30px;}
+#info01 div.txtbox2 {margin-bottom:15px;}
+#info01 div.txtbox3 {margin:5px 0 0 10px;}
+#info01 .list_no { display:block; float:left; width:30px; margin:0 0 10px 0;}
+#info01 .list_txt {display:block; float:left; width:450px; margin:0 0 10px 0;}
+
+#info01 table {
+border-collapse:collapse;
+border-spacing:0;
+}
+#info01 .tableboder td,th {
+	padding:3px; border-collapse: collapse;
+    border:1px solid #ccc;}

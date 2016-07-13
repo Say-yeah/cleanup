@@ -1,0 +1,1012 @@
+@charset "Shift_JIS";
+
+
+
+/** common
+/**************************************/
+div#main p {
+	line-height:     180%;
+	margin-bottom:   0 !important;
+}
+
+div#main hr {
+	margin:          30px 0;
+	border-top:      2px solid #e0e0e0;
+	height:          0;
+	padding:         0;
+}
+
+div#main p.pagetop {
+	padding-bottom:  30px;
+}
+
+div#main div.space {
+	padding:         50px 0 0;
+}
+
+div#main h4 {
+	margin-bottom:   0 !important;
+}
+
+
+
+/** navi
+/**************************************/
+div#side h2 {
+	margin:          0 0 40px !important;
+}
+
+div#side div.label {
+	margin:          0 0 15px;
+}
+
+div#side ul li.sp a {
+	padding-left:    0 !important;
+}
+
+
+
+/** parts
+/**************************************/
+.w120 { width : 120px; }
+.w130 { width : 130px; }
+.w140 { width : 140px; }
+.w145 { width : 145px; }
+.w150 { width : 150px; }
+.w160 { width : 160px; }
+.w170 { width : 170px; }
+.w180 { width : 180px; }
+.w185 { width : 185px; }
+.w190 { width : 190px; }
+.w200 { width : 200px; }
+.w210 { width : 210px; }
+.w220 { width : 220px; }
+.w230 { width : 230px; }
+.w240 { width : 240px; }
+.w260 { width : 260px; }
+.w290 { width : 290px; }
+.w300 { width : 300px; }
+.w310 { width : 310px; }
+.w320 { width : 320px; }
+.w330 { width : 330px; }
+.w335 { width : 335px; }
+.w340 { width : 340px; }
+.w350 { width : 350px; }
+.w400 { width : 400px; }
+.w450 { width : 450px; }
+.w480 { width : 480px; }
+.w510 { width : 510px; }
+.w530 { width : 530px; }
+
+.h80  { height :  80px; }
+.h115 { height : 115px; }
+.h125 { height : 125px; }
+.h162 { height : 162px; }
+.h180 { height : 180px; }
+.h220 { height : 220px; }
+.h250 { height : 250px; }
+.h280 { height : 280px; }
+.h330 { height : 330px; }
+.h420 { height : 420px; }
+.h450 { height : 450px; }
+.h480 { height : 480px; }
+.h500 { height : 500px; }
+
+.mr0   { margin-right: 0    !important; }
+.mr10  { margin-right: 10px !important; }
+.mr15  { margin-right: 15px !important; }
+.mr18  { margin-right: 18px !important; }
+.mr20  { margin-right: 20px !important; }
+.mr25  { margin-right: 25px !important; }
+.mr30  { margin-right: 30px !important; }
+.mr40  { margin-right: 40px !important; }
+.mr50  { margin-right: 50px !important; }
+.mr60  { margin-right: 60px !important; }
+.mr80  { margin-right: 80px !important; }
+
+.ml30  { margin-left: 30px !important; }
+
+.mt5   { margin-top:   5px  !important; }
+.mt10  { margin-top:   10px !important; }
+.mt15  { margin-top:   15px !important; }
+.mt20  { margin-top:   20px !important; }
+.mt25  { margin-top:   25px !important; }
+.mt30  { margin-top:   30px !important; }
+.mt35  { margin-top:   35px !important; }
+.mt40  { margin-top:   40px !important; }
+.mt45  { margin-top:   45px !important; }
+.mt50  { margin-top:   50px !important; }
+.mt60  { margin-top:   60px !important; }
+.mt65  { margin-top:   65px !important; }
+.mt70  { margin-top:   70px !important; }
+.mt75  { margin-top:   75px !important; }
+.mt80  { margin-top:   80px !important; }
+.mt85  { margin-top:   85px !important; }
+.mt90  { margin-top:   90px !important; }
+.mt110 { margin-top:  110px !important; }
+.mt130 { margin-top:  130px !important; }
+.mt140 { margin-top:  140px !important; }
+
+.mb5   { margin-bottom: 5px !important; }
+.mb15  { margin-bottom:15px !important; }
+.mb70  { margin-bottom:70px !important; }
+
+.mb30  { margin-bottom:30px !important; }
+
+.pl10  { padding-left: 10px !important; }
+.pl20  { padding-left: 20px !important; }
+
+.pd10  { padding: 10px; }
+.pd15  { padding: 15px; }
+.pd20  { padding: 20px; }
+
+.flo_l{ float : left; }
+.flo_r{ float : right; }
+
+.tx_orange { color : #ee821a; }
+.tx_blue   { color : #3366a0; }
+.tx_brown  { color : #845833; }
+
+.bg_gray01 { background : #f7f7f7; }
+.bg_gray02 { background : #f3f3f3; }
+.bg_gray03 { background : #efefef; }
+.bg_green  { background : #f0f5f1; }
+
+.l18 { line-height : 1.8; }
+.db { display : block; }
+
+.no_side_margin {
+	margin-left:        0;
+	margin-right:       0;
+}
+
+.ver_middle { vertical-align:  middle !important; }
+.ver_bottom { vertical-align : bottom !important; }
+.ver_top    { vertical-align : top !important; }
+
+.ver_bottom > * {
+	display:         inline-block;
+	*display:        inline;
+	zoom:            1;
+	text-align:      left;
+}
+
+img.ver_middle {
+	vertical-align:  middle;
+	padding:         0 0 6px;
+}
+
+.pos_r { position : relative; }
+.pos_center { text-align : center; }
+.pos_center > * {
+	display:         inline-block;
+	*display:        inline;
+	zoom:            1;
+	text-align:      left;
+}
+
+.tx80 {
+	font-size:       70%;
+	line-height:     1.4 !important;
+}
+.tx90 {
+	font-size:       80%;
+	line-height:     1.6 !important;
+}
+
+.tx100 { font-size : 90%; }
+.tx110 { font-size : 110%; }
+.tx120 { font-size : 120%; }
+.tx130 { font-size : 130%; }
+.tx140 { font-size : 140%; }
+.tx200 { font-size : 200%; }
+.tx220 { font-size : 220%; }
+.tx240 { font-size : 240%; }
+
+.tx_normal {
+	font-weight:     normal;
+}
+
+.ast {
+	text-indent:     -1em;
+	padding:          0 0 0 1em;
+}
+
+.bb {
+	border-bottom:   1px solid #b2b2b2;
+	padding:         0 0 5px;
+}
+
+.tail {
+	font-size:       110%;
+	color:           #ee821a;
+	vertical-align:  top;
+	font-weight:     bold;
+}
+
+.icon_new {
+	color:           #d80c24;
+	font-weight:     bold;
+}
+
+.cf:after{
+	content:         ".";
+	display:         block;
+	height:          0;
+	clear:           both;
+	visibility:      hidden;
+}
+
+a img.ov:hover {
+	opacity:         0.6;
+	filter:          alpha(opacity=60);
+	-ms-filter:      "alpha( opacity=60 )";
+	background:      #ffffff;
+}
+
+.num01 {
+	background:      url( "/kitchen/rakuera/images/icon_num01.png" ) left center no-repeat;
+	padding:         0 0 0 22px;
+}
+
+.num02 {
+	background:      url( "/kitchen/rakuera/images/icon_num02.png" ) left center no-repeat;
+	padding:         0 0 0 22px;
+}
+
+.num03 {
+	background:      url( "/kitchen/rakuera/images/icon_num03.png" ) left center no-repeat;
+	padding:         0 0 0 22px;
+}
+
+.num04 {
+	background:      url( "/kitchen/rakuera/images/icon_num04.png" ) left center no-repeat;
+	padding:         0 0 0 22px;
+}
+
+.btn_up {
+	position:        relative;
+	width:           100%;
+}
+
+.btn_up a {
+	display:         block;
+	right:           0;
+	top:             -50px;
+	position:        absolute;
+}
+
+.circle_gray span {
+	color:           #c1c1c1;
+}
+
+.title_gray {
+	background:      #999999;
+	padding:         3px 10px;
+	font-weight:     bold;
+	color:           #ffffff;
+}
+
+.bg_gr01 {
+  background-color: #f7f7f7;
+}
+
+.ac {
+	text-align:      center !important;
+}
+
+
+
+/** intro
+/**************************************/
+div#main div.intro {
+	overflow:        hidden;
+	margin:          35px 0 0;
+}
+
+div#main div.intro p {
+	width:           320px;
+	float:           left;
+}
+
+div#main div.intro div.pic {
+	float:           right;
+}
+
+
+
+/** spec info
+/**************************************/
+div.spec_info div {
+	margin:          0 0 7px;
+}
+
+
+
+/** accordion
+/**************************************/
+a.switch {
+	margin:          60px 0 0;
+	display:         block;
+}
+
+div.accordion {
+	padding:         40px 0 0;
+	display:         none;
+}
+
+div.accordion div.btn_hide {
+	border-top:      1px solid #cdcdcd;
+	margin:          25px 0 30px;
+	padding:         5px 0 0;
+	text-align:      right;
+}
+
+div.accordion div.btn_close {
+	margin:          60px 0 0;
+}
+
+div.accordion div.btn_close_s {
+	margin:          10px 0 30px;
+	text-align:      right;
+}
+
+
+
+/** table item_list
+/**************************************/
+table.item_list {
+	border-collapse: collapse;
+	border-spacing:  0;
+	font-size:       80%;
+	margin:          10px 0 0;
+	border-top:      2px solid #e0e0e0;
+	table-layout:    fixed;
+}
+
+table.item_list td {
+	border-left:     2px solid #e0e0e0;
+	vertical-align:  middle;
+}
+
+table.item_list th {
+	vertical-align:  middle;
+	line-height:     140%;
+	text-align:      left;
+}
+
+table.item_list th,
+table.item_list td {
+	border-bottom:   2px solid #e0e0e0;
+	table-layout:    fixed;
+}
+
+table.pd10 th,
+table.pd10 td {
+	padding:         12px 10px;
+}
+
+table.pd8 th,
+table.pd8 td {
+	padding:         10px 8px;
+}
+
+table.pd6 th,
+table.pd6 td {
+	padding:         8px 6px;
+}
+
+table.pd4 th,
+table.pd4 td {
+	padding:         6px 4px;
+}
+
+/* parts */
+table.item_list th.br {
+	border-right:    2px solid #e0e0e0 !important;
+}
+
+table tr.bb_1px td,
+table tr.bb_1px th {
+	border-bottom:   1px solid #e0e0e0 !important;
+}
+
+table.item_list td.label {
+	position:        relative;
+}
+
+table.item_list td.label div.label_pic {
+	position:        absolute;
+	top:             -10px;
+}
+
+table.item_list td.pos_ab {
+	position:        relative;
+	padding-bottom:  10px;
+}
+
+table.item_list td.pos_ab strong {
+	display:         block;
+	position:        absolute;
+	text-align:      center;
+	width:           100%;
+	bottom:          5px;
+}
+
+table.item_list tr.bg {
+	background:      #f3f3f3;
+}
+
+table.item_list td.bg_bicoart {
+	background:      url( "/kitchen/rakuera/images/logo_bicoart.png" ) no-repeat right 10px;
+}
+
+table.item_list td.bg_eco {
+	background:      url( "/kitchen/rakuera/images/icon_eco_s.png" ) no-repeat right 10px;
+}
+
+table.item_list th.head {
+	background:      #f3f3f3;
+	text-align:      center;
+}
+
+/* common */
+table th.bl_0px,
+table td.bl_0px {
+	border-left:     none !important;
+}
+
+table td.br_0px {
+	border-left:     none !important;
+}
+
+table th.nowrap,
+table td.nowrap {
+	white-space:     nowrap;
+}
+
+
+
+/** table tx_list
+/**************************************/
+table.tx_list {
+	border-collapse: collapse;
+	border-spacing:  0;
+	font-size:       80%;
+	border-top:      2px solid #b2b2b2;
+	border-bottom:   2px solid #b2b2b2;
+	table-layout:    auto;
+}
+
+table.tx_list thead {
+	background:      #f3f3f3;
+	font-weight:     bold;
+}
+
+table.tx_list th {
+	vertical-align:  middle;
+	line-height:     140%;
+}
+
+table.tx_list th,
+table.tx_list td {
+	border-bottom:   1px solid #e0e0e0;
+	border-left:     1px solid #e0e0e0;
+	table-layout:    fixed;
+	padding:         4px 2px;
+	text-align:      center;
+}
+
+table.tx_list th.w110,
+table.tx_list td.w110 {
+	width:           110px !important;
+}
+table.tx_list td.icon_eco span {
+	background:      url( "/kitchen/rakuera/images/gas_conro/icon_ecoball.png" ) left center no-repeat;
+	padding:         5px 0 5px 18px;
+}
+
+
+
+
+/** footer bnr
+/**************************************/
+div#bottom_navi {
+	margin:          0 auto;
+	width:           960px;
+}
+
+ul.bottom_navi_links {
+	padding:         0 0 0 260px;
+	margin:          0;
+}
+
+
+
+/** top
+/**************************************/
+#top div#feature ul {
+	overflow:        hidden;
+}
+
+#top div#feature ul li {
+	float:           left;
+	margin:          0 18px 0 0;
+}
+
+#top div#info h3 {
+	margin:          0 0 34px !important;
+}
+
+#top div#info ul {
+	overflow:        hidden;
+}
+
+#top div#info ul li {
+	float:           left;
+	width:           210px;
+	margin:          0 35px 40px 0;
+	line-height:     1.8;
+}
+
+#top div#info ul li > div {
+	margin:          0 0 10px;
+}
+
+#top div#info ul li a {
+	background:      url( "/kitchen/rakuera/images/arrow_orange.gif" ) left center no-repeat;
+	padding:         0 0 0 15px;
+	color:           #333333;
+	display:         block;
+	text-decoration: underline;
+}
+
+#top div#info ul li a:hover {
+	text-decoration: none;
+}
+
+
+
+/** choise
+/**************************************/
+#choice div.section {
+	width:           650px;
+	margin:          0 auto;
+}
+
+#choice div.section h5 {
+	margin-bottom:   15px;
+}
+
+#choice div#step1 ul,
+#choice div#step2 ul {
+	overflow:        hidden;
+}
+
+#choice div#step1 ul li,
+#choice div#step2 ul li {
+	float:           left;
+}
+
+#choice div#step1 ul li p,
+#choice div#step2 ul li p {
+	line-height:     1.4;
+	margin:          10px 0 0;
+}
+
+#choice div#step1 ul li {
+	width:           200px;
+	margin:          0 25px 0 0;
+}
+
+#choice div#step2 ul li {
+	width:           310px;
+	margin:          0 30px 0 0;
+}
+
+
+
+/** reform
+/**************************************/
+#reform div.section {
+	width:           650px;
+	margin:          0 auto;
+}
+
+#reform h4 {
+	padding-bottom:  15px;
+}
+
+#reform div.step3_bg01,
+#reform div.step3_bg02 {
+	position:        relative;
+	width:           325px;
+	height:          150px;
+}
+
+#reform div.step3_bg01 {
+	background:      #ffffff url( "/kitchen/rakuera/images/reform/step3_pic02.png" ) no-repeat;
+}
+
+#reform div.step3_bg02 {
+	background:      #ffffff url( "/kitchen/rakuera/images/reform/step3_pic03.png" ) no-repeat;
+}
+
+#reform div.step3_bg01 p,
+#reform div.step3_bg02 p {
+	position:        absolute;
+	left:            17px;
+	line-height:     1.6;
+}
+
+#reform div.step3_bg01 p {
+	top:             65px;
+	width:           145px;
+}
+
+#reform div.step3_bg02 p {
+	top:             40px;
+	width:           160px;
+}
+
+
+
+/** plan
+/**************************************/
+#plan div#mainvisual > div {
+	position:        relative;
+	display:         none;
+	width:           700px;
+	height:          460px;
+}
+
+#plan div#mainvisual div.pic {
+	position:        absolute;
+	top:             0;
+	left:            0;
+	z-index:         1;
+}
+
+#plan div#mainvisual div.detail {
+	position:        absolute;
+	top:             0;
+	right:           0;
+	z-index:         2;
+	display:         none;
+}
+
+#plan div#mainvisual div.btn {
+	position:        absolute;
+	left:            20px;
+	bottom:          14px;
+	z-index:         3;
+}
+
+#plan ul#thumb {
+	overflow:        hidden;
+	margin:          20px 0 0;
+	position:        relative;
+}
+
+#plan ul#thumb li {
+	float:           left;
+	margin:          0 20px 14px 0;
+}
+
+#plan div.info {
+	overflow:        hidden;
+	margin:          10px 0 0;
+}
+
+#plan div.info div.note_left {
+	float:           left;
+	font-size:       90%;
+}
+
+#plan div.info div.note_right {
+	float:           right;
+	font-size:       80%;
+}
+
+
+
+/** package
+/**************************************/
+#package div.boxline3 {
+	position:        relative;
+}
+
+#package div.boxline3 div.box01 {
+	position:        absolute;
+	top:             0;
+	left:            0;
+}
+
+#package div.boxline3 div.box02 {
+	position:        absolute;
+	top:             0;
+	left:            210px;
+}
+
+#package div.boxline3 div.box03 {
+	position:        absolute;
+	top:             0;
+	left:            390px;
+}
+
+#package div.boxline3 div.box04 {
+	position:        absolute;
+	top:             0;
+	left:            285px;
+}
+
+#package div.boxline3 div.box05 {
+	position:        absolute;
+	top:             0;
+	left:            180px;
+}
+
+#package div.boxline3 div.box06 {
+	position:        absolute;
+	top:             0;
+	left:            520px;
+}
+
+#package div.border_r {
+	border-right:    1px solid #c8c8c8;
+	margin-right:    20px;
+	padding-right:   10px;
+}
+
+
+
+/** stainless_worktop
+/**************************************/
+#stainless_worktop div.pic_tx {
+	position:        relative;
+	height:          60px;
+}
+
+#stainless_worktop div.pic_tx p.tx01 {
+	position:        absolute;
+	left:            25px;
+}
+
+#stainless_worktop div.pic_tx p.tx02 {
+	position:        absolute;
+	left:            205px;
+}
+
+
+
+/** door
+/**************************************/
+#door h4.label01 {
+	background:      url( "/kitchen/rakuera/images/door/spec_lebel01.png" ) no-repeat right top;
+}
+
+#door h4.label02 {
+	background:      url( "/kitchen/rakuera/images/door/spec_lebel02.png" ) no-repeat right top;
+}
+
+#door ul.colorpalet {
+	overflow:        hidden;
+	margin:          15px 0 0;
+}
+
+#door ul.colorpalet li {
+	float:           left;
+	margin:          0 12px 12px 0;
+}
+
+#door ul.colorpalet li p {
+	margin:          5px 0 0;
+	font-size:       80%;
+	line-height:     1.4;
+}
+
+#door hr {
+	margin:          20px 0 !important;
+}
+
+
+
+/** special
+/**************************************/
+#special div#content p {
+	line-height:     1.8;
+}
+
+#special div#content p a {
+	text-decoration: underline;
+}
+
+#special div#content hr {
+	border-top:      2px solid #9e8e81;
+	margin:          60px 0 0;
+}
+
+#special ul.list li {
+	margin:          0 0 3px;
+	font-size:       80%;
+}
+
+#special div.color_pic {
+	position:        relative;
+}
+
+#special div.color_pic img {
+	position:        absolute;
+	top:             -20px;
+	z-index:         -1;
+}
+
+#special div.profile {
+	border:          1px solid #845833;
+	padding:         25px;
+}
+
+
+
+/** feature door
+/**************************************/
+#feature_door div#main ul.list01 {
+	overflow:        hidden;
+}
+
+#feature_door div#main ul.list01 li {
+	margin:          0 13px 7px 0;
+	float:           left;
+}
+
+#feature_door div#main ul.list01 li p {
+	font-size:       70% !important;
+	margin:          3px 0 0;
+}
+
+#feature_door div#main ul.list02 {
+	overflow:        hidden;
+}
+
+#feature_door div#main ul.list02 li {
+	margin:          0 0 15px 0;
+	float:           left;
+}
+
+#feature_door div#main ul.list02 li p {
+	font-size:       80% !important;
+	line-height:     1.4;
+	margin:          10px 0 0;
+}
+
+#feature_door div#main div.handle01 {
+	width:           554px;
+	height:          277px;
+	background:      url( "/kitchen/rakuera/images/feature_door/handle_pic01.jpg" ) no-repeat;
+	position:        relative;
+}
+
+#feature_door div#main div.handle01 p,
+#feature_door div#main div.handle02 p {
+	font-size:       80%;
+	line-height:     1.4;
+}
+
+#feature_door div#main div.handle01 div.tx01 {
+	position:        absolute;
+	left:            0;
+	top:             15px;
+	width:           380px;
+}
+
+#feature_door div#main div.handle01 div.tx02 {
+	position:        absolute;
+	right:           15px;
+	top:             15px;
+	width:           110px;
+}
+
+#feature_door div#main div.handle02 {
+	width:           700px;
+	height:          220px;
+	background:      url( "/kitchen/rakuera/images/feature_door/handle_pic02.jpg" ) no-repeat;
+	position:        relative;
+}
+
+#feature_door div#main div.handle02 div.tx01 {
+	position:        absolute;
+	left:            85px;
+	top:             155px;
+}
+
+#feature_door div#main div.handle02 div.tx02 {
+	position:        absolute;
+	left:            323px;
+	top:             155px;
+}
+
+#feature_door div#main div.handle02 div.tx03 {
+	position:        absolute;
+	left:            570px;
+	top:             155px;
+}
+
+
+
+/** feature_worktop_sink
+/**************************************/
+#feature_worktop_sink div#main ul.list01 {
+	overflow:        hidden;
+}
+
+#feature_worktop_sink div#main ul.list01 li {
+	float:           left;
+	margin:          0 7px 10px 0;
+}
+
+#feature_worktop_sink div#main ul.list01 li p {
+	font-size:       80%;
+}
+
+#feature_worktop_sink div.bicoart {
+	background:      url( "/kitchen/rakuera/images/feature_worktop_sink/silent_pic04.jpg" ) no-repeat;
+	width:           335px;
+	height:          149px;
+	position:        relative;
+}
+
+#feature_worktop_sink div.bicoart p {
+	position:        absolute;
+	left:            153px;
+	bottom:          22px;
+}
+
+
+
+/** feature_storage
+/**************************************/
+#feature_storage div#main div.foot_storage {
+	width:           700px;
+	height:          304px;
+	background:      url( "/kitchen/rakuera/images/feature_storage/foot_pic01.jpg" ) no-repeat;
+	position:        relative;
+}
+
+#feature_storage div#main div.foot_storage div {
+	position:        absolute;
+	left:            0;
+	bottom:          0;
+}
+
+#feature_storage div#main div.foot_storage p {
+	position:        absolute;
+	right:           0;
+	bottom:          0;
+	width:           170px;
+}
+
+
+
+/** ie6
+/**************************************/
+#ie6 div#main_1line {
+	width:           960px;
+	margin:          0 auto;
+}
+
+#ie6 div#main_1line p {
+	line-height:     2;
+}
+
+#ie6 div#main_1line ul {
+	overflow:        hidden;
+	width:           810px;
+	margin:          60px auto 0;
+}
+
+#ie6 div#main_1line ul li {
+	float:           left;
+	margin:          0 10px;
+}
+
+

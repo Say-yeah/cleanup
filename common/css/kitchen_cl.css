@@ -1,0 +1,668 @@
+@charset "Shift_JIS";
+/* CSS Document */
+
+/* 共通
+-----------------------------------*/
+div#contents{font-size:80%; line-height:140%; letter-spacing:1px; text-align:left; width:570px; margin:0 0 0 10px; zoom:1;}
+div.section,
+div.article{zoom:1;}
+div#contents:after,
+div.section:after,
+div.article:after{display:block; clear:both; content:' '; height:0; overflow:hidden;}
+
+div#cl_ttl{margin:6px 0 12px; width:760px; height:230px; background:url(../../../kitchen/cleanlady/images/h2_clttl_bg.jpg) no-repeat; position:relative;}
+div#cl_ttl h2{display:none;}
+div#slideshow{text-align:right; width:507px; height:230px; overflow:hidden; z-index:100; position:absolute; top:0; right:0;}
+
+div#contents h3.pagettl{margin:20px 0 16px; padding:0 0 28px; border-bottom:solid #999 4px;}
+
+/* ビルトイン、洗エール */
+div#contents h3.pagettl2{width:255px; margin:23px 0 0; float:left; overflow:hidden;}
+div.eco_mark{float:right; width:292px; border:solid 1px #ccc; margin:3px 0 13px;}
+div.eco_mark p{margin:7px; font-size:82%; line-height:1.2em;}
+div.eco_mark p img{float:left; margin:0 8px 0 0;}
+div.ttl_clear{clear:both; margin:0 0 16px; border-bottom:solid #999 4px;}
+		
+/* movie */
+div#mov{text-align:center; margin:0 0 40px;}	
+div#mov h3{margin:0 0 22px;}
+div#mov div.mov_content{width:468px; margin:0 atuo; text-align:left;}
+div#mov div.mov_content p{font-weight:bold; margin:5px 0;}
+div#mov div.mov_content p.link{font-weight:normal; font-size:92%; margin:0; line-height:1;}
+div#mov div.mov_content p.link a{text-decoration:underline;}
+
+div.mov_index_contents{padding:20px 0 0;}
+div.mov_index_contents div#mov{margin:0 0 -40px;}
+div.mov_index_contents div.mov_content{margin:40px auto;}
+
+/* tips - sink, worktop */
+div#contents div.tips{background:#f7f6f6; padding:15px 12px; zoom:1;}
+div#contents div.tips:after{display:block; clear:both; height:0.1; overflow:hidden; content:' ';}
+div#contents div.tips h5{margin:0 0 10px;}
+div#contents div.tips p{margin:0;}
+
+/*eコート　sink, range */
+div#e-coat{border:solid 1px #ccc; padding:16px 0 0;}
+div#e-coat h5{margin-left:10px;}
+div#e-coat p.ecoat_01{margin-left:10px; margin-right:10px;}
+div#e-coat p.ecoat_02{margin-left:10px; margin-right:10px; font-size:92%; line-height:1.3em;}
+div#e-coat p.ecoat_03{text-align:center; margin-bottom:0;}
+
+/* submenu */
+div#contents ul#builtmenu{position:relative;margin:-5px 0 20px;text-align:right;}
+div#contents ul#builtmenu li{display:inline;background:url(../../../kitchen/cleanlady/images/built/icon_arrow_pagedown.gif) no-repeat 23px 0.2em;padding-left:37px;}
+div#contents ul#builtmenu li a:link,
+div#contents ul#builtmenu li a:visited{color:#000000;text-decoration:underline;}
+div#contents ul#builtmenu li a:hover{color:#000000;text-decoration:none;}
+
+/* カタログボタン */
+div#contents p.catalog_btn{clear:both; text-align:right; margin:40px 0 0;}
+div#contents p.catalog_mddl{margin:0;}
+p.catalog_btn a{display:block; width:303px; height:36px;background:url(../../../kitchen/cleanlady/images/built/btn_catalog.gif) no-repeat left; margin:5px 0 0 267px;}
+p.catalog_btn a span {display:none;}
+p.catalog_btn a:link {background-position:0 0;}
+p.catalog_btn a:hover {background-position:100% 0;}
+
+
+ul.link,
+ul.link li{list-style:none; margin:0; padding:0; line-height:0.1; font-size:0.1; text-indent:-9999px;}
+ul.link li a{display:block; overflow:hidden;}
+
+img.vr_middle{vertical-align:middle;}
+
+.hidden{display:none;}
+
+
+/* index.shtml
+-----------------------------------*/
+/* feature */
+div.index_contents{position:relative;}
+ul.feature_point{display:none;}
+p.feature_img{margin:0 0 15px;}
+ul#btn_special{position:absolute; top:82px; left:0;}
+
+div.index_contents div#ecocabi{position:relative; margin:0 0 45px;}
+	div.index_contents div#ecocabi h4{float:right; margin:0;}
+	div.index_contents div#ecocabi p.logo{float:left; margin:0 13px 0 0;}
+	div.index_contents div#ecocabi p.txt{float:right;}
+		
+div.index{margin:;}
+	div.index_contents div#cabinet h4{margin:0 0 22px;}
+	div.index_contents div#cabinet p.txt_01{margin:0 0 1.5em;}
+	div.index_contents div#cabinet p.img{float:left;}
+	div.index_contents div#cabinet ul{float:right; width:340px; font-size:95%; margin-bottom:34px; min-height:125px; height:auto !important; height:125px;}
+	div.index_contents div#cabinet ul li{margin:0 0 0 1em; list-style:disc outside;}
+	
+ul.index_page_link{width:342px; position:relative; top:-30px; left:228px;}
+	li#ecocavi_page_link a{background:url(../../../kitchen/cleanlady/images/imdex/btn_ecocabi.gif) no-repeat;}
+	li#ecocavi_page_link a:hover{background-position:0 100%;}
+
+ul.page_link a{width:342px; height:34px;}
+
+div.imgSA p.imgL{float:left; margin-top:12px;}
+div.imgSA p.imgR{float:right; margin-top:12px;}
+
+
+/* ecocabinet.shtml
+-----------------------------------*/
+div.ecocabinet_contents p.read_txt {margin:0 0 25px; padding:0 80px 0 0;}
+div.ecocabinet_contents p.read_txt img{float:right; margin:0 -80px 0 0;}
+
+/* history */
+div.ecocabinet_contents div#history{margin:48px 0 30px;}
+	div.ecocabinet_contents div#history h3{margin:0 0 19px; padding:17px 0 0; border-top:solid 4px #999;}
+	div.ecocabinet_contents div#history div.section{border-top:solid 1px #999;}
+		/* history 共通 */
+		div.ecocabinet_contents div#history h4{margin:24px 0; line-height:0.12;}
+		div.ecocabinet_contents div#history h4 img.year{margin:0 0 23px;}
+		div.ecocabinet_contents div#history p.txt_01{margin:0 0 1.5em;}
+		/* history 1975 */
+		div#history_1975{margin-bottom:25px;}
+		div#history_1975 p.img_01{margin:0 0 7px;}
+		div#history_1975 p.img_02 img{float:left; margin:0 20px 0 0;}
+		/* history 2010 */
+		div#history_2010 p.img_01{float:left;}
+		div#history_2010 p.img_01 img{float:left; margin:0 17px 0 0;}
+
+div.ecocabinet_contents div#users{border:solid 2px #a0141a;}
+	div.ecocabinet_contents div.user{padding:0 13px 13px; margin:-2px 0 0;}	
+	div.ecocabinet_contents div.user h4{border-bottom:solid 2px #a0141a; border-top:solid 2px #a0141a; margin:0 -13px 13px;}
+	div.ecocabinet_contents div.user p.txt_01{margin:0 0 13px;}
+	div.ecocabinet_contents div.user p.txt_02{margin:0 0 13px; float:left; width:450px;}
+	div.ecocabinet_contents div.user p.img{float:right;}
+
+
+/* sink
+-----------------------------------*/
+div.sink_contents div.section{margin:30px 0;}
+div.sink_contents div.section h4,
+div.sink_contents div.section h5{margin:0 0 12px;}
+div.sink_contents div.section p{margin:0 0 16px;}
+div.sink_contents div.section p img{margin:0 0 5px;}
+div.sink_contents hr{display:none;}
+
+div#bi{position:relative; margin:30px 0 40px;}
+	div#bi h3{margin-bottom:28px;}
+	div#bi p.read_txt{margin-bottom:10px;}
+	div#bi p.read_img{position:absolute; top:0; right:0; width:290px; height:212px;}
+	div#bi div.fl_left{width:275px; float:left;}
+	div#bi div.fl_right{width:275px; float:right;}
+	div#bi h5.h5_01{margin-top:20px;}
+	div#bi p.txt_02 img{margin-top:5px;}
+	div#bi p.txt_09{font-size:85%; line-height:1.2em;}
+	div#bi div.tips div.tips_fl_left{width:253px; float:left;}
+	div#bi div.tips div.tips_fl_right{width:253px; float:right;}
+	div#bi p.img_10 img{float:left; margin-right:5px;}
+	div#bi div#mov{margin:0; padding:0;}
+	
+div#acly{border-top:solid 1px #999; padding:40px 0; margin:0; position:relative;}	
+	div#acly div.fl_left{width:178px; float:left; margin-right:18px;}
+	div#acly div.fl_center{width:178px;float:left;}
+	div#acly div.fl_right{width:178px;float:right;}
+	div#acly h3{margin-bottom:20px;}
+	div#acly p.img_01{position:absolute; top:60px; right:0;}
+	div#acly div.sub_sec_01{margin:40px 0 -16px;}
+	div#acly div.sub_sec_02{margin:30px 0 -16px;}	
+	div#acly p.txt_02 span{font-size:85%;}
+	div#acly p.txt_03{font-size:85%; line-height:1.2em;}
+
+div#swan{border-top:solid 1px #999; padding:40px 0 0; margin:0; position:relative;}
+	div#swan div.fl_left{width:275px; float:left;}
+	div#swan div.fl_right{width:275px; float:right;}
+	div#swan h3{margin-bottom:20px;}
+	div#swan p.img_01{width:260px;}
+	div#swan p.img_01 img{float:left; margin-right:10px; margin-bottom:30px;}
+	div#swan p.txt_02{float:left; width:140px;}
+	div#swan p.img_02{position:absolute; top:60px; right:0;}
+	div#swan p.img_05 img{float:left; margin-right:20px;}
+	div#swan div.tips div.tips_fl_left{width:264px; float:left;}
+	div#swan div.tips div.tips_fl_right{width:264px; float:right;}
+	div.sink_contents div#swan div.option{clear:both; padding:14px 0 0;}
+	div#swan div.color{margin-right:-10px;}
+	div#swan div.color p.color{float:left; margin:0 10px 20px 0; font-size:92%;} 
+	div#swan div.color p.color img{margin-bottom:3px;}
+	div#swan div.color p.color img.ico{vertical-align:middle; margin:0;}
+	div#swan div.color div.clear{clear:both; height:0.1; line-height:0.1; overflow:hidden;}
+	div#swan div.color p.note{font-size:85%; line-height:1.2em;}
+	
+	
+/* range
+-----------------------------------*/
+div.range_contents div.section h3{margin:0 0 20px;}
+div.range_contents div.section h4,
+div.range_contents div.section h5{margin:0 0 12px;}
+div.range_contents div.section p{margin:0 0 16px;}
+div.range_contents div.section p img{margin:0 0 5px;}
+div.range_contents hr{display:none;}
+
+div.range_contents table.hikaku{width:100%; border-top:solid 1px #ccc; border-left:solid 1px #ccc;}
+div.range_contents table.hikaku th{background:#f1f1f1; border-bottom:solid 1px #ccc; border-right:solid 1px #ccc; padding:5px;}
+div.range_contents table.hikaku td{border-bottom:solid 1px #ccc; border-right:solid 1px #ccc; padding:5px; font-size:68%; line-height:1.2em; text-align:center; vertical-align:middle;}
+div.range_contents table.hikaku td p{font-size:85%; line-height:1.2em; margin:5px 0 0; text-align:left;}
+div.range_contents div.hikaku p.note{font-size:85%; line-height:1.2em; margin:10px 0 0;}
+
+div#araeru{position:relative; margin:30px 0 40px;}
+	div#araeru p.read_txt{width:260px;}
+	div#araeru p.read_img{position:absolute; top:0; right:0;}
+	div#araeru div#senjo{margin:0 0 5px;}
+	div#araeru div#senjo h4{wdith:260px;}
+	div#araeru div#senjo p.txt_01{width:260px; min-height:28px; height:auto !important; height:28px;}
+	div#araeru div#senjo div.dtl{padding:0 0 10px;}
+	div#araeru div#senjo div#senjo_dtl01{clear:both;}
+	div#araeru div#senjo p.txt_03{font-size:85%; line-height:1.2em;}
+	div#araeru div#otoku{margin:0 0 30px;}
+	div#araeru div#mov{margin:0;}
+	
+	
+/* worktop
+-----------------------------------*/
+div.worktop_contents div.section h3{margin:0 0 20px;}
+div.worktop_contents div.section h4,
+div.worktop_contents div.section h5{margin:0 0 12px;}
+div.worktop_contents div.section p{margin:0 0 16px;}
+div.worktop_contents div.section p img{margin:0 0 5px;}
+div.worktop_contents hr{display:none;}
+/*
+div#emboss{margin:30px 0 40px; position:relative;}
+	div#emboss p.read_txt{margin:0;}
+	div#emboss p.read_img{position:absolute; top:0; right:0;}
+
+	div#emboss div#kakou{padding:30px 0 0;}
+*/
+	table#kakou_dtl{margin: 0 0 30px; float:right; }	
+	table#kakou_dtl td{font-size:60%; line-height:140%; padding:0;}
+	table#kakou_dtl td p{margin:0;}
+	table#kakou_dtl td.txt_01{border:solid 1px #ccc; padding:0;}	
+	table#kakou_dtl td.txt_01 p{width:126px; padding:10px;}
+	table#kakou_dtl td.txt_02{width:65px; text-align:left; vertical-align:middle;}	
+	table#kakou_dtl td.txt_03{width:130px;}	
+	table#kakou_dtl td.txt_04{width:65px; text-align:center; vertical-align:middle;}	
+	table#kakou_dtl td.txt_05{width:130px;}	
+	table#kakou_dtl td.txt_06{width:120px; padding-left:20px; padding-top:10px;}
+	table#kakou_dtl td.txt_07{width:160px; padding-left:20px; padding-top:10px;}
+	table#kakou_dtl td.txt_08{width:160px;}	
+	table#kakou_dtl td.imgtop{padding-top:30px;}	
+	
+/*	
+	div.worktop_contents div#emboss div.tips p.txt{width:250px; float:left;}
+	div.worktop_contents div#emboss div.tips p.img{width:282px; float:right; margin-top:-18px;}
+*/
+div#acly_stone{padding:40px 0; border-top:solid 1px #666;}
+	div#acly_stone p.read_img{float:right; width:290px; margin:-157px 0 30px;}
+	
+	div#acly_stone div.dsc{width:256px; float:left; border:solid 1px #ccc; margin:0 0 30px;}
+	div#acly_stone div.dsc h4{margin:10px 0 8px; padding-left:8px; float:left; width:167px;}
+	div#acly_stone div.dsc p.img{float:right; margin:10px 0 5px; width:79px;}
+	div#acly_stone div.dsc p.txt{margin:0 8px 10px; font-size:83%; line-height:1.2em;}
+	
+	div#acly_stone div#ston_type{clear:both;}
+	div#acly_stone div#ston_type div#solid,
+	div#acly_stone div#ston_type div#frosty{width:258px; float:left;}
+	div#acly_stone div#ston_type div#mist,
+	div#acly_stone div#ston_type div#granit{width:286px; float:right;}
+	div.worktop_contents div#acly_stone div#ston_type div p.txt_01{margin-bottom:5px;}
+	div#acly_stone div#ston_type div p.img_01{width:147px; float:left; margin-right:8px; margin-bottom:0px;}
+	div#acly_stone div#ston_type div p.img_02,
+	div#acly_stone div#ston_type div p.img_03{width:103px; float:left; font-size:83%; margin:1px 0 3px; letter-spacing:0;}
+	div#acly_stone div#ston_type div p.img_02 img,
+	div#acly_stone div#ston_type div p.img_03 img{margin-bottom:1px;}
+	
+	div#acly_stone div#design{margin:0 -18px 30px 0;}
+	div#acly_stone div#design div{width:178px; float:left; margin:0 18px -16px 0; position:relative; padding:128px 0 0;}
+	div#acly_stone div#design div h5{font-size:100%; margin-bottom:0;}
+	div#acly_stone div#design div h5 img{vertical-align:middle;}
+	div#acly_stone div#design div p.img_01{position:absolute; top:0;}
+	div#acly_stone div#design div p.txt_01 img{margin:10px 0 0;}
+	
+	div#acly_stone div.tips div.fl_left{float:left; width:245px;}
+	div#acly_stone div.tips div.fl_right{float:right; width:275px;}
+	div#acly_stone div.tips div.clear{margin-bottom:20px;}
+	div.worktop_contents div#acly_stone div.tips p.txt{margin-bottom:10px;}
+	div.worktop_contents div#acly_stone div.tips p.img{font-size:83%; line-height:1.2em; margin-bottom:0;}
+	div#stainless {margin:40px 0;}
+	div#stainless div.worktop {margin-top:-30px;}
+	h3.stainless{margin-top:30px;}
+	div#stainless div.stainlessR{float:right;}
+	div#stainless div.stainlessL p.bold{margin:20px 0 10px 0; font-weight:bolder;}
+	div#stainless div.stainlessL span.small{font-size:83%;}
+	div#stainless div.clear{clear:both;}
+	
+/* color
+-----------------------------------*/
+div.color_contents p{font-size:92%; line-height:1.3em;}/* 80% × 92% =73.6% : 11px相当 */
+div.color_contents table td{font-size:66.4%; line-height:1.2em;}/* 80% × 83% =66.4% : 10px相当 */
+
+div#tobira{margin:30px 0 25px;}
+div#tobira div.ttl{margin-bottom:10px;}
+div#tobira p.read_txt img{margin-bottom:5px;}
+
+h3.cl_class{margin:25px 0;}
+
+div.cl_section{position:relative; margin-bottom:25px; zoom:1;}
+div.cl_section:after{display:block; clear:both; content:' '; height:1px; overflow:hidden;}
+div.cl_left{width:305px; float:left;}
+	div.cl_left h4{width:116px; float:right; margin-bottom:15px;}
+	div.cl_left p.img{float:left; margin-bottom:15px;}
+	div.cl_left p.txt{width:116px; float:right; margin-bottom:15px;}
+	div.cl_left div.totte{clear:both;}
+	div.cl_left div.totte img{margin-bottom:10px;}
+div.cl_right{width:245px; float:right;}
+	table.tips{border:0; width:auto;}
+	table.tips td{text-align:left; padding-bottom:15px; font-size:92%; line-height:1.3em; letter-spacing:normal;}
+	table.tips td.left{width:127px; padding-right:10px;}
+	table.tips td.right{width:117px; padding:0}
+	table.tips td img{margin-bottom:3px;}
+/* soirシリーズ*/	
+div#soir div.totte{margin-bottom:20px;}
+div#soir div.article{clear:both; background:#efefe2; padding:10px 10px 10px 20px; zoom:1;}
+div#soir div.article:after{display:block; clear:both; content:' '; height:1px; overflow:hidden;}
+	div#soir div.article h5{margin-bottom:5px; margin-left:-10px;}
+	div#soir div.article p.txt{width:350px; float:left;}
+	div#soir div.article p.img{float:right;}
+	
+div#totte{zoom:1; margin-bottom:50px;}
+div#totte:after{display:block; clear:both; content:' '; height:1px; overflow:hidden;}
+div#totte div.ttl{margin-bottom:15px;}
+div#totte div.t_section{float:left;}
+div#totte div.t_section h3{margin-bottom:10px;}
+	div#totte01{width:245px; margin-right:59px;}
+	div#totte01 td.left{width:121px; padding-right:0;}
+	div#totte01 td.right{width:116px;}
+	div#totte02,
+	div#totte03{width:117px; margin-right:16px;}
+	div#totte04{width:233px;}
+	
+	
+
+/* storage.shtml
+-----------------------------------*/
+div.storage_contents .clear {clear:both;}
+div.storage_contents div.section h4,
+div.storage_contents div.section h5{margin:0 0 12px;}
+div.storage_contents div.section p{margin:0 0 16px;}
+div.storage_contents p.read_txt {margin:0 0 25px; padding:0 80px 0 0;}
+
+div.storage_contents div#easy{margin-top:50px;}
+div.storage_contents div#con{margin:0 0 30px;}
+div.storage_contents div#corner{margin-bottom:11px;}
+	div.storage_contents div#con h3{margin:0 0 7px;}
+	div.storage_contents div#con p#read_txt{margin:0 0 9px;}
+	div.storage_contents div#con p.read_img{position:relative;margin:0 0 30px;}
+	div.storage_contents div#con p.read_img img{vertical-align:bottom;}
+		div.storage_contents p.read_img #areamap{z-index:1;}
+		div.storage_contents a#map01{position:relative;left:374px;top:-508px;z-index:10;display:block; width:155px; height:155px;background:url(../../../kitchen/cleanlady/images/storage/btn_pushmove.gif) no-repeat left;margin-bottom:-155px;}
+		div.storage_contents a#map02{position:relative;left:415px;top:-271px;z-index:10;display:block; width:155px; height:155px;background:url(../../../kitchen/cleanlady/images/storage/btn_ukiuki.gif) no-repeat left;margin-bottom:-155px;}
+		div.storage_contents a#map03{position:relative;left:92px;top:-155px;z-index:10;display:block; width:155px; height:155px;background:url(../../../kitchen/cleanlady/images/storage/btn_drawer.gif) no-repeat left;margin-bottom:-155px;}
+		div.storage_contents a#map01 span,
+		div.storage_contents a#map02 span,
+		div.storage_contents a#map03 span{display:none;}
+		div.storage_contents a#map01:link,
+		div.storage_contents a#map02:link,
+		div.storage_contents a#map03:link{background-position:0 0;}
+		div.storage_contents a#map01:hover,
+		div.storage_contents a#map02:hover,
+		div.storage_contents a#map03:hover{background-position:100% 0;}
+	
+		div.storage_contents div#con div.sub_sec_01 h3{margin:0 0 20px;}
+		div.storage_contents div#con div.sub_sec_01 p.txt_01{margin:0 0 30px;}
+		div.storage_contents div#con div.sub_sec_01 p.txt_02{margin:0 0 25px;}
+		div.storage_contents div#con div.sub_sec_01 p.txt_03{margin:0 0 15px;}
+		div.storage_contents div#con div.sub_sec_01 p.txt_04{padding:0 0 0.9em;}
+		div.storage_contents div#con div.sub_sec_01 p.txt_05{margin-top:5px;font-size:85%;line-height:100%;}
+		div.storage_contents div#con div.sub_sec_01 p.img_05{padding:20px 0 30px 0;}
+		div.storage_contents div#con div.sub_sec_01 h6{font-size:100%;line-height:160%;}
+		div.storage_contents div#con div.sub_sec_01 h6.h6_04{margin:0 0 10px;}
+		div.storage_contents div#con div.sub_sec_01 p{margin:0;}
+		div.storage_contents div#con div.sub_sec_01 div p img{margin:0 0 14px;}
+		div.storage_contents div#con div.fl_left{width:275px; float:left;}
+		div.storage_contents div#con div.fl_right{width:275px; float:right;}
+		div.storage_contents div#con div.fl_right p.corner_fL{float:left;margin-bottom:5px;}
+		div.storage_contents div#con div.fl_right p.corner_fR{float:right;margin-left:5px;margin-bottom:5px;}
+		div.storage_contents div#con div.fl_right p.corner_fL img,
+		div.storage_contents div#con div.fl_right p.corner_fR img{margin:0;}
+		div.storage_contents div#con div.fl_right p.corner_fL span.txt,
+		div.storage_contents div#con div.fl_right p.corner_fR span.txt{font-size:85%;font-weight:bolder;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl{margin:30px 0 0;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl div{display:block;border-bottom:#bfbfbf 1px dashed;margin:0;padding-bottom:20px;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl table#hand_con{margin:0;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl table#floor_con{margin:20px 0 40px 0;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl th{width:180px;text-align:left;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl th#line1{width:21px;}
+			div.storage_contents div#con div.sub_sec_01 div#con_tbl table#floor_con th{padding-top:20px;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl th#line2{width:199px;}
+			div.storage_contents div#con div.sub_sec_01 div#con_tbl th img{margin-bottom:15px;}
+			div.storage_contents div#con div.sub_sec_01 div#con_tbl th#line2 img{margin-left:19px;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl td{padding:0 10px 1em 0;font-size:82%;line-height:140%;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl td.th2{border:#ead1c3 2px solid;padding:6px 3px;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl td.line2{padding-left:19px;}
+		div.storage_contents div#con div.sub_sec_01 div#con_tbl td.line4{padding-right:0;}
+
+		div.storage_contents div#con div.sub_sec_02 h3{margin:0 0 20px;}
+		div.storage_contents div#con div.sub_sec_02 p.txt_01{margin:0 0 30px;}
+		div.storage_contents div#con div.sub_sec_02 p.img_05{float:left;width:133px;}
+		div.storage_contents div#con div.sub_sec_02 div.txt_02{float:left;display:block;width:140px;margin:0 0 30px;}
+		div.storage_contents div#con div.sub_sec_02 p.img_06{margin:0 0 30px;}
+		div.storage_contents div#con div.sub_sec_02 h6{font-size:100%;line-height:160%;}
+		div.storage_contents div#con div.sub_sec_02 p{margin:0;}
+		div.storage_contents div#con div.sub_sec_02 div p img{margin:0 0 14px;}
+		div.storage_contents div#con div.fl_left{width:275px; float:left;}
+		div.storage_contents div#con div.fl_right{width:275px; float:right;}
+
+		div.storage_contents div#con div.automove p{margin-bottom:1em;}
+	
+
+/* ukiuki.shtml
+-----------------------------------*/
+div.ukiuki_contents .clear {clear:both;}
+div.ukiuki_contents div.section h4,
+div.ukiuki_contents div.section h5{margin:0 0 12px;}
+div.ukiuki_contents div.section p{margin:0 0 16px;}
+
+div#uki{margin:30px 0 40px;background:url(../../../kitchen/cleanlady/images/ukiuki/bg_ukuki01.jpg) no-repeat left 262px;}
+	div#uki h3{margin-bottom:28px;}
+	div#uki h4.read_txt{margin-bottom:32px;}
+	div#uki div.fl_left{width:275px; float:left;}
+	div#uki p.fl_right{width:275px; float:right;padding-bottom:339px;}
+	
+	div#uki div.sub_sec_01 h3{margin:0 0 18px;}
+	div#uki div.sub_sec_01 div.fl_left{width:180px; float:left;}
+	div#uki div.sub_sec_01 div.fl_left2{width:195px; float:left;}
+		div#uki div.sub_sec_01 div.fl_left2 h4,
+		div#uki div.sub_sec_01 div.fl_left2 h5,
+		div#uki div.sub_sec_01 div.fl_left2 p{padding-left:15px;}
+	div#uki div.sub_sec_01 div.fl_right{width:180px; float:right;}
+	
+	div#uki div.sub_sec_01 div#size,
+	div#uki div.sub_sec_01 #knife{zoom:1;margin:0 0 18px;background-color:#f7f6f6;padding:15px 12px;}
+		div#uki div.sub_sec_01 div#size:after,
+		div#uki div.sub_sec_01 #knife:after{content:"";display:block;height:0;clear:both;}
+		div#uki div.sub_sec_01 div#size p.fl_left{float:left;width:378px;}
+			div#uki div.sub_sec_01 div#size p.fl_left img{margin-right:12px;vertical-align:top;}
+		div#uki div.sub_sec_01 div#size div.fl_right{width:160px; float:right;}
+			div#uki div.sub_sec_01 div#size div.fl_right span{font-size:85%;}
+		div#uki div.sub_sec_01 div#knife div.fl_left{float:left;width:270px;}
+		div#uki div.sub_sec_01 div#knife p.fl_right{width:235px; float:right;padding-bottom:0;margin-bottom:0;}
+			div#uki div.sub_sec_01 div#size p.fl_right img{margin-right:11px;vertical-align:top;}
+
+
+/* built.shtml
+-----------------------------------*/
+/*共通*/
+div.built_contents div.section{margin:0;}
+div.built_contents div.section h3{margin:0 0 18px;vertical-align:top;line-height:100%;font-size:10px;}
+div.built_contents div.section h4{margin:0 0 20px;}
+div.built_contents div.section h5{margin:0 0 12px;border-bottom:1px solid #cccccc;padding-bottom:4px;}
+div.built_contents div.section h6{font-size:100%;}
+div.built_contents div.section p{margin:0 0 16px;}
+div.built_contents div.section img{vertical-align:bottom;}
+div.built_contents div.section .sfont{font-size:85%;line-height:127%;}
+
+/*ビルトイン　トップ*/
+div.built_contents dl.builttop{zoom:1;border:1px solid #cccccc;margin-bottom:20px;}
+div.built_contents dl.builttop:after{display:block; clear:both; content:' '; height:0; overflow:hidden;}
+	div.built_contents dl.builttop dt{float:left;width:273px;}
+		div.built_contents dl.builttop dt img{border:1px solid #ffffff;}
+	div.built_contents dl.builttop dd{position:relative;float:left;width:294px;height:259px;border-left:1px solid #cccccc;}
+		div.built_contents dl.builttop dd h4{margin:0;padding:22px 19px;}
+		div.built_contents dl.builttop dd p{margin:0;padding:0 19px;}
+
+div.built_contents .builtmore{position:absolute;float:right;margin:0;padding:0;zoom:1;left:126px;top:217px;}
+	div.built_contents .builtmore a{display:block; width:133px; height:27px;background:url(../../../kitchen/cleanlady/images/built/btn_builttop_more.gif) no-repeat left;}
+	div.built_contents .builtmore a span {display:none;}
+	div.built_contents .builtmore a:link {background-position:0 0;}
+	div.built_contents .builtmore a:hover {background-position:100% 0;}
+
+/*ビルトイン　下層*/
+div.built_contents div.tips{background:#f7f6f6; padding:15px 12px; zoom:1;margin-bottom:25px;}
+div.built_contents div.tips:after{display:block; clear:both; height:0.1; overflow:hidden; content:' ';}
+	div.built_contents div.tips h5{margin:0 0 10px;border:none;padding:0;}
+	div.built_contents div.tips h6{margin:0 0 15px;}
+
+div.built_contents div#suisen{margin:20px 0;}
+	div#suisen div.fl_left{width:275px; float:left;}
+	div#suisen p.fl_right,
+	div#suisen div.fl_right{width:275px; float:right;}
+	
+	div.built_contents div#suisen div.tips p.fl_left{width:268px; float:left;}
+	div.built_contents div#suisen div.tips p.fl_right{width:258px; float:right;}
+	div.built_contents div#suisen div.tips div.fl_right{width:261px; float:right;}
+	div.built_contents div#suisen div.tips div.fl_right table{margin-bottom:0.2em;}
+	div.built_contents div#suisen div.tips div.fl_right table th{background-color:#fff;width:59px;font-weight:normal;vertical-align:middle;text-align:left;padding:4px 6px;font-size:85%;}
+	div.built_contents div#suisen div.tips div.fl_right table td{background-color:#fff;padding:4px 6px;font-size:70%;}
+	div.built_contents div#suisen div.tips div.fl_right p{margin:0;line-height:100%;}
+	div.built_contents div#suisen div.tips p.sfont{padding:5px 0 0;}
+	div#suisen p#txt_01{margin-top:23px;font-size:85%;}
+	div#suisen h6#h6_02{background-color:#666666;padding:3px 5px;vertical-align:top;}
+	div#suisen p.img_03{float:left;width:136px;}
+	div#suisen p.txt_02{float:right;width:128px;margin-bottom:20px;}
+	div#suisen p.img_04{margin-bottom:10px;}
+
+	div#suisen div.sub_sec_02{margin-bottom:25px;}
+	div#suisen div.sub_sec_02 div{margin-bottom:0;}
+	div#suisen div.sub_sec_02 h6{margin-bottom:13px;}
+		div#suisen div.sub_sec_02 p.img_left{float:left; margin:0 10px 0 0;}
+
+div.built_contents div#blwash{margin:0 0 25px;}
+	div#blwash div.fl_left{width:275px; float:left;margin:0;}
+	div#blwash p.fl_right,
+	div#blwash div.fl_right{width:275px; float:right;margin:0;}
+	div#blwash h5{margin-bottom:15px;}
+	div#blwash dl.fl_left{width:146px; float:left;margin:0 0 15px;padding:0;}
+		div#blwash dl.fl_left dd{padding-right:22px;}
+	div#blwash dl.fl_right{width:124px; float:right;margin:0 0 15px;padding:0;}
+	div#blwash p.txt_04{margin:0;}
+	div#blwash p.img_09{padding:1.5em 0;}
+	div#blwash div.tips p.sfont{margin:0;}
+	div#blwash div.tips div.fl_left{width:268px; float:left;}
+	div#blwash div.tips div.fl_right{width:261px; float:right;}
+	
+	div#blwash div#plasma{margin:0;}
+		div#plasma div.fl_left, div#plasma div.fl_right{margin-bottom:25px;}
+		div#plasma div.tips{margin:0;}
+		div#plasma p.img_01{margin:0 0 10px;}
+		div#plasma p.logo{font-size:92%; line-height:140%; font-size:82%;}
+		div#plasma p.logo img{float:left; margin:0 10px 0 0;}
+		div#plasma p.note{font-size:82%; line-height:140%;}
+		
+		div#plasma div.feature {margin-bottom:30px;}
+		div#plasma div.feature h5{border-bottom:none; padding:0;}
+		
+		div#plasma div#shikumi p.txt01{margin:0 0 5px;}
+		div#plasma div#shikumi p.img{float:left; font-size:82%; line-height:120%; margin:0;}
+		div#plasma div#shikumi p.img01{width:155px; margin-right:22px;}
+		div#plasma div#shikumi p.img01 span{display:block; margin:5px 0 0;}
+		div#plasma div#shikumi p.img02{width:185px; margin-right:22px;}
+		div#plasma div#shikumi p.img03{width:185px;}
+		div#plasma div#shikumi p.img02 span,
+		div#plasma div#shikumi p.img03 span{display:block; width:150px; margin:5px 0 0 30px;}
+		
+		div#plasma div#kabi div.fl_right{margin:0;}
+		div#plasma div#kabi p.img01{float:left; margin-right:9px;}
+		div#plasma div#kabi p.img02{float:left;}
+		div#plasma div#kabi ul.data{margin:0 0 15px;}
+		div#plasma div#kabi ul.result{margin:0 0 -5px;}
+		div#plasma div#kabi ul li{padding:0 0 0 1em; text-indent:-1em; margin:0 0 5px;}
+		
+		div#plasma div#nioi ul li{font-size:82%; line-height:1.2em; padding:0 0 0 1.5em; text-indent:-1.5em;}
+
+div.built_contents div#cook{margin:0 0 25px;}
+	div#cook h6{margin-bottom:15px;}
+	div#cook p.txt_h6{vertical-align:bottom;margin-bottom:15px;}
+	div#cook p.fl_left,div.fl_left{width:275px; float:left;margin:0;}
+	div#cook p.fl_right,
+	div#cook div.fl_right{width:275px; float:right;margin:0;}
+	div#cook #cookimg01{position:relative;margin-top:-5px;}
+	
+	div#cook p.fl_left2{width:127px; float:left;}
+	div#cook p.fl_right2{width:133px; float:right;}
+	div#cook p#img_19{margin-bottom:19px;}
+	
+	div#cook p.fl_left3{width:133px; float:left;}
+	div#cook p.fl_right3{width:133px; float:right;}
+	
+	div#cook p.fl_left4{float:left; margin:10px 10px 10px 0;}
+	div#cook p.w117{width:117px;}
+	div#cook p.w138{width:138px;}
+	div#cook p.imgT{margin-top:10px;}
+	
+	
+	
+div.built_contents div#clean{padding:40px 0 0; margin:0; position:relative;}
+	div#clean p.read_img_01{float:left; margin-right:9px;}
+	div#clean p.read_img_03{position:absolute; top:40px; right:0;}
+	div#clean div#leaf{clear:both;}
+	div#clean div#leaf p.txt_01,
+	div#clean div#leaf p.txt_02{float:left; width:260px;}	
+	div#clean div#leaf p.img_01,
+	div#clean div#leaf p.img_02{float:right; width:292px; font-size:85%; line-height:1.2em; letter-spacing:0;}
+	div#clean div#rittai div.fl_left{float:left; width:260px;}
+	div#clean div#rittai div#e-coat{float:right; width:292px;}
+	div#clean div#oteire{margin:30px 0 0;}
+	div.built_contents table.hikaku{width:100%; border-top:solid 1px #ccc; border-left:solid 1px #ccc;}
+	div.built_contents table.hikaku th{background:#f1f1f1; border-bottom:solid 1px #ccc; border-right:solid 1px #ccc; padding:5px;}
+	div.built_contents table.hikaku td{border-bottom:solid 1px #ccc; border-right:solid 1px #ccc; padding:5px; font-size:68%; line-height:1.2em; text-align:center; vertical-align:middle;}
+	div.built_contents table.hikaku td p{font-size:85%; line-height:1.2em; margin:5px 0 0; text-align:left;}
+	div.built_contents div.hikaku p.note{font-size:85%; line-height:1.2em; margin:10px 0 0;}
+
+	div#clean div.section p img{margin:0 0 5px;}
+
+
+/* package.shtml
+-----------------------------------*/
+/*共通*/
+div.package_contents div.section{margin:0;}
+div.package_contents div.section h3{margin:0 0 18px;vertical-align:top;line-height:100%;font-size:10px;}
+div.package_contents div.section h4{margin:0 0 15px;}
+div.package_contents div.section h5{margin:0 0 15px;background-color:#ebebeb;padding:3px 5px;}
+div.package_contents div.section h6{font-size:100%;}
+div.package_contents div.section p{margin:0 0 16px;}
+div.package_contents div.section img{vertical-align:bottom;}
+div.package_contents div.section .sfont{font-size:85%;line-height:127%;}
+div.package_contents#contents ul#builtmenu li{background:url(../../../kitchen/cleanlady/images/built/icon_arrow_pagedown.gif) no-repeat 12px 0.2em;padding-left:26px;font-size:90%;}
+
+/*パッケージ　トップ*/
+div.package_contents dl.packagetop{zoom:1;border:1px solid #cccccc;margin-bottom:20px;}
+div.package_contents dl.packagetop:after{display:block; clear:both; content:' '; height:0; overflow:hidden;}
+	div.package_contents dl.packagetop dt{float:left;width:273px;}
+		div.package_contents dl.packagetop dt img{border:1px solid #ffffff;}
+	div.package_contents dl.packagetop dd{position:relative;float:left;width:294px;height:259px;border-left:1px solid #cccccc;}
+		div.package_contents dl.packagetop dd h4{margin:0;padding:22px 18px 22px 19px;}
+		div.package_contents dl.packagetop dd p{margin:0;padding:0 19px;}
+
+div.package_contents .packagemore{position:absolute;float:right;margin:0;padding:0;zoom:1;left:126px;top:217px;}
+	div.package_contents .packagemore a{display:block; width:133px; height:27px;background:url(../../../kitchen/cleanlady/images/package/btn_packagetop_more.gif) no-repeat left;}
+	div.package_contents .packagemore a span {display:none;}
+	div.package_contents .packagemore a:link {background-position:0 0;}
+	div.package_contents .packagemore a:hover {background-position:100% 0;}
+
+/*パッケージ　下層*/
+	div.package_contents div.fl_left{width:275px; float:left;}
+	div.package_contents p.fl_right,
+	div.package_contents div.fl_right{width:275px; float:right;}
+	div.package_contents div.fl_left dt img,
+	div.package_contents div.fl_right dt img{margin-bottom:8px;}
+
+div.package_contents div.plan{margin:20px 0;}
+	div.section.plan p.fl_left2,
+	div.section.plan dl.fl_left2{width:344px; float:left;margin:0;}
+	div.section.plan p.fl_right2{width:209px; float:right;margin:0;}
+	div.package_contents div.section.plan .fl_left2 img{vertical-align:bottom;margin-bottom:8px;}
+	div.package_contents div.section.plan .fl_right2 img{vertical-align:bottom;margin-bottom:0;}
+
+	div.section.plan div.fl_left3{width:161px; float:left;margin-bottom:10px;}
+		div.section.plan div.fl_left3 dl{float:left;width:80px;margin-bottom:1.5em;}
+		div.section.plan div.fl_left3 dt,
+		div.section.plan div.fl_left3 dd{margin-right:10px;}
+		div.section.plan div.fl_left3 p{margin-bottom:10px;}
+		div.section.plan div.fl_left3 dt img{margin-bottom:5px;}
+		div.section.plan div.fl_left3 p.sfont{display:block;margin-right:10px;}
+	div.section.plan div.fl_right3{width:85px; float:right;margin:21px 0 10px;border-left:1px dashed #d2d2d2;}
+	div.section.plan div.fl_right3 p{padding:0 0 95px 13px;}
+		div.section.plan#simple div.fl_right3 p img{margin-bottom:5px;}
+	div.section.plan#simple div.fl_right3 p{padding:0 0 133px 13px;}
+
+	div.section.plan div.fl_left4{width:180px; float:left;margin-bottom:5px;}
+	div.section.plan div.fl_center4{width:195px; float:left;margin-bottom:5px;}
+		div.section.plan div.fl_center4 h5,
+		div.section.plan div.fl_center4 dl{margin-left:15px;}
+	div.section.plan div.fl_right4{width:180px; float:right;margin-bottom:5px;}
+		div.section.plan div.fl_left4 dt img,
+		div.section.plan div.fl_center4 dt img,
+		div.section.plan div.fl_right4 dt img{margin-bottom:5px;}
+
+	div.section.plan div.fl_left5{width:275px; float:left;margin-bottom:5px;}
+		div.section.plan .fl_left5 dt img{margin-bottom:8px;}
+	div.section.plan p.fl_center5{width:151px; float:left;margin-bottom:5px;}
+		div.section.plan p.fl_center5 img{margin-left:20px;}
+	div.section.plan p.fl_right5{width:131px; float:right;margin-bottom:5px;}
+	
+div.package_contents .catalog{float:right;margin:0;padding-top:10px;zoom:1;}
+	div.package_contents .catalog a{display:block; width:190px; height:36px;background:url(../../../kitchen/cleanlady/images/package/btn_catalog.gif) no-repeat left;}
+	div.package_contents .catalog a span {display:none;}
+	div.package_contents .catalog a:link {background-position:0 0;}
+	div.package_contents .catalog a:hover {background-position:100% 0;}
+	
+
+span.cap{font-size:70%; vertical-align:top;}
+
+

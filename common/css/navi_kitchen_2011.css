@@ -1,0 +1,239 @@
+@charset "Shift_JIS";
+/* CSS Document */
+
+div#navi ul.submenu{/*display:block;*/ border:1px solid #BDBDBD; margin:0 10px 12px 0; padding:0;}
+div#navi ul.submenu li{list-style-type: none; /*display:block;width:168px;*/ font-size:0; line-height:0; margin:0;}
+div#navi ul.submenu li a{display:block; width:168px; height:35px;}
+div#navi ul.submenu li a span{display:none;}
+
+/*div#navi ul.submenu ul.inlinemenu{display:block;}
+div#navi ul.submenu ul.inlinemenu li{display:block; width:168px;}*/
+div#navi ul.submenu ul.inlinemenu li a{display:block; width:168px; height:35px;}
+div#navi ul.submenu ul.inlinemenu li a span {display:none;}
+
+
+/*キッチン*/
+div#navi li#ss a{height:34px; background-image:url(/common/image/2nd/kitchen/btn_navi_ss.gif);}
+	div#navi li#style a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_3style.gif);}
+	div#navi li#facility a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_3facility.gif);}
+	div#navi li#servo a{background-image:url(/common/image/2nd/kitchen/btn_navi_ssservo.gif); border-bottom:1px solid #DDD;}
+	div#navi li#storage a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_storage.gif);}
+	div#navi li#worktop a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_worktop.gif);}
+	div#navi li#sink a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_sink.gif);}
+	div#navi li#color a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_door.gif);}
+	div#navi li#built a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_builtin.gif);}
+	div#navi li#sssp2 a{background-image:url(/common/image/2nd/kitchen/btn_navi_sssp.gif);}
+
+/* SSライト 2010.5.25追加 */
+div#navi li#light a{background-image:url(/common/image/2nd/kitchen/btn_navi_sslp.gif);}
+	div#navi li#sslp_kantan a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_kantan.gif);}
+	div#navi li#sslp_workstyle a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_workstyle.gif);}
+	div#navi li#sslp_plan1 a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_plan1.gif);}
+	div#navi li#sslp_plan2 a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_plan2.gif);}
+	div#navi li#sslp_plan3 a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_plan3.gif);}
+	div#navi li#sslp_package a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_packge.gif);}
+	div#navi li#sslp_color a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_color.gif);}
+
+/*　クリンレディ 2010.5.28修正　*/
+div#navi li#cleanlady a{background-image:url(/common/image/2nd/kitchen/btn_navi_cleanlady_new.gif);}
+	div#navi li#cl_ecocabi a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_ecocabi.gif);}
+	div#navi li#cl_araeru a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_araeru.gif);}
+	div#navi li#cl_worktop a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_clean_worktop.gif);}
+	div#navi li#cl_sink a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_sink.gif);}
+	div#navi li#cl_storage a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss_storage.gif);}
+	div#navi li#cl_ukiuki a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_clean_ukiuki.gif);}
+	div#navi li#cl_color a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_color.gif);}
+	div#navi li#cl_package a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_package.gif);}
+	div#navi li#cl_builtin a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_builtin.gif);}
+	div#navi li#cl_builtin_last a{height:34px;background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_builtin.gif);}
+	/*div#navi li#cl_eye a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_clean_eye.gif);}
+	div#navi li#cl_project a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_project.gif);}
+	div#navi li#cl_style a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_style.gif);}
+	div#navi li#cl_light a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_lightpack.gif);}*/
+
+/* ラクエラ　*/
+div#navi li#rakuera a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera.gif);}
+	div#navi li#plan1 a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_plan1.gif);}
+	div#navi li#plan2 a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_plan2.gif);}
+	div#navi li#plan3 a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_plan3.gif);}
+	div#navi li#plan4 a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_plan4.gif);}
+	div#navi li#plan5 a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_plan5.gif);}
+	div#navi li#design a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_design.gif);}
+	div#navi li#worktopSink a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_worktop.gif);}
+	div#navi li#layout a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_layout.gif);}
+	div#navi li#rakustyle a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_style.gif);}
+	div#navi li#stplan a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_stplan.gif);}
+
+/* コルティ　*/
+div#navi li#colty a{background-image:url(/common/image/2nd/kitchen/btn_navi_colty.gif);}
+div#navi li#colty_last a{height:34px;background-image:url(/common/image/2nd/kitchen/btn_navi_colty.gif);}
+	div#navi li#colty_basic a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_basic.gif);}
+	div#navi li#colty_floor a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_floor.gif);}
+	div#navi li#colty_free a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_free.gif);}
+	div#navi li#colty_worktop a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_worktop.gif);}
+	div#navi li#colty_built a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_builtin.gif);}
+	div#navi li#colty_parts a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_parts.gif);}
+	div#navi li#colty_color a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_color.gif);}
+
+/* キッチンその他 */
+div#navi li#caplan a{background-image:url(/common/image/2nd/kitchen/btn_navi_caplan.gif);}
+div#navi li#cs a{background-image:url(/common/image/2nd/kitchen/btn_navi_cs.gif);}
+div#navi li#duo a{background-image:url(/common/image/2nd/kitchen/btn_navi_duo.gif);}
+div#navi li#cooktable a{background-image:url(/common/image/2nd/kitchen/btn_navi_cooktable.gif);}
+div#navi li#kitchen_pro a{height:34px;background-image:url(/common/image/2nd/kitchen/btn_navi_pro.gif);}
+
+
+div#navi ul.submenu li a:link{background-position:0 0;}
+div#navi ul.submenu li a:hover{background-position:100% 0;}
+
+/*
+div#navi li#ss a:link,
+div#navi li#style a:link,
+div#navi li#facility a:link,
+div#navi li#servo a:link,
+div#navi li#storage a:link,
+div#navi li#worktop a:link,
+div#navi li#sink a:link,
+div#navi li#color a:link,
+div#navi li#built a:link,
+div#navi li#sssp2 a:link,
+div#navi li#light a:link,
+div#navi li#sslp_kantan a:link,
+div#navi li#sslp_workstyle a:link,
+div#navi li#sslp_plan1 a:link,
+div#navi li#sslp_plan2 a:link,
+div#navi li#sslp_plan3 a:link,
+div#navi li#sslp_package a:link,
+div#navi li#sslp_color a:link,
+div#navi li#cleanlady a:link,
+div#navi li#clsp a:link,
+div#navi li#relax a:link,
+div#navi li#fun a:link,
+div#navi li#comfort a:link,
+div#navi li#kitchen_storage a:link,
+div#navi li#around a:link,
+div#navi li#cl_light a:link,
+div#navi li#cll_range a,
+div#navi li#cll_sink a,
+div#navi li#cll_container a,
+div#navi li#cll_package a,
+div#navi li#cll_option a,
+div#navi li#cll_color a,
+div#navi li#rakuera a:link,
+div#navi li#plan1 a:link,
+div#navi li#plan2 a:link,
+div#navi li#plan3 a:link,
+div#navi li#plan4 a:link,
+div#navi li#plan5 a:link,
+div#navi li#design a:link,
+div#navi li#worktopSink a:link,
+div#navi li#layout a:link,
+div#navi li#rakulayout a:link,
+div#navi li#stplan a:link,
+div#navi li#caplan a:link,
+div#navi li#colty a:link,
+div#navi li#colty_basic a:link,
+div#navi li#colty_floor a:link,
+div#navi li#colty_free a:link,
+div#navi li#cs a:link,
+div#navi li#duo a:link,
+div#navi li#cooktable a:link,
+div#navi li#kitchen_pro a:link{
+	background-position:0 0;
+}
+
+div#navi li#ss a:hover,
+div#navi li#style a:hover,
+div#navi li#facility a:hover,
+div#navi li#servo a:hover,
+div#navi li#storage a:hover,
+div#navi li#worktop a:hover,
+div#navi li#sink a:hover,
+div#navi li#color a:hover,
+div#navi li#built a:hover,
+div#navi li#sssp2 a:hover,
+div#navi li#light a:hover,
+div#navi li#sslp_kantan a:hover,
+div#navi li#sslp_workstyle a:hover,
+div#navi li#sslp_plan1 a:hover,
+div#navi li#sslp_plan2 a:hover,
+div#navi li#sslp_plan3 a:hover,
+div#navi li#sslp_package a:hover,
+div#navi li#sslp_color a:hover,
+div#navi li#cleanlady a:hover,
+div#navi li#clsp a:hover,
+div#navi li#relax a:hover,
+div#navi li#fun a:hover,
+div#navi li#comfort a:hover,
+div#navi li#kitchen_storage a:hover,
+div#navi li#around a:hover,
+div#navi li#cl_ukiuki a:hover,
+div#navi li#cl_eye a:hover,
+div#navi li#cl_worktop a:hover,
+div#navi li#cl_gas a:hover,
+div#navi li#cl_bisink a:hover,
+div#navi li#cl_range a:hover,
+div#navi li#cl_slide a:hover,
+div#navi li#cl_container a:hover,
+div#navi li#cl_project a:hover,
+div#navi li#cl_builtin a:hover,
+div#navi li#cl_style a:hover,
+div#navi li#cl_color a:hover,
+div#navi li#cl_light a:hover,
+div#navi li#cl_ecocabi a:hover,
+div#navi li#cl_araeru a:hover,
+div#navi li#cl_package a:hover,
+div#navi li#cl_light a:hover,
+div#navi li#cll_range a:hover,
+div#navi li#cll_sink a:hover,
+div#navi li#cll_container a:hover,
+div#navi li#cll_package a:hover,
+div#navi li#cll_option a:hover,
+div#navi li#cll_color a:hover,
+div#navi li#rakuera a:hover,
+div#navi li#plan1 a:hover,
+div#navi li#plan2 a:hover,
+div#navi li#plan3 a:hover,
+div#navi li#plan4 a:hover,
+div#navi li#plan5 a:hover,
+div#navi li#design a:hover,
+div#navi li#worktopSink a:hover,
+div#navi li#layout a:hover,
+div#navi li#rakustyle a:hover,
+div#navi li#stplan a:hover,
+div#navi li#caplan a:hover,
+div#navi li#colty a:hover,
+div#navi li#colty_basic a:hover,
+div#navi li#colty_floor a:hover,
+div#navi li#colty_free a:hover,
+div#navi li#colty_worktop a:hover,
+div#navi li#colty_built a:hover,
+div#navi li#colty_parts a:hover,
+div#navi li#colty_color a:hover,
+div#navi li#cs a:hover,
+div#navi li#duo a:hover,
+div#navi li#cooktable a:hover,
+div#navi li#kitchen_pro a:hover {
+	background-position:100% 0;
+}
+
+div#navi2 li#price a{height:33px;background-image:url(/common/image/2nd/kitchen/btn_navi_price.gif);}
+div#navi2 li#faq a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_faq.gif);}
+div#navi2 li#kitchen_hakusyo a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_kitchen_hakusho.gif);}
+div#navi2 li#simulation a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_simulation.gif);}
+div#navi2 li#cminfo a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_cminfo.gif);}
+
+div#navi2 li#price a:link,
+div#navi2 li#faq a:link,
+div#navi2 li#kitchen_hakusyo a:link,
+div#navi2 li#simulation a:link,
+div#navi2 li#cminfo a:link{
+	background-position:0 0;
+}
+div#navi2 li#price a:hover,
+div#navi2 li#faq a:hover,
+div#navi2 li#kitchen_hakusyo a:hover,
+div#navi2 li#simulation a:hover,
+div#navi2 li#cminfo a:hover{
+	background-position:100% 0;
+}

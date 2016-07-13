@@ -1,0 +1,815 @@
+@charset "shift_jis";
+
+
+/* 
+
+2011.4以降のナビスタイル記述方法変更に関して
+
+■旧来のパターン（ティアリスの場合）
+	div#navi ul#submenu li#menu_tiaris a {height:35px; background-image:url(/common/image/2nd/wash/btn_navi_tiaris.gif);}
+	div#navi ul#submenu li#menu_tiaris a:link{background-posiiton:0 100%;}
+	div#navi ul#submenu li#menu_tiaris a:hover{background-posiiton:0 100%;}
+
+↓
+
+■新しいパターン
+	div#navi li#menu_tiaris a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_tiaris.gif);}
+
+　hoverスタイルは、このファイルの一番下の部分で下記のように一括指定
+	div#navi ul#submenu li a:hover{background-position:0 0;}
+
+*/
+
+
+
+/* 基本設定 */
+div#navi{position:relative;width:180px;}
+
+div#navi ul#submenu,
+div#navi ul#submenu_company,
+div#navi ul#submenu_ir2,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_kabuka,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_ir,
+div#navi ul#submenu_e-koukoku,
+div#navi ul#submenu_antisocial, /*2010.12.03 追加*/
+div#navi ul#submenu_eco,
+div#navi ul#submenu_recruit{display:block;border:1px solid #BDBDBD;margin:0 10px 0 0;padding:0;}
+
+div#navi ul#submenu_e-koukoku2{display:block;border:1px solid #BDBDBD;margin:0 10px 10px 0;padding:0;}/* IRコンテンツ追加に際し追記 */
+
+div#navi ul#submenu li,
+div#navi ul#submenu_company li,
+div#navi ul#submenu_ir2 li,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_kabuka li,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_e-koukoku2 li,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_ir li,
+div#navi ul#submenu_eco li,
+div#navi ul#submenu_e-koukoku li,
+div#navi ul#submenu_antisocial li, /*2010.12.03 追加*/
+div#navi ul#submenu_recruit li{list-style-type: none;display:block;width:168px;font-size:0;line-height:0;margin:0;vertical-align:bottom;}
+
+div#navi ul#submenu li a span,
+div#navi ul#submenu_company li a span,
+div#navi ul#submenu_ir2 li a span,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_kabuka li a span,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_e-koukoku2 li a span,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_ir li a span,
+div#navi ul#submenu_e-koukoku li a span,
+div#navi ul#submenu_antisocial li a span, /*2010.12.03 追加*/
+div#navi ul#submenu_eco li a span,
+div#navi ul#submenu_recruit li a span{display:none;}
+
+div#navi ul#submenu li a,
+div#navi ul#submenu_company li a,
+div#navi ul#submenu_ir2 li a,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_kabuka li a,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_e-koukoku2 li a,	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_antisocial li a, /*2010.12.03 追加*/
+div#navi ul#submenu_ir li a,
+div#navi ul#submenu_e-koukoku li a,
+div#navi ul#submenu_eco li a,
+div#navi ul#submenu_recruit li a{display:block;width:168px;line-height:normal;}
+
+
+div#navi ul#submenu ul#inlinemenu{display:block;}
+div#navi ul#submenu ul#inlinemenu li{display:block;width:168px;}
+div#navi ul#submenu ul#inlinemenu li a span {display:none;}
+div#navi ul#submenu ul#inlinemenu li a{display:block;width:168px;line-height:normal;}
+
+div#navi ul#submenu2{display:block;border:1px solid #BDBDBD;margin:12px 10px 0 0;padding:0;}
+div#navi ul#submenu2_other2{display:block;border:1px solid #BDBDBD;margin:0 10px 0 0;padding:0;}
+div#navi ul#submenu2 li,div#navi ul#submenu2_other2 li{list-style-type: none;display:block;width:168px;font-size:0;line-height:0;margin:0;vertical-align:bottom;}
+div#navi ul#submenu2 li a span,div#navi ul#submenu2_other2 li a span{display:none;}
+div#navi ul#submenu2 li a,div#navi ul#submenu2_other2 li a{display:block;width:168px;}
+
+
+
+
+/*スマイル20*/
+div#navi ul#submenu2_smile20{display:block;border:1px solid #BDBDBD;margin:0 10px 0 0;padding:0;}
+
+div#navi ul#submenu2 li,div#navi ul#submenu2_smile20 li{list-style-type: none;display:block;width:168px;font-size:0;line-height:0;margin:0;vertical-align:bottom;}
+div#navi ul#submenu2 li a span,div#navi ul#submenu2_smile20 li a span{display:none;}
+div#navi ul#submenu2 li a,div#navi ul#submenu2_smile20 li a{display:block;width:168px;}
+
+div#navi ul#submenu2_smile20end{display:block;border:1px solid #BDBDBD;margin:0 10px 10px 0;padding:0;}
+
+div#navi ul#submenu2 li,div#navi ul#submenu2_smile20end li{list-style-type: none;display:block;width:168px;font-size:0;line-height:0;margin:0;vertical-align:bottom;}
+div#navi ul#submenu2 li a span,div#navi ul#submenu2_smile20end li a span{display:none;}
+div#navi ul#submenu2 li a,div#navi ul#submenu2_smile20end li a{display:block;width:168px;}
+
+
+div#navi ul#banner {margin:12px 10px 0 0;}
+div#navi ul#banner li{list-style-type: none;margin-bottom:9px;}
+div#navi ul#banner li img{border:none;}/*移行完了後に削除*/
+
+div#team6{margin:30px 10px 0 0;padding:0;}
+
+
+/*バス*/
+div#navi ul#submenu li#aqulia_bath a{height:34px;background:url(/common/image/2nd/bath/btn_navi_bath_aqulia.gif) no-repeat;}
+div#navi ul#submenu li#yuasis a{height:34px;background:url(/common/image/2nd/bath/btn_navi_bath_yuasis.gif) no-repeat;}
+
+
+div#navi ul#submenu li#aqulia_bath a:link,
+div#navi ul#submenu li#yuasis a:link{background-position:0 0;}
+
+div#navi ul#submenu li#aqulia_bath a:hover,
+div#navi ul#submenu li#yuasis a:hover{background-position:100% 0;}
+
+/* aqluia
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile01 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile01.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile02 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile02.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile03 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile03.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile04 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile04.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile05 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile05.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile06 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile06.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile07 a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_smile07.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_frame a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_frame.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_color a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_color.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_wall a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_wall.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_aq_gallery a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_aqulia_gallery.gif) no-repeat;}
+ */
+ 
+/* hairo */
+div#navi ul#submenu ul#inlinemenu li#menu_ashipita a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_ashipita.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_table a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_table.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_panel a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_panel.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_straight a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_straight.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_marugoto a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_marugoto.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_voice a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_voice.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_sr a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_sr.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_color a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_color.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_high a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_high.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#menu_plan a{height:35px;background:url(/common/image/2nd/bath/btn_subnavi_hairo_plan.gif) no-repeat;}
+
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile01 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile02 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile03 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile04 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile05 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile06 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_smile07 a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_frame a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_color a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_wall a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_aq_gallery a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_ashipita a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_table a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_panel a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_straight a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_marugoto a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_voice a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_sr a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_color a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_plan a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_high a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_trs_quality a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_trs_storage a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_trs_interior a:hover,
+div#navi ul#submenu ul#inlinemenu li#menu_trs_clean a:hover{background-position:100% 0;}
+
+div#navi ul#submenu2 li#bath_price a{height:33px;background:url(/common/image/2nd/bath/btn_navi_bath_price.gif) no-repeat;}
+div#navi ul#submenu2 li#bath_faq a{height:32px;background:url(/common/image/2nd/bath/btn_navi_bath_faq.gif) no-repeat;}
+div#navi ul#submenu2 li#bath_hakusyo a{height:32px;background:url(/common/image/2nd/bath/btn_navi_bath_hakusho.gif) no-repeat;}
+div#navi ul#submenu2 li#bath_simulation a{height:32px;background:url(/common/image/2nd/bath/btn_navi_bath_simulation.gif) no-repeat;}
+
+div#navi ul#submenu2 li#bath_price a:link,
+div#navi ul#submenu2 li#bath_faq a:link,
+div#navi ul#submenu2 li#bath_hakusyo a:link,
+div#navi ul#submenu2 li#bath_simulation a:link{background-position:0 0;}
+
+div#navi ul#submenu2 li#bath_price a:hover,
+div#navi ul#submenu2 li#bath_faq a:hover,
+div#navi ul#submenu2 li#bath_hakusyo a:hover,
+div#navi ul#submenu2 li#bath_simulation a:hover{background-position:100% 0;}
+
+
+
+
+/*会社概要*/
+div#navi ul#submenu_company li#company li#menu_com_policy a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_policy.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_greeting a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_greeting.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_history a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_history.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_map a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_map.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_office a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_office.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_office_office a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_office_office.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_office_showroom a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_office_showroom.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_office_kaigai a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_office_kaigai.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_office_factory a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_office_factory.gif) no-repeat;}
+div#navi ul#submenu_company li#company li#menu_com_training a{height:35px;background:url(/common/image/2nd/company/btn_navi_com_training.gif) no-repeat;}
+
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_policy a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_greeting a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_history a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_map a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_office a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_showroom a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_kaigai a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_factory a:link,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_training a:link{
+	background-position:0 0;
+}
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_policy a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_greeting a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_history a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_map a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_office a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_showroom a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_kaigai a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_office_factory a:hover,
+div#navi ul#submenu_company ul#inlinemenu li#menu_com_training a:hover{
+	background-position:100% 0;
+}
+
+div#navi div#companyNavi div.naviline{
+	height:4px;
+	text-align:left;
+	line-height:0;
+	font-size:0;
+	vertical-align:bottom;
+}
+
+/*その他*/
+div#navi ul#submenu_company{border-bottom:none;}
+div#navi ul#submenu_ir2{border-bottom:none;}	/* IRコンテンツ追加に際し追記 */
+div#navi ul#submenu_kabuka,div#navi ul#submenu_e-koukoku2{border-bottom:none;border-top:none;}	/* IRコンテンツ追加に際し追記 */
+
+div#navi ul#submenu_ir,div#navi ul#submenu_e-koukoku,
+div#navi ul#submenu_ir,div#navi ul#submenu_antisocial,/* 2010.12.03 追加 */
+div#navi ul#submenu_ir,div#navi ul#submenu_eco{border-bottom:none;border-top:none;}
+
+div#navi ul#submenu_recruit{border-top:none;}
+
+div#navi div.naviline{margin:0 10px 0 0;padding:0;}
+div#navi div.naviline img{border-left:1px solid #BDBDBD;border-right:1px solid #BDBDBD;}
+
+div#navi ul#submenu_company li#company a{height:34px;background:url(/common/image/2nd/other/btn_navi_other_company.gif) no-repeat;}
+div#navi ul#submenu_company li#company_en a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_company_en.gif) no-repeat;}
+div#navi ul#submenu_ir li#ir a{height:36px;background:url(/common/image/2nd/other/btn_navi_other_ir.gif) no-repeat;}
+div#navi ul#submenu_e-koukoku li#e-koukoku a{height:36px;background:url(/common/image/2nd/other/btn_navi_other_e-koukoku.gif) no-repeat;}
+div#navi ul#submenu_eco li#eco a{height:36px;background:url(/common/image/2nd/other/btn_navi_other_eco.gif) no-repeat;}
+div#navi ul#submenu_recruit li#recruit a{height:36px;background:url(/common/image/2nd/other/btn_navi_other_recruit.gif) no-repeat;}
+div#navi ul#submenu_recruit li#material a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_material.gif) no-repeat;}
+div#navi ul#submenu_recruit li#group a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_group.gif) no-repeat;}
+div#navi ul#submenu_recruit li#wrestling a{height:34px;background:url(/common/image/2nd/other/btn_navi_other_wrestling.gif) no-repeat;}
+
+div#navi ul#submenu_company li#company a:link,
+div#navi ul#submenu_company li#company_en a:link,
+div#navi ul#submenu_ir li#ir a:link,
+div#navi ul#submenu_e-koukoku li#e-koukoku a:link,
+div#navi ul#submenu_eco li#eco a:link,
+div#navi ul#submenu_recruit li#recruit a:link,
+div#navi ul#submenu_recruit li#material a:link,
+div#navi ul#submenu_recruit li#group a:link,
+div#navi ul#submenu_recruit li#wrestling a:link{
+	background-position:0 0;
+}
+
+div#navi ul#submenu_company li#company a:hover,
+div#navi ul#submenu_company li#company_en a:hover,
+div#navi ul#submenu_ir li#ir a:hover,
+div#navi ul#submenu_e-koukoku li#e-koukoku a:hover,
+div#navi ul#submenu_eco li#eco a:hover,
+div#navi ul#submenu_recruit li#recruit a:hover,
+div#navi ul#submenu_recruit li#material a:hover,
+div#navi ul#submenu_recruit li#group a:hover,
+div#navi ul#submenu_recruit li#wrestling a:hover {
+	background-position:100% 0;
+}
+
+div#navi ul#submenu2 li#edo a,div#navi ul#submenu2_other2 li#edo a{height:33px;background:url(/common/image/2nd/other/btn_navi_other_edo.gif) no-repeat;}
+div#navi ul#submenu2 li#sr a,div#navi ul#submenu2_other2 li#sr a{height:45px;background:url(/common/image/2nd/other/btn_navi_other_oishiitoki.gif) no-repeat;}
+div#navi ul#submenu2 li#global a,div#navi ul#submenu2_other2 li#global a{height:45px;background:url(/common/image/2nd/other/btn_navi_other_global.gif) no-repeat;}
+
+div#navi ul#submenu2 li#edo a:link,
+div#navi ul#submenu2 li#sr a:link,
+div#navi ul#submenu2 li#global a:link,
+div#navi ul#submenu2_other2 li#submenu_e-koukoku a:link,
+div#navi ul#submenu2_other2 li#submenu_eco a:link,
+div#navi ul#submenu2_other2 li#edo a:link,
+div#navi ul#submenu2_other2 li#la_buona a:link,
+div#navi ul#submenu2_other2 li#global a:link{
+	background-position:0 0;
+}
+div#navi ul#submenu2 li#edo a:hover,
+div#navi ul#submenu2 li#sr a:hover,
+div#navi ul#submenu2 li#global a:hover,
+div#navi ul#submenu2_other2 li#edo a:hover,
+div#navi ul#submenu2_other2 li#sr a:hover,
+div#navi ul#submenu2_other2 li#global a:hover{
+	background-position:100% 0;
+}
+
+/*スマイル20*/
+div#navi ul#submenu2 li#smile20 a,div#navi ul#submenu2_smile20 li#smile20 a{height:35px;background:url(/common/image/2nd/smile20/btn_navi_smile20_smile20.gif) no-repeat;}
+div#navi ul#submenu2 li#y20sp a,div#navi ul#submenu2_smile20 li#y20sp a{height:35px;background:url(/common/image/2nd/smile20/btn_navi_smile20_y20sp.gif) no-repeat;}
+div#navi ul#submenu2 li#clsmile a,div#navi ul#submenu2_smile20 li#clsmile a{height:35px;background:url(/common/image/2nd/smile20/btn_navi_smile20_clsmile.gif) no-repeat;}
+div#navi ul#submenu2 li#cleaning a,div#navi ul#submenu2_smile20end li#cleaning a{height:35px;background:url(/common/image/2nd/smile20/btn_navi_smile20_cleaning.gif) no-repeat;}
+
+
+div#navi ul#submenu2_smile20 li#smile20 a:link,
+div#navi ul#submenu2_smile20 li#y20sp a:link,
+div#navi ul#submenu2_smile20 li#clsmile a:link,
+div#navi ul#submenu2_smile20end li#cleaning a:link{
+	background-position:0 0;
+}
+
+div#navi ul#submenu2_smile20 li#smile20 a:hover,
+div#navi ul#submenu2_smile20 li#y20sp a:hover,
+div#navi ul#submenu2_smile20 li#clsmile a:hover,
+div#navi ul#submenu2_smile20end li#cleaning a:hover{
+	background-position:100% 0;
+}
+
+/*よくあるお問い合わせ*/
+div#navi ul#submenu li#qa a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_qa.gif) no-repeat;}
+div#navi ul#submenu li#howto a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_howto.gif) no-repeat;}
+div#navi ul#submenu li#maintenance a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_maintenance.gif) no-repeat;}
+div#navi ul#submenu li#yogore a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_yogore.gif) no-repeat;}
+div#navi ul#submenu li#info a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_info.gif) no-repeat;}
+div#navi ul#submenu li#stainless a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_stainless.gif) no-repeat;}
+div#navi ul#submenu li#name a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_name.gif) no-repeat;}
+div#navi ul#submenu li#customer a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_customer.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#u_kitchen a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_kitchen.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#u_bath a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_bath.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#u_wash a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_wash.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#m_kitchen a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_kitchen.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#m_bath a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_bath.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#m_wash a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_wash.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#y_kitchen a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_kitchen.gif) no-repeat;}
+div#navi ul#submenu ul#inlinemenu li#y_bath_wash a{height:34px;background:url(/common/image/2nd/faq/btn_navi_faq_bath_wash.gif) no-repeat;}
+
+div#navi ul#submenu li#qa a:link,
+div#navi ul#submenu li#howto a:link,
+div#navi ul#submenu li#maintenance a:link,
+div#navi ul#submenu li#yogore a:link,
+div#navi ul#submenu li#info a:link,
+div#navi ul#submenu li#stainless a:link,
+div#navi ul#submenu li#name a:link,
+div#navi ul#submenu li#customer a:link,
+div#navi ul#submenu ul#inlinemenu li#u_kitchen a:link,
+div#navi ul#submenu ul#inlinemenu li#u_bath a:link,
+div#navi ul#submenu ul#inlinemenu li#u_wash a:link,
+div#navi ul#submenu ul#inlinemenu li#m_kitchen a:link,
+div#navi ul#submenu ul#inlinemenu li#m_bath a:link,
+div#navi ul#submenu ul#inlinemenu li#m_wash a:link,
+div#navi ul#submenu ul#inlinemenu li#y_kitchen a:link,
+div#navi ul#submenu ul#inlinemenu li#y_bath_wash a:link{
+	background-position:0 0;
+}
+
+div#navi ul#submenu li#qa a:hover,
+div#navi ul#submenu li#howto a:hover,
+div#navi ul#submenu li#maintenance a:hover,
+div#navi ul#submenu li#yogore a:hover,
+div#navi ul#submenu li#info a:hover,
+div#navi ul#submenu li#stainless a:hover,
+div#navi ul#submenu li#name a:hover,
+div#navi ul#submenu li#customer a:hover,
+div#navi ul#submenu ul#inlinemenu li#u_kitchen a:hover,
+div#navi ul#submenu ul#inlinemenu li#u_bath a:hover,
+div#navi ul#submenu ul#inlinemenu li#u_wash a:hover,
+div#navi ul#submenu ul#inlinemenu li#m_kitchen a:hover,
+div#navi ul#submenu ul#inlinemenu li#m_bath a:hover,
+div#navi ul#submenu ul#inlinemenu li#m_wash a:hover,
+div#navi ul#submenu ul#inlinemenu li#y_kitchen a:hover,
+div#navi ul#submenu ul#inlinemenu li#y_bath_wash a:hover{
+	background-position:100% 0;
+}
+
+
+/* 090226 added */
+div#navi ul#bannerEssay {margin:25px 10px 25px 0;}
+div#navi ul#bannerEssay li{list-style-type: none;}
+div#navi ul#bannerEssay li img{border:none;}
+
+
+/* 100827 added　ステンレス */
+
+
+div#navi ul#bannerstainless {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerstainless li{list-style-type: none;}
+div#navi ul#bannerstainless li img{border:none;}
+
+
+/* 100901 added　お掃除教室 */
+div#navi ul#bannerOsouji {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerOsouji li{list-style-type: none;}
+div#navi ul#bannerOsouji li img{border:none;}
+
+
+/* 101222 added　おせち料理 */
+div#navi ul#bannerOsechi {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerOsechi li{list-style-type: none;}
+div#navi ul#bannerOsechi li img{border:none;}
+
+/* 110107 added　エコポイント */
+div#navi ul#bannerEco2011 {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerEco2011 li{list-style-type: none;}
+div#navi ul#bannerEco2011 li img{border:none;}
+
+/* 110112 added　長島選手 */
+div#navi ul#bannerNagashima {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerNagashima li{list-style-type: none;}
+div#navi ul#bannerNagashima li img{border:none;}
+
+/* 110223 added　SRへ行こう */
+div#navi ul#bannerShowroom {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerShowroom li{list-style-type: none;}
+div#navi ul#bannerShowroom li img{border:none;}
+
+
+/* 110523 特設 */
+div#navi ul#bannerHamauchi {margin:0px 10px 25px 0;}
+div#navi ul#bannerHamauchi li{list-style-type: none;}
+div#navi ul#bannerHamauchi li img{border:none;}
+
+
+/* 120607  added　キッチンタウン */
+div#navi ul#bannerktown {margin:0px 10px 25px 0;}
+div#navi ul#bannerktown li{list-style-type: none;}
+div#navi ul#bannerktown li img{border:none;}
+
+
+/* 120621  added　デザインレシピ */
+div#navi ul#bannerdrecipe {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerdrecipe li{list-style-type: none;}
+div#navi ul#bannerdrecipe li img{border:none;}
+
+/* 120621  added　アクリアバス */
+div#navi ul#banneraquliab {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#banneraquliab li{list-style-type: none;}
+div#navi ul#banneraquliab li img{border:none;}
+
+/* 120621  added　ショールームQR */
+div#navi ul#bannersrqr {margin:0px 10px 25px 0;}
+div#navi ul#bannersrqr li{list-style-type: none;}
+div#navi ul#bannersrqr li img{border:none;}
+
+
+/* 120621  added　あったかエコリフォーム */
+div#navi ul#bannerecor {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerecor li{list-style-type: none;}
+div#navi ul#bannerecor li img{border:none;}
+
+/* 120621  added　キッチンアカデミー */
+div#navi ul#bannerkacademy {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerkacademy li{list-style-type: none;}
+div#navi ul#bannerkacademy li img{border:none;}
+
+/* 120621  added　ととのいました */
+div#navi ul#bannertotonou {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannertotonou li{list-style-type: none;}
+div#navi ul#bannertotonou li img{border:none;}
+
+
+/* 120621  added　おススメアイテム */
+div#navi ul#bannerosusume {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerosusume li{list-style-type: none;}
+div#navi ul#bannerosusume li img{border:none;}
+
+/* 120823 added　画像バナーリスト */
+div#navi ul#bannerimgs {margin:25px 10px 25px 0; padding:0;}
+div#navi ul#bannerimgs li{list-style-type: none; margin-bottom:10px;}
+div#navi ul#bannerimgs li img{border:none;}
+
+
+/* リフォーム */
+div#navi ul#submenu li#rfm00 a{height:40px;  background:url(../image/2nd/reform/btn_navi_rfm00.gif) no-repeat;}/*トップ*/
+div#navi ul#submenu li#rfm01 a{height:41px;  background:url(../image/2nd/reform/btn_navi_rfm01.gif) no-repeat;}/*事例集*/
+div#navi ul#submenu li#rfm02 a{height:41px;  background:url(../image/2nd/reform/btn_navi_rfm02.gif) no-repeat;}/*ショールームってどんなとこ？*/
+div#navi ul#submenu li#rfm03 a{height:41px;  background:url(../image/2nd/reform/btn_navi_rfm03.gif) no-repeat;}/*どんな時にリフォームする？*/
+div#navi ul#submenu li#rfm04 a{height:41px;  background:url(../image/2nd/reform/btn_navi_rfm04.gif) no-repeat;}/*リフォームで気をつけること*/
+div#navi ul#submenu li#rfm05 a{height:41px;  background:url(../image/2nd/reform/btn_navi_rfm05.gif) no-repeat;}/*リフォームの流れ*/
+div#navi ul#submenu li#rfm06 a{height:54px;  background:url(../image/2nd/reform/btn_navi_rfm06.gif) no-repeat;}/*商品選びのコツ／バス*/
+div#navi ul#submenu li#rfm07 a{height:54px;  background:url(../image/2nd/reform/btn_navi_rfm07.gif) no-repeat;}/*商品選びのコツ／キッチン*/
+div#navi ul#submenu li#rfm08 a{height:40px;  background:url(../image/2nd/reform/btn_navi_rfm08.gif) no-repeat;}/*お手入れのススメ*/
+
+div#navi ul#submenu li#rfm00 a:hover,
+div#navi ul#submenu li#rfm01 a:hover,
+div#navi ul#submenu li#rfm02 a:hover,
+div#navi ul#submenu li#rfm03 a:hover,
+div#navi ul#submenu li#rfm04 a:hover,
+div#navi ul#submenu li#rfm05 a:hover,
+div#navi ul#submenu li#rfm06 a:hover,
+div#navi ul#submenu li#rfm07 a:hover,
+div#navi ul#submenu li#rfm08 a:hover{background-position:100% 0;}
+
+
+/* twitter */
+div#navi ul#bannerTwitter li{width:168px; margin:10px 0 0; padding:0;}
+
+
+/* 以下IRコンテンツ追加に際し追記 2010.9.23 */
+/*IR*/
+div#navi ul#submenu_ir2 li#irtop a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_01.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#hoshin a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_02.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#zaimu a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_03.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#irevent a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_04.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#irsiryo a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_05.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#kabu a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_06.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#irqa a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_07.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#kojin a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_08.gif) no-repeat;}
+
+div#navi ul#submenu_kabuka li#kabuka a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_09.gif) no-repeat;}
+div#navi ul#submenu_e-koukoku2 li#e-koukoku2 a{height:35px;background:url(/common/image/2nd/other/btn_navi_ir_10.gif) no-repeat;}
+
+/* 2010.12.03 追加*/
+div#navi ul#submenu_ir2 li#irkessan a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_ir01.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#iryuka a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_ir02.gif) no-repeat;}
+div#navi ul#submenu_ir2 li#irkabunushi a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_ir03.gif) no-repeat;}
+div#navi ul#submenu_e-koukoku2 li#e-koukoku3 a{height:35px;background:url(/common/image/2nd/other/btn_navi_other_ir04.gif) no-repeat;}
+
+
+div#navi ul#submenu_ir2 li#irtop a:link,
+div#navi ul#submenu_ir2 li#hoshin a:link,
+div#navi ul#submenu_ir2 li#zaimu a:link,
+div#navi ul#submenu_ir2 li#irevent a:link,
+div#navi ul#submenu_ir2 li#irsiryo a:link,
+div#navi ul#submenu_ir2 li#kabu a:link,
+div#navi ul#submenu_ir2 li#irqa a:link,
+div#navi ul#submenu_ir2 li#kojin a:link,
+div#navi ul#submenu_kabuka li#kabuka a:link,
+div#navi ul#submenu_e-koukoku2 li#e-koukoku2 a:link,
+/* 2010.12.03追加*/
+div#navi ul#submenu_ir2 li#irkessan a:link,
+div#navi ul#submenu_ir2 li#iryuka a:link,
+div#navi ul#submenu_ir2 li#irkabunushi a:link,
+div#navi ul#submenu_e-koukoku2 li#e-koukoku3 a:link{
+	background-position:0 0;
+}
+
+div#navi ul#submenu_ir2 li#irtop a:hover,
+div#navi ul#submenu_ir2 li#hoshin a:hover,
+div#navi ul#submenu_ir2 li#zaimu a:hover,
+div#navi ul#submenu_ir2 li#irevent a:hover,
+div#navi ul#submenu_ir2 li#irsiryo a:hover,
+div#navi ul#submenu_ir2 li#kabu a:hover,
+div#navi ul#submenu_ir2 li#irqa a:hover,
+div#navi ul#submenu_ir2 li#kojin a:hover,
+div#navi ul#submenu_kabuka li#kabuka a:hover,
+div#navi ul#submenu_e-koukoku2 li#e-koukoku2 a:hover ,
+/* 2010.12.03追加*/
+div#navi ul#submenu_ir2 li#irkessan a:hover,
+div#navi ul#submenu_ir2 li#iryuka a:hover,
+div#navi ul#submenu_ir2 li#irkabunushi a:hover,
+div#navi ul#submenu_e-koukoku2 li#e-koukoku3 a:hover{
+	background-position:100% 0;
+}
+
+/* IR業績・財務情報 （2010.11.16 修正追加）
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_hilight a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_01.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_sihyo a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_02.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_taishaku a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_03.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_soneki a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_04.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_cashflow a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_05.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_khendo a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_06.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_info a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_07.gif) no-repeat;} */
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_highlight a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_07.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_hyo a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_zaimu_08.gif) no-repeat;}
+
+/*div#navi ul#submenu_ir2 ul#inlinemenu li#zm_hilight a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_sihyo a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_taishaku a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_soneki a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_cashflow a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_khendo a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_info a:link,*/
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_highlight a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_hyo a:link{
+	background-position:0 0;
+}
+
+/*div#navi ul#submenu_ir2 ul#inlinemenu li#zm_hilight a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_sihyo a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_taishaku a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_soneki a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_cashflow a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_khendo a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_info a:hover,*/
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_highlight a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#zm_hyo a:hover{
+	background-position:100% 0;
+}
+
+/* IR資料室 */
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_top a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_01.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_results a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_02.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_frepo a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_03.gif) no-repeat;}
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_repo a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_04.gif) no-repeat;}
+
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_info a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_05.gif) no-repeat;}
+/*div#navi ul#submenu_ir2 ul#inlinemenu li#irs_annual a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_06.gif) no-repeat;}*/
+
+
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_top a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_results a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_frepo a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_repo a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_info a:link,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_annual a:link	{
+	background-position:0 0;
+}
+
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_top a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_results a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_frepo a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_repo a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_info a:hover,
+div#navi ul#submenu_ir2 ul#inlinemenu li#irs_annual a:hover	{
+	background-position:100% 0;
+}
+
+
+/* 電子広告 2010.12.03追加 */
+div#navi ul#submenu_e-koukoku ul#inlinemenu li#irs_annual a{height:35px;background:url(/common/image/2nd/other/btn_subnavi_ir_irsiryo_06.gif) no-repeat;}
+div#navi ul#submenu_e-koukoku ul#inlinemenu li#irs_annual a:link{
+	background-position:0 0;
+}
+div#navi ul#submenu_e-koukoku ul#inlinemenu li#irs_annual a:hover{
+	background-position:100% 0;
+}
+
+
+/* 反社会的活動排除宣言 2010.12.03追加 */
+div#navi ul#submenu_antisocial li#antisocial a{height:35px; background:url(/common/image/2nd/other/btn_navi_other_antisocial.gif) no-repeat;}
+div#navi ul#submenu_antisocial li#antisocial a:link{
+	background-position:0 0;
+}
+div#navi ul#submenu_antisocial li#antisocial a:hover{
+	background-position:100% 0;
+}
+
+
+/*======================================================
+
+	2011.04.26　まとめて書き換え
+
+========================================================*/
+
+/* 基本設定追加 */
+div#navi ul.submenu{border:1px solid #BDBDBD; margin:0 10px 12px 0; padding:0;}
+div#navi ul.submenu li{list-style-type: none; font-size:0; line-height:0; margin:0; padding:0;}
+div#navi ul.submenu li a{display:block; width:168px; height:35px;}
+div#navi ul.submenu li a span{display:none;}
+
+div#navi ul.submenu ul.inlinemenu li a{display:block; width:168px; height:35px;}
+div#navi ul.submenu ul.inlinemenu li a span {display:none;}
+
+
+/*-------------------------------------
+
+	2011.04.26　キッチン
+
+---------------------------------------*/
+	/* キッチンsnavi 共通 */
+	div#navi ul.inlinemenu li#sink a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_sink.gif);}/*シンク*/
+	div#navi ul.inlinemenu li#color a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_door.gif);}/*カラー*/
+	div#navi ul.inlinemenu li#built a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_builtin.gif);}/*ビルトイン*/
+	div#navi ul.inlinemenu li#design a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_design.gif);}/*デザイン*/
+	div#navi ul.inlinemenu li#package a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_packge.gif);}/*パッケージ*/
+	div#navi ul.inlinemenu li#storage a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_storage.gif);}/*収納*/
+	div#navi ul.inlinemenu li#worktop a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_worktop.gif);}/*ワークトップ*/
+	div#navi ul.inlinemenu li#spplan a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_spplan.gif);}/*空間プラン*/
+	div#navi ul.inlinemenu li#option a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_option.gif);}/*オプション*/
+	div#navi ul.inlinemenu li#special a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_special.gif);}/*スペシャル*/
+	div#navi ul.inlinemenu li#araeru a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_araeru.gif);}/*洗エールレンジフード*/
+	div#navi ul.inlinemenu li#plan1 a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_plan1.gif);}/* Plan1 */
+	div#navi ul.inlinemenu li#plan2 a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_plan2.gif);}/* Plan2 */
+	div#navi ul.inlinemenu li#plan3 a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_plan3.gif);}/* Plan3 */
+	div#navi ul.inlinemenu li#plan4 a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_plan4.gif);}/* Plan4 */
+	div#navi ul.inlinemenu li#plan5 a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_plan5.gif);}/* Plan5 */
+	div#navi ul.inlinemenu li#plan6 a{background-image:url(/common/image/2nd/kitchen/btn_navi_common_plan6.gif);}/* Plan6 */
+
+
+/* SS, SSサーボ */
+div#navi li#ss a{background-image:url(/common/image/2nd/kitchen/btn_navi_ss.gif);}
+div#navi li#servo a{background-image:url(/common/image/2nd/kitchen/btn_navi_ssservo.gif);}
+div#navi li#sssp2 a{background-image:url(/common/image/2nd/kitchen/btn_navi_sssp.gif);}
+	div#navi li#ss_staincab a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_ss_staincab.gif);}
+	div#navi li#ss_servo a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_ss_servo.gif);}
+	/* 不使用
+	div#navi li#ss_style a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_ss_3style.gif);}
+	div#navi li#ss_facility a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_ss_3facility.gif);}
+	div#navi li#ss_4concepts a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_ss_4concepts.gif);}*/
+
+/* SSライト 2010.5.25追加 */
+div#navi li#light a{background-image:url(/common/image/2nd/kitchen/btn_navi_sslp.gif);}/*「NEW」ナシ*/
+/*div#navi li#light a{background-image:url(/common/image/2nd/kitchen/btn_navi_sslp_light.gif);}「NEW」アリ*/
+	div#navi li#sslp_kantan a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_kantan.gif);}
+	div#navi li#sslp_workstyle a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_sslp_workstyle.gif);}
+
+/*　クリンレディ 2010.5.28修正　*/
+/*div#navi li#cleanlady a{background-image:url(/common/image/2nd/kitchen/btn_navi_cleanlady.gif);}「NEW」ナシ*/
+div#navi li#cleanlady a{background-image:url(/common/image/2nd/kitchen/btn_navi_cleanlady_new.gif);}/*「NEW」アリ*/
+div#navi li#cleanlady_new a{background-image:url(/common/image/2nd/kitchen/btn_navi_cleanlady_new.gif);}
+	div#navi li#cl_ecocabi a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_ecocabi.gif); height:43px;}
+	div#navi li#cl_cleanhaisui a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_cleanhaisui.gif);}
+	div#navi li#cl_araeru a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_araeru.gif);}
+	div#navi li#cl_ukiuki a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_ukiuki.gif);}
+	div#navi li#cl_package a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cl_package.gif);}
+	/*div#navi li#cl_eye a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_clean_eye.gif);}
+	div#navi li#cl_project a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_project.gif);}
+	div#navi li#cl_style a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_style.gif);}
+	div#navi li#cl_light a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cln_lightpack.gif);}*/
+
+/* ラクエラ　*/
+div#navi li#rakuera a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera.gif);}/*「NEW」ナシ*/
+/*div#navi li#rakuera a{background-image:url(/common/image/2nd/kitchen/btn_navi_rakuera_new.gif);}「NEW」アリ*/
+	div#navi li#worktopSink a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_rakuera_worktop.gif);}
+	div#navi li#layout a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_rakuera_layout.gif);}
+	div#navi li#rakustyle a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_rakuera_style.gif);}
+	div#navi li#stplan a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_rakuera_stplan.gif);}
+	
+	div#navi li#kitchenstyling a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_kitchenstyling.gif);}
+	div#navi li#cleanitem a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_cleanitem.gif);}
+	div#navi li#planprice a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_planprice.gif);}
+
+/* コルティ　*/
+div#navi li#colty a{background-image:url(/common/image/2nd/kitchen/btn_navi_colty.gif);}
+	div#navi li#colty_basic a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_basic.gif);}
+	div#navi li#colty_floor a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_floor.gif);}
+	div#navi li#colty_free a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_free.gif);}
+	div#navi li#colty_worktop a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_worktop.gif);}
+	div#navi li#colty_parts a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_parts.gif);}
+	div#navi li#colty_built a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_builtin.gif);}
+	div#navi li#colty_color a{background-image:url(/common/image/2nd/kitchen/btn_subnavi_colty_color.gif);}
+	
+/* システムキッチンCS */
+div#navi li#cs a{background-image:url(/common/image/2nd/kitchen/btn_navi_cs.gif);}
+
+/* キッチンその他 */
+div#navi li#caplan a{background-image:url(/common/image/2nd/kitchen/btn_navi_caplan.gif);}
+div#navi li#duo a{background-image:url(/common/image/2nd/kitchen/btn_navi_duo.gif);}
+div#navi li#cooktable a{background-image:url(/common/image/2nd/kitchen/btn_navi_cooktable.gif);}
+div#navi li#kitchen_pro a{height:34px;background-image:url(/common/image/2nd/kitchen/btn_navi_pro.gif);}
+
+/* キッチン submenu2 */
+div#navi ul#submenu2 li#price a{height:33px;background-image:url(/common/image/2nd/kitchen/btn_navi_price.gif);}
+div#navi ul#submenu2 li#faq a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_faq.gif);}
+div#navi ul#submenu2 li#kitchen_hakusyo a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_kitchen_hakusho.gif);}
+div#navi ul#submenu2 li#simulation a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_simulation.gif);}
+div#navi ul#submenu2 li#cminfo a{height:32px;background-image:url(/common/image/2nd/kitchen/btn_navi_cminfo.gif);}
+
+
+/*-------------------------------------
+
+	2012.08.29　洗面台
+
+---------------------------------------*/
+div#navi li#menu_tiaris a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_tiaris.gif);}
+/*div#navi li#menu_tiaris a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_tiaris_new.gif);} ←NEW! */
+div#navi li#aqulia_s a{height:35px; background-image:url(/common/image/2nd/wash/btn_navi_saloon.gif);}
+/*div#navi li#aqulia_s a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_saloon_new.gif);} ←NEW! */
+div#navi li#s a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_s.gif);}
+/*div#navi li#s a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_s_new.gif);} ←NEW! */
+div#navi li#fansio a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_fansio.gif);}
+/*div#navi li#fansio a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_fansio_new.gif);}/* ←NEW! */
+div#navi li#bts a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_bts.gif);}
+/*div#navi li#bts a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_bts_new.gif);} ←NEW! */
+div#navi li#btg a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_btg.gif);}
+/*div#navi li#btg a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_btg_new.gif);} ←NEW! */
+div#navi li#bth a{height:35px;background-image:url(/common/image/2nd/wash/btn_navi_bth.gif);}
+/*div#navi li#bth a{height:34px;background-image:url(/common/image/2nd/wash/btn_navi_bth_new.gif);} ←NEW! */
+
+	/* 洗面台 subnavi */
+	div#navi ul#inlinemenu li#menu_trs_quality a{height:35px;background-image:url(/common/image/2nd/wash/btn_subnavi_tiaris_quality.gif);}
+	div#navi ul#inlinemenu li#menu_trs_storage a{height:35px;background-image:url(/common/image/2nd/wash/btn_subnavi_tiaris_storage.gif);}
+	div#navi ul#inlinemenu li#menu_trs_interior a{height:35px;background-image:url(/common/image/2nd/wash/btn_subnavi_tiaris_interior.gif);}
+	div#navi ul#inlinemenu li#menu_trs_clean a{height:35px;background-image:url(/common/image/2nd/wash/btn_subnavi_tiaris_clean.gif);}
+
+div#navi ul#submenu2 li#wash_price a{height:33px; background-image:url(/common/image/2nd/wash/btn_navi_wash_price.gif);}
+div#navi ul#submenu2 li#wash_faq a{height:32px; background-image:url(/common/image/2nd/wash/btn_navi_wash_faq.gif);}
+
+
+
+/*-------------------------------------
+
+	2011.07.07　レスリング（上部メニュ―）
+
+---------------------------------------*/
+div#navi li#wrestling a{background-image:url(/common/image/2nd/wrestling/btn_navi_top.gif);}
+	div#navi li#wrestling_activity a{background-image:url(/common/image/2nd/wrestling/btn_subnavi_activity.gif);}
+	div#navi li#wrestling_kids a{background-image:url(/common/image/2nd/wrestling/btn_subnavi_kids.gif); height:34px;}
+
+
+
+/*======================================================
+
+	サブナビhover時動作：
+	これより下にサブナビの設定を記載しないこと！
+
+========================================================*/
+div#navi ul#submenu li a:link,
+div#navi ul.submenu li a:link,
+div#navi ul#submenu2 a:link{background-position:0 0;}
+div#navi ul#submenu li a:hover,
+div#navi ul.submenu li a:hover,
+div#navi ul#submenu2 a:hover{background-position:100% 0;}
+
+
+
+

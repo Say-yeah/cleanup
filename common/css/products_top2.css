@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.product{position:relative; padding-left:322px; height:229px; margin:0 0 40px; line-height:0; zoom:1;}
+	.product_mttl{margin:0 0 8px; padding:0 0 1px; border-bottom:#c6c6c6 1px solid;}
+	#wrapper #main #content .product_txt{float:left; height:22px; overflow:hidden; line-height:0.1; margin:0; padding:0;}
+	
+	.product_links_more{ float:left; height:22px; overflow:hidden; margin:0; padding:0;}
+		.product_link_more{line-height:0.1;}
+		.product_btn_more{display:block; width:79px; height:22px; white-space:nowrap; text-indent:-100%; overflow:hidden; line-height:0.1; background:url(../image2/2nd/products/btn_more.gif) no-repeat;}
+		.product_btn_more:hover{background-position:0 100%;}
+		
+	.product_links_lineup{overflow:hidden;padding-top:57px; margin:0 -10px 0 -8px; zoom:1; clear:both;}
+	.product_links_lineup:after{display:block; clear:both; content:' '; height:1px; overflow:hidden; margin-bottom:-1px;}
+		.product_link_lineup{float:left; margin:0 7px 0 0; padding:0; width:124px; overflow:hidden;}
+
+	.product_img{position:absolute; top:0; left:0;}
+	
+	
+	
+	

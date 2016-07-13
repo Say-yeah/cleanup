@@ -1,0 +1,96 @@
+@charset "shift_jis";
+
+/* -------------------------
+     タグの再定義
+------------------------- */
+* {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+}
+
+body {
+	color: #333333;
+	text-align: center;
+	background-color: #FFFFFF;
+	margin: 0px;/*追加*/
+	padding: 0px;/*追加*/
+}
+
+div {
+	margin: 0px auto;/*NNで中央寄せで表示したい場合必要*/ 
+}
+
+div#header,div#footer,div#navi{margin:0;padding:0;}
+
+img {
+	border: none;
+}
+
+p#pankuzu{text-align:right;}
+
+
+/* 見出し */
+h1#header{margin:6px 0 11px 0;float:left;}
+h2.newH2{margin:6px 0 11px 0;}
+
+/* フォーム */
+input#searchtxt{border:1px solid #333333;}
+
+/* リスト */
+/*
+div#header ul,div#header li,
+div#footer ul,div#footer li,
+div#navi ul,div#navi li{margin:0;padding:0;}
+*/
+/*
+th,td {	vertical-align: top;}
+*/
+li{list-style-type: none;}
+
+/* リンク装飾 */
+a:link,a:visited  {
+	color: #336699;
+	text-decoration: none;
+}
+a:hover,
+a:active {
+	color: #336699;
+	text-decoration: underline;
+}
+
+
+/* -------------------------
+   大枠レイアウトテーブル
+------------------------- */
+table#layout{text-align:center;margin:0 auto;}
+
+
+/* -------------------------
+   ショールーム印刷ボタン
+------------------------- */
+tr#print td a{
+	display:block;
+	width:560px;
+	height:35px;
+	text-indent:-9999px;
+	background:url(../../showroom/info/images/print_btn.gif) no-repeat;
+}
+tr#print td a:hover{
+	background-position:0 100%;
+}
+
+
+
+
+/* -------------------------
+   特殊設定
+------------------------- */
+.clear{clear:both;}
+.attention{color:#CC0000; text-decoration:underline;}
+.bld{font-weight:bold;}
+.rght{text-align:right !important;}
+.lft{text-align:left !important;}
+.cntr{text-align:center !important;}
+.floatL{float:left !important;}
+.floatR{float:right !important;}

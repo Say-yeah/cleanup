@@ -1,0 +1,53 @@
+@charset "shift_jis";
+
+/* -------------------------
+     ƒgƒbƒv
+------------------------- */
+
+body#top{margin:0; padding:0;}
+div#top_layout{width:760px; margin:0 auto; text-align:left;}
+
+div#header{margin-bottom:0;}
+
+div#slideshow{margin:5px 0 10px; height:300px; overflow:hidden;}
+
+div#top_left{float:left; width:470px; font-size: 80%; line-height:140%; }
+div#top_left div{position:relative; margin-bottom:30px; padding-bottom:10px; background:url(../image/top2/border_dott.gif) bottom left repeat-x;}
+div#top_left h2{line-height:0.1;}
+div#top_left p.ichiran{width:87px; height:20px; line-height:0.1; overflow:hidden; text-indent:-9999px; position:absolute; top:8px; right:10px;}
+div#top_left p.ichiran a{display:block; height:20px; background:url(../image/top2/btn_ichiran.gif) no-repeat;}
+div#top_left p.ichiran a:hover{background-position:0 100%;}
+div#top_left p.items{padding:10px 0 0 10px; margin-top:10px; background:url(../image/top2/border_dott.gif) top left repeat-x; zoom:1;}
+div#top_left p.items:after{display:block; clear:both; content:' '; height:1px; overflow:hidden;}
+div#top_left a{color:#333;}
+	div#top_topics span.header{color:#F00; font-weight:bold;}
+	
+
+div#top_right{float:right; width:270px; font-size: 80%; line-height:140%; }
+div#top_right div.block{margin-bottom:20px; padding-bottom:1px; background:url(../image/top2/border_dott.gif) bottom left repeat-x;}
+div#top_right h2{margin-bottom:10px; line-height:0.1;}
+div#top_right p.items{padding:10px 0; background:url(../image/top2/border_dott.gif) top left repeat-x; zoom:1;}
+div#top_right p.items:after{display:block; clear:both; content:' '; height:1px; overflow:hidden;}
+div#top_right img.banner{float:left; margin:0 5px 0 0;}
+	div#pickup p{text-align:center;}
+	div#reform a, div#customer a, div#activity a{color:#F00;}
+	div#activity{padding:0 0 0 10px;}
+	div#activity h2{margin-left:-10px;}
+	div#activity p img{margin:0 10px 0 0; vertical-align:middle;}
+	div#activity p#smile_idea{padding:3px 0 15px;}
+	div#activity p#smile_idea img.smile{margin:0 0 3px;}
+	div#activity p#wrestling, div#activity p#edo{width:130px; float:left; padding:0 0 18px;}
+	div#activity p#jarney{padding:0 0 18px;}
+div#dreamia,div#clio,#bentoh{text-align:center;padding:5px 0 10px;}
+  
+div#top_reform{ padding:0; margin:5px 0 10px; height:240px; overflow:hidden; background:url(../image/top2/border_dott.gif) bottom left repeat-x;}
+div#top_reform .reformblock{ margin:0; }
+div#top_reform p.L{ float:left;}
+div#top_reform p.R{ float:right;}
+div#top_reform p.items{ margin:0; padding:0; background:none; }
+div#top_reform p.items:after{display:block; clear:both; content:' '; height:1px; overflow:hidden;}
+
+div#footer{clear:both;}
+
+
+div#dreamia,div#gas{text-align:center;padding:5px 0 10px; margin-top:20px;}

@@ -1,0 +1,60 @@
+@charset "shift_jis";
+
+/* -------------------------
+     タグの再定義
+------------------------- */
+* {
+	margin: 0px;
+	padding: 0px;
+	border-width: 0px;
+}
+body {
+	color: #333333;
+	text-align: center;
+	background-color: #FFFFFF;
+	margin: 0px;/*追加*/
+	padding: 0px;/*追加*/
+}
+div {
+	margin: 0px auto;/*NNで中央寄せで表示したい場合必要*/ 
+}
+img {
+	border: none;
+}
+th,td {	vertical-align: top;}
+li{list-style-type: none;}
+
+/* リンク装飾 */
+a:link,a:visited  {
+	color: #336699;
+	text-decoration: none;
+}
+a:hover,
+a:active {
+	color: #336699;
+	text-decoration: underline;
+}
+
+/* 見出し */
+h1{margin:6px 0 11px 0; float:left;}
+h2{margin:6px 0 11px 0;}
+
+/* フォーム */
+input{border:1px solid #333333;}
+
+/* -------------------------
+   大枠レイアウトテーブル
+------------------------- */
+table#layout{text-align:center; margin:0 auto;}
+
+/* -------------------------
+   特殊設定
+------------------------- */
+.clear{clear:both;}
+.attention{color:#CC0000; text-decoration:underline;}
+.bld{font-weight:bold;}
+.rght{text-align:right !important;}
+.lft{text-align:left !important;}
+.cntr{text-align:center !important;}
+.floatL{float:left !important;}
+.floatR{float:right !important;}

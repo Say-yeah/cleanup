@@ -1,0 +1,13 @@
+@charset "shift_jis";
+
+/* --------------------------------------------------------------
+#side
+-------------------------------------------------------------- */
+
+#wrapper #main #side {
+float: left!important;
+}
+
+#wrapper #main #content {
+float: right!important;
+}

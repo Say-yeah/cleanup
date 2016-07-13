@@ -1,0 +1,21 @@
+@charset "shift_jis";
+
+p#pankuzu{text-align:right;}
+
+
+div#contents{width:580px;background-color:#ffffff;text-align:left;}
+div#contents:after{content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+
+
+div#contents2{width:570px;background-color:#ffffff;text-align:right;margin-left:10px;}
+div#contents2:after{content: "."; display: block; height: 0; clear: both; visibility: hidden;}
+
+
+div#contentsTop{width:760px;background-color:#ffffff;text-align:left;}
+div#contentsTop:after{content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+
+
+
+p.pagetop{text-align:right;margin-top:3em;}
+
+

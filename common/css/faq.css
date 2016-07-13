@@ -1,0 +1,307 @@
+@charset "shift_jis";
+
+body {color:#333333;}
+h2{
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+h3 img{
+	margin-bottom: 20px;
+}
+A:link, A:visited {
+	color:#336699;
+	text-decoration:none;
+}
+
+A:hover, A:active {
+	text-decoration:underline;
+}
+
+div.section{
+	margin:0 0 25px 10px;
+	clear:both;
+	position:relative;
+}
+div.section .left{
+	float: left;
+}
+div.section .right{
+	float: left;
+	width: 417px;
+	margin-left: 10px;
+}
+div.section p{
+	margin-top: 8px;
+}
+
+div.right table{
+	margin-top: 7px;
+	margin-bottom: 17px;
+}
+ul.txt{
+	padding: 0px;
+	margin: 0px;
+}
+ul.txt li{
+	background-image: url(../../customer/faq/images/icon_dish.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 8px;
+	margin-left: 4px;
+}
+
+/*アフターサービスリンク*/
+div.after{text-align: right;}
+div.after a:link, div.after a:visited{color:#666666;}
+
+
+div.faq{
+	border: 15px solid #eeeeee;
+	margin: 0px;
+	padding: 12px;
+}
+div.faq p{margin-bottom: 15px;}
+
+/*FAQリスト*/
+
+div.faq ul li{
+	clear: both;
+}
+div.q1,
+div.q2,
+div.q3,
+div.q4,
+div.q5,
+div.q6,
+div.q7,
+div.q8,
+
+div.q1b,
+div.q2b,
+div.q3b,
+div.q4b,
+div.q5b,
+div.q7b,
+div.q8b,
+div.q9b,
+
+div.q1w,
+div.q2w,
+div.q3w,
+div.q4w,
+div.q5w
+{
+	background-repeat: no-repeat;
+	background-position: top;
+	padding-top: 20px;
+}
+
+div.q6b2
+{
+	padding-top: 5px;
+}
+
+
+
+
+div.faq ul li div.ql{
+	padding-top: 20px;
+}
+
+div.faq ul li div div.q_r{
+	float: left;
+	width: 456px;
+	clear: none;
+	margin-bottom: 5px;
+}
+div.faq ul li div div.q_l{
+	float: left;
+	margin: 0px;
+}
+div.faq ul li div.q1 div.q_r,
+div.faq ul li div.q2 div.q_r,
+div.faq ul li div.q3 div.q_r,
+div.faq ul li div.q4 div.q_r,
+div.faq ul li div.q5 div.q_r,
+div.faq ul li div.q6 div.q_r,
+div.faq ul li div.q7 div.q_r,
+div.faq ul li div.q8 div.q_r,
+
+div.faq ul li div.q1b div.q_r,
+div.faq ul li div.q2b div.q_r,
+div.faq ul li div.q3b div.q_r,
+div.faq ul li div.q4b div.q_r,
+div.faq ul li div.q5b div.q_r,
+div.faq ul li div.q6b2 div.q_r,
+div.faq ul li div.q7b div.q_r,
+div.faq ul li div.q8b div.q_r,
+div.faq ul li div.q9b div.q_r,
+
+
+div.faq ul li div.q1w div.q_r,
+div.faq ul li div.q2w div.q_r,
+div.faq ul li div.q3w div.q_r,
+div.faq ul li div.q4w div.q_r,
+div.faq ul li div.q5w div.q_r{
+	margin-bottom: 20px;
+}
+
+div.faq ul li div.q5b div.q_r{
+	margin-bottom: 5px;
+}
+
+
+div.q1{background-image: url(../../customer/faq/images/line_gas.gif);}
+div.q2{background-image: url(../../customer/faq/images/line_ih.gif);}
+div.q3{background-image: url(../../customer/faq/images/line_wash.gif);}
+div.q4{background-image: url(../../customer/faq/images/line_range.gif);}
+div.q5{background-image: url(../../customer/faq/images/line_suisen.gif);}
+div.q6{background-image: url(../../customer/faq/images/line_rei.gif);}
+div.q7{background-image: url(../../customer/faq/images/line_dry.gif);}
+div.q8{background-image: url(../../customer/faq/images/line_kura.gif);}
+
+
+div.q1b{background-image: url(../../customer/faq/images/line_yokusou.gif);}
+div.q2b{background-image: url(../../customer/faq/images/line_yuka.gif);}
+div.q3b{background-image: url(../../customer/faq/images/line_haisui.gif);}
+div.q4b{background-image: url(../../customer/faq/images/line_kagami.gif);}
+div.q5b{background-image: url(../../customer/faq/images/line_doa.gif);}
+div.q7b{background-image: url(../../customer/faq/images/line_jet.gif);}
+div.q8b{background-image: url(../../customer/faq/images/line_cort.gif);}
+div.q9b{background-image: url(../../customer/faq/images/line_other.gif);}
+
+
+div.q1w{background-image: url(../../customer/faq/images/line_bol.gif);}
+div.q2w{background-image: url(../../customer/faq/images/line_haisui2.gif);}
+div.q3w{background-image: url(../../customer/faq/images/line_cab.gif);}
+div.q4w{background-image: url(../../customer/faq/images/line_tobira.gif);}
+div.q5w{background-image: url(../../customer/faq/images/line_other.gif);}
+
+div.ql{
+	background-image: url(../../customer/faq/images/line.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+dl.yogore dt{
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+dl.yogore dd{margin-bottom: 20px;}
+ul.stainless{
+	margin: 0px;
+	padding: 0px;
+}
+ul.stainless li{
+	list-style-type: disc;
+	margin-left: 2em;
+}
+
+
+/*検証済証・機器品名の位置*/
+.name_img{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.name_img_space{
+	margin-right: 15px;
+}
+
+/*各商品部位のご紹介*/
+table.bui_ttl{margin-bottom: 25px;}
+img.bui_ttl{margin-bottom: 25px;}
+img.bui_img{margin-bottom: 45px;}
+span.bui_gray{color: #666666;}
+
+/*Aページ*/
+div#contentsa{
+	width:570;
+	background-color:#ffffff;
+	text-align:left;
+	margin-left: 20px;
+}
+div#contentsa:after{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+
+div#contentsa a:{text-decoration:underline;}
+div#contentsa a:visited,
+div#contentsa a:link{text-decoration:underline;}
+div#contentsa a:active,
+div#contentsa a:hover{text-decoration:underline;}
+
+div#contentsa670 a:{text-decoration:underline;}
+div#contentsa670 a:visited,
+div#contentsa670 a:link{text-decoration:underline;}
+div#contentsa670 a:active,
+div#contentsa670 a:hover{text-decoration:underline;}
+
+
+div.section2{
+	width:560px;
+	margin-left: 20px;
+	margin-top: 45px;
+}
+div.answer_waku{
+	border: 1px solid #F4F3EE;
+	padding: 10px;
+}
+h2.answer_ttl{
+	margin-left: 20px;
+}
+
+.answer_top_space15{margin-top: 15px;}
+.answer_left_space30{margin-left: 30px;}
+
+
+div.close{text-align: center;margin-top:20px;margin-bottom:20px;}
+div.close a:{text-decoration:underline;}
+div.close a:visited,
+div.close a:link{text-decoration:underline;}
+div.close a:active,
+div.close a:hover{text-decoration:underline;}
+
+div.retop{text-align: right;}
+div.retop a:{text-decoration:underline;}
+div.retop a:visited,
+div.retop a:link{text-decoration:underline;}
+div.retop a:active,
+div.retop a:hover{text-decoration:underline;}
+
+div.cab a:{text-decoration:underline;}
+div.cab a:visited,
+div.cab a:link{text-decoration:underline;}
+div.cab a:active,
+div.cab a:hover{text-decoration:underline;}
+
+
+
+/*Aページ670幅*/
+div#contentsa670{
+	width:630;
+	background-color:#ffffff;
+	text-align:left;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+div#contentsa670:after{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+div.answer_waku670{
+	padding: 10px;
+}
+div.section2_670{
+	width:620px;
+	margin-left: 30px;
+	margin-top: 45px;
+  
+}

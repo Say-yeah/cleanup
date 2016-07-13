@@ -1,0 +1,685 @@
+@charset "shift_jis";
+
+/* -------------------------
+     　ラクエラ
+------------------------- */
+
+
+/* 共通設定
+------------------------------*/
+div#contents{font-size:80%; line-height:150%;}/* = /common/css/font-size.css >.j12 */
+div#contents_inn{border:solid 1px #ccc; text-align:center; zoom:1; }
+
+div.section,
+.clearfix{zoom:1; text-align:left;}
+
+div#contents_inn:after,
+div.section:after,
+.clearfix:after{display:block; clear:both; content:' '; height:0; overflow:hidden;}
+
+
+/* 税込み表示 */
+.taxinfo {font-size:10px; float:right; border:1px solid #999; margin:30px 0 0 0; padding:3px; line-height:110%;}
+
+/* こんなところも魅力 */
+.miryoku{background:#f2eef0; text-align:left; font-size:90%; line-height:135%;}
+.miryoku .miryoku_ttl{background:#fff;}
+
+/* eコート */
+.e_coat{clear:both; background:#ede7eb; padding:18px 20px 25px 15px;}
+.e_coat h5{margin:0 0 15px;}
+.e_coat .img{float:left; width:189px;}
+.e_coat .txt{float:right; width:420px;}
+#wrapper #main #content .e_coat .img_e_coat{float:left; margin:0 5px 3px 0;}
+#wrapper #main #content .e_coat .note{clear:both; margin:0;}
+
+/* カタログボタン */
+#catalogue_link,
+#catalogue_link02{margin:50px 0; text-align:right;}
+#bt_catalogue,
+#bt_catalogue02{display:block; width:251px; height:24px; background:url(../../../kitchen/rakuera/images/btn_catalogue.gif) no-repeat; margin:3px 0 0 447px; overflow:hidden; text-align:left; text-indent:-9999px;}
+#bt_catalogue:hover,
+#bt_catalogue02:hover{background-position:0 100%;}
+
+.font_s{font-size:90%;}
+.ico{vertical-align:middle;}
+.ref{font-size:80%; font-weight:bold; vertical-align:top; padding:0 3px;}
+
+
+
+/* トップページ
+------------------------------*/
+#top_pagettl{background:url(../../../kitchen/rakuera/images/top/pagettl_bg.gif) 436px 2px no-repeat; padding:78px 0 0; margin:0 0 19px;}
+#top_lead{padding:0; margin:0 0 60px;}
+
+/* スタイリング、空間プラン */
+.top_first{position:relative; width:659px; margin:0 auto; text-align:left;}
+	#wrapper #main #content p.lead{margin:0 0 8px;}
+	.top_first h3{position:absolute; bottom:0; right:0;}
+#top_styling{padding-bottom:65px; margin-bottom:50px;}
+	#top_styling #kuroda_san{position:absolute; bottom:0; left:0;}
+#top_plan{padding-bottom:34px; margin-bottom:75px;}
+
+/* design, clean, smart */
+.contents_top .ttl{text-align:right; position:relative; z-index:10;}
+.contents_top .section{text-align:left; position:relative;}
+	.contents_top .section h3,
+	.contents_top .section p{position:absolute;}
+	.contents_top .section .btn_link{position:absolute; display:block; width:204px; height:24px; text-indent:-9999px;  overflow:hidden;}
+
+#wrapper #main #content #top_design_ttl{margin:0 0 44px; padding:0;}
+#top_color{height:245px; margin:0 0 23px;}
+	#top_color h3{top:53px; left:405px;}
+	#top_color .img{top:0; left:61px;}
+	#top_color .txt{top:99px; left:405px;}
+	#top_color .btn_link{top:167px; left:405px; background:url(../../../kitchen/rakuera/images/top/color_btn.gif) no-repeat;}
+	#top_color .btn_link:hover{background-position:0 100%;}
+
+#top_wt{height:434px; margin:0 0 77px;}
+	#top_wt h3{top:230px; left:220px; z-index:10;}
+	#top_wt .img{top:0; left:0; z-index:0;}
+	#top_wt .txt{top:283px; left:220px; z-index:10;}
+	#top_wt .btn_link{top:351px; left:220px; z-index:10; background:url(../../../kitchen/rakuera/images/top/wt_btn.gif) no-repeat;}
+	#top_wt .btn_link:hover{background-position:0 100%;}
+
+#wrapper #main #content #top_clean_ttl{margin:0;}
+#top_clean{height:285px; margin:-31px 0 86px;}
+	#top_clean h3{top:53px; left:396px;}
+	#top_clean .img{top:0; left:0;}
+	#top_clean .txt{top:152px; left:422px;}
+	#top_clean .btn_link{top:196px; left:422px; background:url(../../../kitchen/rakuera/images/top/clean_btn.gif) no-repeat;}
+	#top_clean .btn_link:hover{background-position:0 100%;}
+
+#wrapper #main #content #top_ssmart_ttl{margin:0;}
+#top_storage{height:435px; margin:-82px 0 0;}
+	#top_storage h3{top:97px; left:386px;}
+	#top_storage .img{top:0; left:0; z-index:0;}
+	#top_storage .txt{top:151px; left:386px;}
+	#top_storage .btn_link{top:199px; left:386px; background:url(../../../kitchen/rakuera/images/top/storage_btn.gif) no-repeat;}
+	#top_storage .btn_link:hover{background-position:0 100%;}
+	
+
+
+
+/* スタイリング
+------------------------------*/
+#style_contents_inn{text-align:left; padding-top:15px;}
+
+#wrapper #main #content #style_pagettl{margin:0 0 42px;}
+
+#intro_kurodasan{margin:0 20px -20px; width:660px}
+	#intro_kurodasan h3{float:left; width:237px; margin:0 8px 0 0;}
+	#intro_kurodasan p.txt{float:left; width:415px; font-size:90%; line-height:140%;}
+	
+#style_lead{margin:40px 0 -20px; overflow:hidden;}
+	#style_lead h3{margin:0 0 14px;}
+	#wrapper #main #content #style_lead_txt{margin:0; float:left; width:340px;}
+	#wrapper #main #content #style_lead_img{margin:0; float:right;}
+
+
+/* スタイリングプロセス 詳細　*/
+.proccess_dtl{margin:50px 0 -20px;}
+	#wrapper #main #content .proccess_dtl h3{margin:0 0 18px; height:26px; overflow:hidden; background:url(../../../kitchen/rakuera/images/style/dott_bg.gif) 0 0 repeat-x;}
+	.proccess_dtl .proccess_left{width:315px; float:left;}
+	.proccess_dtl .proccess_right{width:315px; float:right;}
+	.proccess_dtl h4{text-align:center; margin:0 0 14px;}
+	.proccess_dtl .sttl_s{text-align:center; padding:6px 0 0; margin:0 0 12px;}
+	.proccess_dtl .img{text-align:center; margin:0 0 11px;}
+	.dott{background:url(../../../kitchen/rakuera/images/style/var_line_dott.gif) 50% 0 repeat-y;}
+	.solid{background:url(../../../kitchen/rakuera/images/style/var_line_solid.gif) 50% 0 repeat-y;}
+
+#proccess01{}
+	#wrapper #main #content #proccess01 h4{margin:0 0 18px;}
+	#proccess01 .img01{text-align:center;}
+	#proccess01 h5{font-size:100%; font-weight:bold; color:#581740; margin:0 0 0.3em;}
+	#proccess01 .txt02{min-height:87px; height:auto!important; height:87px; background:url(../../../kitchen/rakuera/images/style/proccess01_img02.gif) 100% 50% no-repeat; padding-right:50px;}
+	#proccess01 .txt03{min-height:74px; height:auto!important; height:74px; background:url(../../../kitchen/rakuera/images/style/proccess01_img03.gif) 100% 50% no-repeat; padding-right:50px;}
+	
+#proccess03{margin:50px 0;}
+	
+
+/* スタイリング実例 */
+.styling{margin:30px 0; text-align:left; border-top:solid 1px #dacad4; background:url(../../../kitchen/rakuera/images/style/styling_bg.gif) repeat-y;}
+	.styling_end{clear:both; width:100%; height:22px; background:url(../../../kitchen/rakuera/images/style/styling_bg_end.gif) 0 100% no-repeat;}
+	.styling_left{width:335px; float:left;}
+	.styling_right{width:325px; float:right;}
+
+	.styling .sttl{margin:0 0 19px 21px;}
+	
+	.styling h3{margin:0 0 15px 26px;}
+	.styling .txt01{margin:0 0 12px 26px; line-height:140%;}
+	.styling .img01{margin:0 0 10px 26px;}
+	
+	.styling .info h4{margin:0 0 8px 26px;}
+	.styling .info p{margin:0 0 0 26px; font-size:85%; line-height:130%;}
+	
+	.styling .color{padding-top:11px; margin:0 15px 27px 0; background:url(../../../kitchen/rakuera/images/style/border_styling_color.gif) repeat-x;}
+	.styling .color h4{display:none;}
+		.styling .tip_main{margin:0 0 5px;}
+		.styling .txt03{margin:0 0 5px;}
+		.styling .tips_other{height:28px; margin:0 0 11px;}
+		.styling .tips_other li{float:left;}
+		.styling .link_btn{display:block; width:143px; height:18px; overflow:hidden; background:url(../../../kitchen/rakuera/images/style/styling_btn_color.gif) no-repeat; text-indent:-9999px;}
+		.styling .link_btn:hover{background-position:0 100%;}
+		
+	.styling .essence{margin:0 15px 0 0; font-size:90%; line-height:130%;}
+		#wrapper #main #content .styling .essence h4{margin:0 0 8px; padding:0 0 6px;  background:url(../../../kitchen/rakuera/images/style/border_styling_color.gif) 0 100% repeat-x;}
+		#wrapper #main #content .styling .essence .essence_dtl{padding:0 50px 0 0; margin:0 0 15px;}
+		.styling #essence01{background:url(../../../kitchen/rakuera/images/style/styling_essence01.gif) 95% 50% no-repeat;}
+		.styling #essence02{background:url(../../../kitchen/rakuera/images/style/styling_essence02.gif) 95% 50% no-repeat;}
+		.styling #essence03{background:url(../../../kitchen/rakuera/images/style/styling_essence03.gif) 95% 50% no-repeat;}
+		.styling #essence04{background:url(../../../kitchen/rakuera/images/style/styling_essence04.gif) 97% 50% no-repeat;}
+		.styling #essence05{background:url(../../../kitchen/rakuera/images/style/styling_essence05.gif) 94% 50% no-repeat;}
+		.styling #essence06{background:url(../../../kitchen/rakuera/images/style/styling_essence06.gif) 93% 50% no-repeat;}
+			#wrapper #main #content .styling .essence h5{font-size:100%; margin:0 0 8px; line-height:120%;}
+			#wrapper #main #content .styling .essence h5 .tonic{display:block; font-weight:bold; color:#581740; margin:0 0 5px;}
+			#wrapper #main #content .styling .essence h5 br{display:none;}
+			.styling .essence p{}
+		
+
+
+/* 空間プラン
+------------------------------*/
+#wrapper #main #content #plan_pagettl{margin:0; padding:17px 0 60px; text-align:left; line-height:1;}
+#wrapper #main #content .plan_section{width:659px; margin:0 auto 70px; position:relative;}
+#wrapper #main #content .plan_section h3,
+#wrapper #main #content .plan_section .txt,
+#wrapper #main #content .plan_section .main_img{margin:0;}
+#wrapper #main #content .plan_section .zoom_txt{float:right; margin:0;}
+#wrapper #main #content .plan_section .sub_img{clear:both; float:left; margin:0;}
+#wrapper #main #content .plan_section .plan_price{float:right; width:274px; margin:16px 0 0;}
+.plan_price caption{margin:0;}
+.plan_price th{font-weight:normal; padding:8px 7px 6px; text-align:left; font-size:80%; line-height:120%;}
+.plan_price td{padding:8px 7px 6px; text-align:right; font-size:80%; line-height:120%;}
+.plan_price .row01{border-bottom:dotted 1px #ccc;}
+.plan_price .row02{border-bottom:solid 1px #ccc;}
+
+/* cloud zoom style 
+-----------------------*/
+.cloud-zoom{display:block; position:relative; zoom:1;}
+.cloud-zoom img{mdisplay:block;}
+.cloud-zoom-lens {
+	border: 4px solid #888;
+	margin:-4px;	 Set this to minus the border thickness. 
+	background-color:#fff;	
+	cursor:crosshair;		
+}
+.cloud-zoom-big {
+	border:4px solid #ccc;
+	margin:4px 0 0 4px;
+	overflow:hidden;
+}
+.cloud-zoom-loading {
+	color:white;	
+	background:#222;
+	padding:3px;
+	border:1px solid #000;
+}
+
+/* anythig-xoom style
+-----------------------*/
+/* ZOOM CONTAINER */
+.zoom{ display: block; margin: 0 auto; cursor:crosshair;}
+.large{ background: white; }
+
+.az-wrap, .az-small, .az-large {
+	position: relative;
+}
+.az-wrap-inner {
+	display: block;
+	margin: 0 auto;
+}
+/* This wraps the large image and hides it */
+.az-zoom {
+	background: #fff;
+	border:4px solid #ccc;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin:-50px 0 0 -50px;
+	width: 180px;
+	height: 180px;
+	overflow: hidden;
+	z-index: 100;
+	display: none;
+}
+/* Class applied to az-mover when large image is windowed */
+.az-windowed {
+	overflow: hidden;
+	position: absolute;
+}
+
+
+
+/* 扉カラー
+------------------------------*/
+#wrapper #main #content #color_pagettl{margin:0;}
+
+/* 導入部分 */
+.color_feature{position:relative; text-align:left;}
+	.color_feature h3,
+	.color_feature p{position:absolute;}
+#color01{height:257px; width:100%; z-index:100;}
+	#color01 h3{top:0; left:302px;}
+	#color01 p.txt{top:85px; left:344px; z-index:100;}
+	#color01 p.img{top:0; left:0;}
+#color02{height:538px; margin-top:-64px; z-index:10;}
+	#color02 h3{top:132px; left:135px;}
+	#color02 p.txt{top:216px; left:190px; z-index:10;}
+	#color02 p.img{top:0; right:0; z-index:0;}
+	
+#handle_outer{width:516px; position:relative; margin:-100px 0 0 15px; text-align:left; z-index:100;}
+	#handle_outer h3{position:absolute; top:25px; left:310px;}
+	#handle_outer p.txt{position:absolute; top:108px; left:353px;}
+	
+	.handle{float:left; width:258px;}
+	.handle h4{float:right; width:155px; margin-bottom:3px;}
+	.handle ul{float:right; width:155px; font-size:90%; line-height:120%; letter-spacing:normal;}
+	.handle li{margin:0 0 0 3px;}
+	.totte_tip{float:left; margin:-19px 0 0;}
+	.handle .clear{height:5px; overflow:hidden;}
+	
+/* カラー一覧 */
+#clr_variation{margin:75px 15px -47px; text-align:left;}
+	#wrapper #main #content #clr_variation .txt01{margin:22px 0;}
+	#clr_variation .series_ttl{margin-bottom:26px;}
+	#wrapper #main #content #clr_variation .txt02{margin:14px 0 14px 15px; width:645px;}
+	#clr_variation .txt02 .ttl{font-weight:bold; color:#581740;}
+	.clr_tip{padding:0 0 20px 15px; margin-right:-26px; zp}
+	.clr_tip li{float:left; width:136px; margin:0 26px 27px 0; font-size:90%; letter-spacing:normal; line-height:1.3em;}
+
+
+/* ワークトップ、シンク
+------------------------------*/
+#wrapper #main #content #wt_pagettl{margin:0; text-align:left;}
+#wrapper #main #content #wt_lead{margin:0; padding:40px 0 20px 93px; text-align:left;}
+
+/* 導入部分 */
+.wt_feature{position:relative;}
+	.wt_feature h3,
+	.wt_feature p{position:absolute;}
+#wt01{height:337px;}
+	#wt01 h3{top:10px; left:270px;}
+	#wt01 .txt{width:266px; top:92px; left:327px;}
+	#wt01 .txt img{vertical-align:top;}
+	#wt01 .img{top:0; left:0;}
+#wt02{height:374px; margin:-114px 0 35px;}
+	#wt02 h3{top:93px; left:129px;}
+	#wt02 .txt{top:200px; left:209px; z-index:2;}
+	#wt02 .img{top:0; right:0; z-index:1;}
+	
+.wt_type{margin:0 0 15px;}
+.wt_type img{vertical-align:top;}
+
+/* ステンレスワークトップ */
+#wt_stn{margin-top:70px;}
+	#wrapper #main #content #wt_stn h3{margin:0 0 19px;}
+	#wrapper #main #content .wt_lead{text-align:right; margin:-40px 0 0 0; padding:0 18px 0 0;}
+	#wt_stn .inner{margin:0 18px;}
+		#wrapper #main #content .wt_img{margin:15px 0 10px;}
+		#wrapper #main #content .wt_zoom{float:right; margin-left:5px;}
+		#wrapper #main #content .wt_tip{float:left; width:124px; margin:0 10px 10px 0; font-size:91%; line-height:1.3em; letter-spacing:normal;}
+		.wt_tip img{margin-bottom:3px;}
+		.wt_txt{letter-spacing:normal;}
+		#wt_stn .info_txt{padding-left:150px; text-indent:-16px;}
+	
+/* アクリストンワークトップ */
+#wt_acry{margin-top:40px;}
+	#wrapper #main #content #wt_acry h3{margin:0 0 19px 18px;}
+	#wrapper #main #content .wt_lead{text-align:right; margin:-40px 0 0 0; padding:0 18px 0 0;}
+	#wt_acry .inner{margin:0 18px;}
+		#wrapper #main #content .wt_img{margin:15px 0 10px;}
+		#wrapper #main #content .wt_zoom{float:right; margin-left:5px;}
+		#wrapper #main #content .wt_tip{float:left; width:124px; margin:0 10px 10px 0; font-size:91%; line-height:1.3em; letter-spacing:normal;}
+		.wt_tip img{margin-bottom:3px;}
+		.wt_txt{letter-spacing:normal;}
+		#wt_acry .info_txt{clear:left; margin:0 0 5px;}
+		#wt_acry .note{font-size:89%; padding-left:1em; text-indent:-1em;}
+	
+	#wt_acry .miryoku{padding:0 30px 20px; margin:20px 18px 0;}
+	#wrapper #main #content #wt_acry .miryoku .miryoku_ttl{margin:0 -30px 15px;}
+	#wrapper #main #content #wt_acry .miryoku .lead{margin:20px 0 0;}
+	#wt_acry .miryoku .section{float:left; width:270px; margin:15px 0 0;}
+	#wt_acry .miryoku .section01,
+	#wt_acry .miryoku .section03{margin-right:55px;}
+		#wt_acry .miryoku h5{margin-bottom:7px;}
+		#wrapper #main #content #wt_acry .miryoku .txt01,
+		#wrapper #main #content #wt_acry .miryoku .txt02{float:right; width:126px; margin:0;}
+		#wt_acry .miryoku .img01,
+		#wt_acry .miryoku .img02{float:right; width:127px; margin-left:5px;}
+		#wrapper #main #content #wt_acry .miryoku .txt03,
+		#wrapper #main #content #wt_acry .miryoku .txt04{padding:0 0 7px 12px; margin:0;}
+		#wt_acry .miryoku .img03,
+		#wt_acry .miryoku .img04{text-align:center;}
+	
+	/* ステンレスシンク */
+	#sink_stn{margin-top:70px;}
+	#wrapper #main #content #sink_stn h3{margin:0 0 10px;}
+	#sink_stn .sink_stn_dtl{margin:20px 18px;}
+		#wrapper #main #content .sink_stn_dtl h4{float:right; width:370px; font-size:100%; margin:0 0 0.8em;}
+		.sink_stn_dtl .img{float:left; width:255px; line-height:140%;}
+		#wrapper #main #content .sink_stn_dtl dl{width:370px; float:right; letter-spacing:normal; line-height:140%; margin:0 0 0.8em;}
+		.sink_stn_dtl dt{font-weight:bold; float:left; clear:both; white-space:nowrap;}
+		#wrapper #main #content .sink_stn_dtl dd{margin:0 0 0.4em;}
+		#wrapper #main #content .sink_stn_dtl .txt{width:370px; float:right; margin:-10px 0 0; line-height:1.4em;}
+		
+	#sink_stn .miryoku{padding:0 30px 20px; margin-left:18px; margin-right:18px;}
+	#wrapper #main #content #sink_stn .miryoku .miryoku_ttl{margin:0 -30px 20px;}
+	#sink_stn .miryoku .section01{float:left; width:280px; margin:0 0 20px 0;}
+	#sink_stn .miryoku .section02{float:right; width:280px; margin:0 0 20px 0;}
+		#sink_stn .miryoku .section01 h5,
+		#sink_stn .miryoku .section02 h5{float:left; width:157px; margin-bottom:10px;}
+		#wrapper #main #content #sink_stn .miryoku .section01 .img,
+		#wrapper #main #content #sink_stn .miryoku .section02 .img{float:right; width:115px; margin:0;}
+		#wrapper #main #content #sink_stn .miryoku .section01 .txt,
+		#wrapper #main #content #sink_stn .miryoku .section02 .txt{float:left; width:157px; margin:0;}
+	#sink_stn .miryoku .section03{clear:both;}
+	#sink_stn .miryoku .section03 h5{margin-bottom:10px;}
+	#wrapper #main #content #sink_stn .miryoku .section03 .img{margin:0;}
+
+	
+	/* 美サイレントシンク */
+	#sink_bi {margin:40px 0;}
+		#wrapper #main #content #sink_bi h3{margin:0 0 10px 18px;}
+		#sink_bi .inner{margin:0 18px;}
+			#wrapper #main #content #sink_bi .img{float:left; width:151px; margin:20px 15px 0 0;}
+			#wrapper #main #content #sink_bi .txt{float:right; width:308px; margin:20px 0 0;}
+			#wrapper #main #content #sink_bi .txt p{margin-bottom:1em;}
+			#wrapper #main #content #sink_bi .txt .note{font-size:89%; padding-left:1em; text-indent:-1em; line-height:135%;}
+			#sink_bi .bi_link{display:block; width:176px; height:23px; overflow:hidden; background:url(../../../kitchen/rakuera/images/wt/btn_bi.gif) no-repeat; text-indent:-9999px;}
+			#sink_bi .bi_link:hover{background-position:0 100%;}
+
+	/* アクリストンシンク */
+	#sink_acry{}
+		#wrapper #main #content #sink_acry h3{margin:0 0 0 18px;}
+		#sink_acry .sink_acry_dtl{margin:0 18px;}
+		#sink_acry .sink_acry_dtl h4{float:right; width:370px; font-size:100%; margin:23px 0 0.8em;}
+		#wrapper #main #content .sink_acry_dtl .img{float:left; width:265px; margin:20px 0 10px; zoom:1;}
+		#wrapper #main #content .sink_acry_dtl dl{width:370px; float:right; letter-spacing:normal; line-height:140%; margin:0 0 0.8em;}
+		#wrapper #main #content .sink_acry_dtl dt{font-weight:bold; float:left; clear:both; white-space:nowrap;}
+		#wrapper #main #content .sink_acry_dtl dd{margin:0 0 0.4em;}
+		#wrapper #main #content .sink_acry_dtl .note{clear:both; margin:0 0 0 15px; padding-right:1em; text-indent:-1em; font-size:89%; line-height:135%;}
+		#sink_acry .tips{margin:20px -10px 20px 0; padding:0 0 0 18px;}
+		#sink_acry .tips li{float:left; width:103px; margin:10px 8px 10px 0; font-size:90%; line-height:135%;}
+		
+	#sink_acry .miryoku{padding:0 20px 18px;  margin-left:18px; margin-right:18px; zoom:1;}
+		#sink_acry .miryoku .miryoku_ttl{margin:0 -20px 15px;}
+		#sink_acry .miryoku .section{float:left; width:194px; position:relative; padding:0 0 120px;}
+		#sink_acry .miryoku .section01,
+		#sink_acry .miryoku .section02{margin-right:19px;}
+			#sink_acry .miryoku h5{text-align:center; margin-bottom:8px;}
+			#wrapper #main #content #sink_acry .miryoku h5{margin:0 0 8px; border-bottom:dotted 1px #666; padding-bottom:4px;}
+			#wrapper #main #content #sink_acry .miryoku .txt{margin:0;}
+			#wrapper #main #content #sink_acry .miryoku .img{position:absolute; bottom:0; left:19px; margin:0;}
+
+
+/* クリーンアイテム
+------------------------------*/
+#wrapper #main #content #clean_pagettl{margin:0 0 44px;}
+#wrapper #main #content #clean_lead{margin:0 0 33px 25px; text-align:left;}
+
+#clean_innr_link{margin:0 10px 90px 0;}
+	#clean_innr_link .img{width:314px; float:left;}
+	#clean_innr_link .innr_links{width:274px; float:right; padding-top:13px;}
+		#wrapper #main #content #clean_innr_link .innr_links h3{margin:0 0 12px;}
+		#wrapper #main #content #clean_innr_link .innr_links p{margin:0 0 10px;}
+		.clean_innrlink_btn{margin:0 0 40px 52px; display:block; widht:202px; height:19px; text-indent:-9999px; overflow:hidden;}
+		#btn_clean_item01{background:url(../../../kitchen/rakuera/images/clean/innrlink01_btn.gif) no-repeat;}
+
+		#btn_clean_item01:hover{background-position:0 100%;}
+		#btn_clean_item02{background:url(../../../kitchen/rakuera/images/clean/innrlink02_btn.gif) no-repeat;}
+		#btn_clean_item02:hover{background-position:0 100%;}
+		#btn_clean_item03{background:url(../../../kitchen/rakuera/images/clean/innrlink03_btn.gif) no-repeat;}
+		#btn_clean_item03:hover{background-position:0 100%;}
+
+/* クリーンアイテム詳細 */
+.clean_item{margin:0 0 60px; padding:0 20px; _padding:0 19px;}
+	.clean_item .block{clear:both; margin:0 0 35px;}
+	.item_header{border-bottom:solid 1px #9e9e9e;}
+
+	.fl_left295{width:295px; float:left;}
+	.fl_right295{width:295px; float:right;}
+	
+	.fl_left290{width:290px; float:left;}
+	.fl_right340{width:340px; float:right;}
+	
+	#cleanitem01 .item_header{margin:0 -20px 17px;}
+	#cleanitem01 h3{width:300px; float:left; text-align:center; padding:20px 0;}
+	#cleanitem01 .img01{width:330px; float:right;}
+	#cleanitem01 .lead{width:300px; float:left;}
+		#item01_01{}
+			#item01_01 h4{margin:0 0 20px; padding:24px 0 0;}
+			#item01_01 h5{margin:0 0 8px; padding:18px 0 0;}
+			#item01_01 .s_block{clear:both;}
+			
+			#wrapper #main #content #item01_01 .txt01{width:380px; margin:0 0 8px;}
+			#wrapper #main #content #item01_01 .img02{width:260px; float:right; margin:-40px 0 10px;}
+			#wrapper #main #content #item01_01 .txt02{width:380px; margin:0 0 8px;}
+			#item01_01 .note01{width:260px; font-size:89%; line-height:135%;}
+			
+			#item01_01 .txt03{width:380px; float:left;}
+			#item01_01 .img03{width:260px; float:right;}
+			
+			#wrapper #main #content #item01_01 .txt04{ margin:0 0 10px;}
+			#wrapper #main #content #item01_01 .img04{float:left; width:270px;}
+			#wrapper #main #content #item01_01 .img05{ float:right; width:351px; margin:0 0 15px;}
+			
+			#item01_01 .miryoku{float:right; width:351px;}
+			.miryoku .innr{margin:12px 10px;}
+			#wrapper #main #content #item01_01 .miryoku .txt05{width:210px; float:left; font-weight:bold; font-size:110%; color:#581740; margin:0 0 12px;}
+			#wrapper #main #content #item01_01 .miryoku .txt06{width:210px; margin:0;}
+			#wrapper #main #content #item01_01 .miryoku .img06{float:right; margin:0;}
+
+		#item01_02 {}
+			#wrapper #main #content #item01_02 h4{margin:0 0 20px;}
+			#wrapper #main #content #item01_02 .img,
+			#wrapper #main #content #item01_02 .txt{margin:0 0 0.8em;}
+	
+		#item01_03 {}
+			#item01_03 h4{margin:0 0 20px;}
+			#item01_03 .fl_left290,
+			#item01_03 .fl_right340{margin:0 0 28px;}
+			#wrapper #main #content #item01_03 .img{margin:0 0 5px;}
+			#wrapper #main #content #item01_03 .txt{margin:0 0 1em;}
+			
+			#wrapper #main #content #item01_02 .note,
+			#wrapper #main #content #item01_03 .note{margin:0.5em 0 0; font-size:89%; line-height:135%;}
+	
+	#cleanitem02 .item_header,
+	#cleanitem03 .item_header{margin:0 -20px 13px;}
+	#wrapper #main #content #cleanitem02 h3,
+	#wrapper #main #content #cleanitem03 h3{margin:0 0 15px;}
+	#wrapper #main #content #cleanitem02 h4,
+	#wrapper #main #content #cleanitem03 h4{margin:0 0 15px; font-weight:bold; color:#581740; font-size:110%;}
+	
+	#wrapper #main #content #cleanitem02 .txt{margin:0 0 0.5em;}
+	#wrapper #main #content #cleanitem02 .img_left{float:left; margin:0 8px 0 0;}
+
+	#wrapper #main #content #cleanitem03 .txt{margin:0 0 1em; width:340px;}
+	#cleanitem03 .tonic{font-weight:bold; float:left;}
+	#wrapper #main #content #cleanitem03 .img{float:right; width:295px;}
+	#wrapper #main #content #cleanitem03 .note{width:340px; padding-left:1em;}
+
+
+/* 収納
+------------------------------*/
+#wrapper #main #content #strg_pagettl{margin:0 0 34px;}
+#strg_lead{display:none;}
+
+#strg_innr_link{position:relative; margin:0 0 30px;}
+	#strg_innr_link h3,
+	#strg_innr_link .txt{display:none;}
+	#strg_innr_link a{display:block; width:152px; height:19px; position:absolute; text-indent:-9999px;}
+	#btn_eye{top:119px; left:400px; background:url(../../../kitchen/rakuera/images/storage/btn_eye.gif) no-repeat;}
+	#btn_hand{top:276px; left:454px; background:url(../../../kitchen/rakuera/images/storage/btn_hand.gif) no-repeat;}
+	#btn_foot{top:453px; left:420px; background:url(../../../kitchen/rakuera/images/storage/btn_foot.gif) no-repeat;}
+	#btn_eye:hover,
+	#btn_hand:hover,
+	#btn_foot:hover{background-position:0 100%;}
+
+/* 収納コンセプト　*/
+#strg_concept{margin:0 0 50px; padding:0 20px;}
+	#wrapper #main #content #strg_concept .tab_header{margin:0 -20px 13px; border-bottom:solid 1px #9e9e9e;}
+	#wrapper #main #content #strg_concept h3{margin:0 -20px 20px;}
+	#wrapper #main #content #strg_concept .img{margin:0;}
+	
+	#strg_table{margin:3px 0 0; width:100%;}
+	#strg_table th{border-right:solid 1px #808080;}
+	#strg_table th.cabinet{width:212px; padding:0 5px; text-align:center;}
+	#wrapper #main #content #strg_table th.cabinet .cabi_ttl{border-top:solid 5px #581740; border-bottom:solid 3px #9e7890; padding:5px 0; line-height:1;}
+	#strg_table th.area{width:22px; padding:0;}
+	#strg_table td{border-right:solid 1px #808080; width:212px; padding:0 10px 15px; text-align:center;}
+	#strg_table td.line01{background:url(../../../kitchen/rakuera/images/storage/tabe_border02.gif) 50% 100% no-repeat;}
+	#strg_table td.line02{background:url(../../../kitchen/rakuera/images/storage/tabe_border01.gif) 50% 100% no-repeat;}
+		#wrapper #main #content #strg_table td h4{margin:10px 0; padding:0 0 0 7px; background:url(../../../kitchen/rakuera/images/storage/concept_h4_ico.gif) 0 2px no-repeat; text-align:left; line-height:120%; font-size:95%;}
+		#wrapper #main #content #strg_table td .txt{margin:10px 0 0; text-align:left; font-size:90%; line-height:135%;}
+		#wrapper #main #content td.concept03 .img01{width:130px; height:89px; float:left; margin:0 0 7px; text-align:left;}
+		#wrapper #main #content td.concept03 .img02{width:60px; float:right; margin:0 0 7px; text-align:right;}
+		#wrapper #main #content td.concept03 .txt{margin:0;}
+		#wrapper #main #content td.concept03 .note{font-size:80%; line-height:120%; padding-left:1em; text-indent:-1em; margin:10px 0 0; text-align:left;}
+
+
+/* アイエリア */
+#wrapper #main #content #eye_area{margin:0 0 20px; border-bottom:solid 1px #9e9e9e; text-align:left;}
+
+.eye_area{padding:0 20px;}
+	#wrapper #main #content .eye_area h3{margin:0 -20px 10px;}
+	#wrapper #main #content .eye_area h4{font-weight:bold; border-left:6px solid #581740; padding:0 0 0 5px; margin:0 0 10px;}
+
+	.eye_dtl{background:url(../../../kitchen/rakuera/images/storage/header_option.gif) no-repeat; padding:36px 0 0;}
+		.eye_dtl .fl_left{width:366px; float:left;}
+		.eye_dtl .fl_right{width:264px; float:right;}
+			#wrapper #main #content .eye_dtl .txt01{margin:0 0 12px;}
+
+		#eye_area01{margin:0 0 50px;}
+		#wrapper #main #content #eye_area01 .lead_tonic{font-size:110%; font-weight:bold; color:#581740; margin:0 0 0.5em;}
+		#wrapper #main #content #eye_area01 .lead_txt{margin:0 0 0.5em;}
+		#wrapper #main #content #eye_area01 .lead_note{margin:0 0 25px; font-size:90%; line-height:135%;}
+		#wrapper #main #content #eye_area01 .spec{margin:-6px 0 12px;}
+		#wrapper #main #content #eye_area01 .img01{margin:0 0 10px;}
+		#eye_area01 table{width:100%; border-top:solid 1px #777; border-left:solid 1px #777;}
+		#eye_area01 th,
+		#eye_area01 td{width:25%; padding:3px 5px; line-height:110%; text-align:center; border-bottom:solid 1px #777; border-right:solid 1px #777;}
+		#eye_area01 th.size{font-weight:bold; background:#ccc;}
+		#eye_area01 th.item{text-align:left;}
+		#wrapper #main #content #eye_area01 .img02{margin:0 0 10px;}
+		#eye_area01 ul{margin:0 0 0 1.5em;}
+		#eye_area01 li{list-style:disc outside;}
+
+		#eye_area02 {margin:0;}
+		#wrapper #main #content #eye_area02 .txt01{margin-right:70px; position:relative; z-index:10;}
+		#wrapper #main #content #eye_area02 .img02{margin:-36px 0 0; position:relative; z-index:1;}
+
+		#eye_area03 {margin:-45px 0 0;}
+		#wrapper #main #content #eye_area03 .img02{margin:0 0 10px;}
+
+
+/* ビルトイン機器
+------------------------------*/
+#wrapper #main #content #build_pagettl{margin:0 0 45px;}
+
+.build{margin:0 0 65px; text-align:left;}
+	.build .block{margin:0 20px;}
+	.build .block h4{margin:0 0 13px; width:258px;}
+	
+	.fl_left{float:left;}
+	.fl_right{float:right;}
+	.al_right{text-align:right;}
+	
+	
+	/* 水栓金具、食器洗い乾燥機 */
+	.w190{width:190px;}
+	.w185{width:258px;}
+	.w340{width:367px;}
+	#wrapper #main #content .build01 .img01{margin:0 0 13px;}
+	#wrapper #main #content .build01 .img02{position:relative; height:163px; margin:0;}
+	.build01 .img02 .cap{position:absolute; display:block; width:155px; top:60px; bottom:0; right:0; font-size:90%; line-height:140%;}
+
+	/* 水栓金具 */
+	#wrapper #main #content #build_tap .lead{margin:-42px 15px 27px 0; text-align:right;}
+	#build_tap .fl_rgiht01{margin:-57px 0 0;}
+
+	/* 食器洗い乾燥機 */
+	#build_washer h3{margin:0 0 10px;}
+	#wrapper #main #content #build_washer .lead{margin:-42px 15px 27px 0; text-align:right;}
+	#build_washer .fl_rgiht01{margin:-93px 0 0;}
+	#build_washer .img02 .ico_new{margin-bottom:3px;}
+	
+
+	/* ガスコンロ、IH、レンジフード　*/
+	.build02 h3{margin:0 0 17px;}
+	.build02 .build_dtl{margin:0 0 20px; clear:both;}
+	#wrapper #main #content .build_dtl h5{font-size:105%; line-height:110%; margin-bottom:5px;}
+	#wrapper #main #content .build_dtl p.w260{margin-bottom:5px;}
+
+	.w260{width:294px;}/* 郢ｧ?ｬ郢ｧ?ｹ郢ｧ?ｳ郢晢ｽｳ郢晢ｽｭ邵ｲ?？邵ｲﾂ?陝ｾ?ｦ */
+	.w265{width:332px;}/* 郢ｧ?ｬ郢ｧ?ｹ郢ｧ?ｳ郢晢ｽｳ郢晢ｽｭ邵ｲ?？邵ｲﾂ?陷ｿ?ｳ */
+	
+	.w357{width:357px;}/* 驕ｽﾂ?雎鯉ｽｴ邵ｲ竏ｵ蜃ｾ驕擾ｽｭ 陝ｾ?ｦ */
+	.w172{width:287px;}/* 驕ｽﾂ?雎鯉ｽｴ邵ｲ竏ｵ蜃ｾ驕擾ｽｭ 陷ｿ?ｳ */
+	
+	/* ガスコンロ */
+	#wrapper #main #content #build_gas .fl_rgiht01{margin:-54px 0 27px;}
+	#build_gas .al_right{padding:10px 0 0;}
+	#build_gas h5.ttl01{font-size:105%; line-height:110%; margin-bottom:5px;}
+	#wrapper #main #content #build_gas img.mTB10{margin:10px 0;}
+
+	/* IH */
+	#wrapper #main #content #build_ih .fl_rgiht01{margin:-54px 0 27px;}
+	#wrapper #main #content #build_ih .txt,
+	#wrapper #main #content #build_ih .img{margin-bottom:10px;}
+	#wrapper #main #content #build_ih .note{padding-left:1em; text-indent:-1em; font-size:89%; line-height:135%;}
+	#wrapper #main #content #build_ih .al_right{margin-top:15px;}
+
+	/* レンジフード */
+	#build_hood .fl_rgiht01{margin:-56px 0 27px;}
+	#hood_dtl01{padding-bottom:45px; margin-bottom:55px; background:url(../../../kitchen/rakuera/images/build/hood_border_bottm.gif) 50% 100% no-repeat;}
+	#build_hood .img_leaf{font-size:90%; line-height:135%; margin-bottom:20px;}
+	#build_hood .img_leaf img{margin:0 0 5px;}
+	#build_hood .note{font-size:89%; line-height:135%; padding-left:1em; text-indent:-1em; margin-bottom:1em;}
+	#hood_dtl02 .txt{margin-bottom:10px;}
+
+
+/* プラン価格
+------------------------------*/
+#wrapper #main #content h2#price_pagettl{margin:0;}
+
+#price_slide_str{text-align:left; margin:0; padding:0 0 10px; overflow:hidden;}
+	#wrapper #main #content #price_slide_str h3{margin:38px 0; text-align:center;}
+	#wrapper #main #content #price_slide_str p{margin:0;}
+	
+	.price_type{overflow:hidden; margin:0 0 40px;}
+     	#price_slide_str #price_type02 {padding-top:50px;}
+		#price_slide_str .floatF{float:left; padding:0 12px 0 12px;}
+		#price_slide_str .floatF img.ttl,
+		#price_slide_str .floatF img.img{margin:0 0 18px 0;}
+	
+	#price_slide_str .right{margin:0 0 0 8px;}
+	#price_slide_str .clear{clear:both; margin-bottom:50px;}
+
+/* 基本仕様 */
+#price_spec{text-align:left; margin:0 20px;}
+#price_spec h4{margin:20px 0;}
+#price_spec .img01{text-align:center;}
+
+#price_spec .parts{overflow:hidden;}
+	#price_spec .parts .floatF{float:left;}
+		#wrapper #main #content #price_spec .parts .floatF h5{text-align:center; margin:0 0 10px;}
+		#wrapper #main #content #price_spec .parts .floatF .img{text-align:center; margin:0 0 10px;}
+		#wrapper #main #content #price_spec .parts .floatF .txt{margin:0 15px;}
+		#price_spec .parts .floatF .bold{font-weight:bolder;}
+		#price_spec .parts .floatF .small{display:block; padding-top:10px; font-size:89%; line-height:135%;}
+	#price_spec .parts .line{float:left;}
+	#price_spec .parts .clear{clear:both;}
+
+	#price_spec div.parts01{margin:40px 0 0 0; background:url(../../../kitchen/rakuera/images/price/bg_spec01_line.gif) 50% 0 repeat-y; overflow:hidden; zoom:1;}
+		#price_spec .parts01 .floatF{width:218px; float:left;}
+		#price_spec .parts01 img.cab01{margin:7px 0;}
+		#price_spec .parts01 img.cab02{margin:18px 0 5px 0;}
+		#price_spec .parts01 img.cab02_01{margin-left:5px;}
+		#price_spec .parts01 img.cab03{margin:12px 0 0 0;}
+	
+	#price_spec .parts02{margin:60px 0 35px 0; text-align:center;}
+		#price_spec .parts02 .floatF{width:219px;}
+		.mar_bottom{margin-bottom:5px;}
+

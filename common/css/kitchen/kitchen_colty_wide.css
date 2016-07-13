@@ -1,0 +1,1072 @@
+@charset "Shift_JIS";
+
+
+
+/** common
+/**************************************/
+div#side h2 {
+	margin:          0 0 40px !important;
+}
+
+div#side div.label {
+	margin:          0 0 15px;
+}
+
+div#main p {
+	line-height:     180%;
+	margin-bottom:   0 !important;
+}
+
+div#main hr {
+	margin:          30px 0;
+	border-top:      2px solid #e0e0e0;
+	height:          0;
+	padding:         0;
+}
+
+div#main h4 {
+	margin-bottom:   0 !important;
+}
+
+div#main p.pagetop {
+	padding-bottom:  30px;
+}
+
+.mr0   { margin-right: 0    !important; }
+.mr20  { margin-right: 20px !important; }
+
+.mt5   { margin-top:   5px  !important; }
+.mt10  { margin-top:   10px !important; }
+.mt15  { margin-top:   15px !important; }
+.mt20  { margin-top:   20px !important; }
+.mt25  { margin-top:   25px !important; }
+.mt30  { margin-top:   30px !important; }
+.mt40  { margin-top:   40px !important; }
+.mt45  { margin-top:   45px !important; }
+.mt50  { margin-top:   50px !important; }
+.mt60  { margin-top:   60px !important; }
+.mt65  { margin-top:   65px !important; }
+.mt75  { margin-top:   75px !important; }
+.mt80  { margin-top:   80px !important; }
+.mt85  { margin-top:   85px !important; }
+.mt110 { margin-top:  110px !important; }
+
+.mb15  { margin-bottom:15px !important; }
+.mb70  { margin-bottom:70px !important; }
+
+.fl { float : left; }
+.fr { float : right; }
+.cl:after{
+	content:         ".";
+	display:         block;
+	height:          0;
+	clear:           both;
+	visibility:      hidden;
+}
+
+.tx_blue {
+	color:           #2f7898;
+}
+.note {
+	font-size:       80%;
+	line-height:     140% !important;
+}
+
+a img.ov:hover {
+	opacity:         0.6;
+	filter:          alpha(opacity=60);
+	-ms-filter:      "alpha( opacity=60 )";
+	background:      #ffffff;
+}
+
+div#bottom_navi {
+	margin:          0 auto;
+	width:           960px;
+}
+
+ul.bottom_navi_links {
+	padding:         0 0 0 260px;
+	margin:          0;
+}
+
+
+
+/** accordion
+/**************************************/
+a.switch {
+	margin:          60px 0 0;
+	display:         block;
+}
+
+div.accordion {
+	padding:         60px 0;
+	display:         none;
+}
+
+div.accordion div.btn_hide {
+	border-top:      1px solid #cdcdcd;
+	margin:          25px 0 30px;
+	padding:         5px 0 0;
+	text-align:      right;
+}
+
+div.accordion div.btn_close {
+	margin:          60px 0 0;
+}
+
+
+
+/** intro
+/**************************************/
+div#main div.intro {
+	overflow:        hidden;
+	margin:          35px 0 0;
+}
+
+div#main div.intro p {
+	width:           320px;
+	float:           left;
+}
+
+div#main div.intro div.pic {
+	float:           right;
+}
+div#main div.intro p span {
+	font-size:       80%;
+}
+
+
+
+/** table item_list
+/**************************************/
+table.item_list {
+	border-collapse: collapse;
+	border-spacing:  0;
+	line-height:     2em;
+	font-size:       1.2em;
+	width:           100%;
+	margin:          10px 0 0;
+	border-top:      2px solid #e0e0e0;
+}
+
+table.item_list td {
+	border-left:     2px solid #e0e0e0;
+	width:           240px;
+	padding:         13px;
+	line-height:     150%;
+}
+
+table.item_list td p {
+	line-height:     140% !important;
+}
+
+table.item_list th {
+	vertical-align:  middle;
+	line-height:     140%;
+	padding:         10px 0;
+	text-align:      left;
+}
+
+table.item_list th,
+table.item_list td {
+	border-bottom:   2px solid #e0e0e0;
+	font-size:       75%;
+}
+
+/* parts */
+table.item_list th.br {
+	border-right:    2px solid #e0e0e0;
+	width:           45px;
+}
+
+table.item_list td.item01,
+table.item_list td.item02 {
+	position:        relative;
+}
+
+table.item_list td.item01,
+table.item_list td.item02 {
+	padding:         170px 0 10px 20px;
+}
+
+table.item_list td.item01 img {
+	position:        absolute;
+	top:             -10px;
+	left:            15px;
+}
+
+table.item_list td.item02 img {
+	position:        absolute;
+	top:             18px;
+	left:            15px;
+}
+
+table.item_list td strong.price {
+	font-size:       140%;
+}
+
+table.item_list td.bold {
+	font-weight:     bold;
+	text-align:      center;
+	vertical-align:  middle;
+}
+
+table.item_list td div.type {
+	margin:          10px 0;
+}
+
+table.item_list td.eco div {
+	margin:          5px 0;
+	padding:         3px 0 3px 30px;
+	background:      url( "/kitchen/colty/images/gas/icon_eco.gif" ) left center no-repeat;
+}
+
+table.item_list td.eco span {
+	font-size:       140%;
+}
+
+table.item_list th div.orange {
+	background:      url( "/kitchen/colty/images/ih/fire_icon_orange.gif" ) 10px 0 no-repeat;
+	padding:         20px 0 0 10px;
+	margin:          0 0 3px;
+}
+
+table.item_list th div.blue {
+	background:      url( "/kitchen/colty/images/ih/fire_icon_blue.gif" ) 10px 0 no-repeat;
+	padding:         20px 0 0 10px;
+	margin:          0 0 3px;
+}
+
+table.item_list th div.green {
+	background:      url( "/kitchen/colty/images/ih/fire_icon_green.gif" ) 10px 0 no-repeat;
+	padding:         20px 0 0 10px;
+}
+
+table.line1 {
+	width:           432px;
+}
+
+table.line_wide td {
+	width:           428px;
+}
+
+table.line_wide {
+	width:           620px;
+}
+
+
+
+/** top
+/**************************************/
+#top div#info {
+	margin:          67px 0 0;
+}
+
+#top div#info h2 {
+	margin:          0 0 30px !important;
+}
+
+#top div#info ul {
+	overflow:        hidden;
+}
+
+#top div#info ul li {
+	float:           left;
+	width:           210px;
+	margin:          0 35px 40px 0;
+	line-height:     1.8;
+}
+
+#top div#info ul li > div {
+	margin:          0 0 10px;
+}
+
+#top div#info ul li a {
+	background:      url( "/kitchen/colty/images/arrow_blue.gif" ) left center no-repeat;
+	padding:         0 0 0 15px;
+	color:           #333333;
+	display:         block;
+	text-decoration: underline;
+}
+
+#top div#info ul li a:hover {
+	text-decoration: none;
+}
+
+
+
+/** plan
+/**************************************/
+#plan div#mainvisual > div {
+	position:        relative;
+	display:         none;
+	width:           700px;
+	height:          460px;
+}
+
+#plan div#mainvisual div.pic {
+	position:        absolute;
+	top:             0;
+	left:            0;
+	z-index:         1;
+}
+
+#plan div#mainvisual div.detail {
+	position:        absolute;
+	top:             0;
+	right:           0;
+	z-index:         2;
+	display:         none;
+}
+
+#plan div#mainvisual div.btn {
+	position:        absolute;
+	left:            20px;
+	bottom:          14px;
+	z-index:         3;
+}
+
+#plan ul#thumb {
+	overflow:        hidden;
+	margin:          20px 0 0;
+}
+
+#plan ul#thumb li {
+	float:           left;
+	margin:          0 15px 0 0;
+}
+
+#plan div.info {
+	overflow:        hidden;
+	margin:          10px 0 0;
+}
+
+#plan div.info div.note_left {
+	float:           left;
+	font-size:       80%;
+}
+
+#plan div.info div.note_right {
+	float:           right;
+	font-size:       80%;
+}
+
+
+
+/** layout
+/**************************************/
+#layout div#section01 div.accordion div.box {
+	overflow:        hidden;
+}
+
+#layout div#section01 div.accordion div.box_left {
+	float:           left;
+	width:           329px;
+}
+
+#layout div#section01 div.accordion div.box_right {
+	float:           right;
+	width:           350px;
+}
+
+#layout div#section01 div.accordion h4 {
+	padding:         0 0 15px;
+}
+
+#layout div#section01 div.accordion h5 {
+	font-size:       120%;
+}
+
+#layout div#section01 div.accordion ul {
+	margin:          10px 0 0;
+	overflow:        hidden;
+}
+
+#layout div#section01 div.accordion ul li {
+	float:           left;
+}
+
+#layout div#section01 div.accordion ul li span {
+	font-size:       80%;
+}
+
+#layout div#section01 div.accordion ul li strong {
+	font-size:       90%;
+}
+
+#layout div#section02 div.box {
+	overflow:        hidden;
+	margin:          0 0 40px;
+}
+
+#layout div#section02 div.box div.pic {
+	float:           left;
+}
+
+#layout div#section02 div.box p {
+	float:           right;
+	width:           350px;
+}
+
+
+
+/** stainless
+/**************************************/
+#stainless div.box {
+	overflow:        hidden;
+}
+
+#stainless div.box div.box_left {
+	float:           left;
+}
+
+#stainless div.box div.box_right {
+	float:           right;
+	font-size:       80%;
+}
+
+
+
+/** marble
+/**************************************/
+#marble div#section01 div.box,
+#marble div#section02 div.box {
+	overflow:        hidden;
+}
+
+#marble div#section01 div.box div.box_left,
+#marble div#section02 div.box div.box_left {
+	float:           left;
+}
+
+#marble div#section01 div.box div.box_right {
+	float:           right;
+	font-size:       80%;
+}
+
+#marble div#section02 div.box div.box_right {
+	width:           360px;
+}
+
+#marble div#section02 div.box div.box_right {
+	float:           left;
+	margin:          0 0 0 30px;
+	width:           165px;
+}
+
+#marble div#section02 div.box h5 {
+	font-size:       120%;
+	margin:          20px 0 0;
+}
+
+
+
+/** cabinet
+/**************************************/
+#cabinet div.accordion div.box {
+	overflow:        hidden;
+}
+
+#cabinet div.accordion div.box div.box_left {
+	width:           463px;
+	float:           left;
+}
+
+#cabinet div.accordion div.box div.box_right {
+	width:           210px;
+	float:           right;
+}
+
+#cabinet div.accordion div.box div.box_right h4 {
+	margin:          20px 0 0;
+	padding:         0 0 5px;
+}
+
+#cabinet div.accordion ul {
+	overflow:        hidden;
+}
+
+#cabinet div.accordion ul li {
+	float:           left;
+	width:           210px;
+	margin:          0 35px 0 0;
+}
+
+#cabinet div.accordion ul li h5 {
+	font-size:       110%;
+	margin:          15px 0 0;
+}
+
+#cabinet div.accordion ul li p {
+	min-height:      110px;
+}
+
+
+
+/** cupboard
+/**************************************/
+#cupboard div#section01 div.accordion div.box {
+	overflow:        hidden;
+}
+
+#cupboard div#section01 div.accordion div.box div.box_left {
+	float:           left;
+	width:           329px;
+}
+
+#cupboard div#section01 div.accordion div.box div.box_right {
+	float:           right;
+	width:           345px;
+}
+
+#cupboard div#section01 div.accordion ul {
+	overflow:        hidden;
+}
+
+#cupboard div#section01 div.accordion ul li.pic {
+	float:           left;
+	width:           190px;
+}
+
+#cupboard div#section01 div.accordion ul li.tx {
+	float:           left;
+	width:           150px;
+	min-height:      120px;
+	margin:          0 20px 20px 0;
+}
+
+#cupboard div#section02 div.accordion div.box {
+	overflow:        hidden;
+}
+
+#cupboard div#section02 div.accordion div.box div.box_left {
+	width:           329px;
+	float:           left;
+}
+
+#cupboard div#section02 div.accordion div.box div.box_right {
+	width:           345px;
+	float:           right;
+}
+
+#cupboard div#section02 div.accordion div.box div.box_right h4 {
+	margin:          0 0 5px;
+}
+
+#cupboard div#section02 div.accordion div.box div.box_right table td,
+#cupboard div#section02 div.accordion div.box div.box_right table th {
+	padding:         4px 20px 0 0;
+}
+
+#cupboard div#section02 div.accordion div.box div.box_right table th {
+	text-align:      right;
+}
+
+
+
+/** compact
+/**************************************/
+#compact div.box {
+	overflow:        hidden;
+}
+
+#compact div.box div.pic {
+	float:           left;
+}
+
+#compact div.box p {
+	float:           right;
+	width:           340px;
+}
+
+
+
+/** sink
+/**************************************/
+#sink div.accordion ul.spec {
+	overflow:        hidden;
+}
+
+#sink div.accordion ul.spec li {
+	float:           left;
+	margin:          0 34px 40px 0;
+	width:           333px;
+}
+
+#sink div.accordion ul.spec li h4 {
+	margin:          20px 0 5px;
+	font-size:       120%;
+}
+
+#sink div#option ul {
+	overflow:        hidden;
+	margin:          20px 0 0;
+}
+
+#sink div#option ul li {
+	float:           left;
+}
+
+#sink div#option ul li.box01 { width : 140px;  }
+#sink div#option ul li.box02 { width : 133px; margin : 0 0 0 10px;  }
+#sink div#option ul li.box03 { width : 150px; margin : 0 10px 0 24px;  }
+
+#sink div.feature {
+	background:      #f3f3f3;
+}
+
+#sink div.feature > div {
+	width:           650px;
+	margin:          0 auto;
+	padding:         20px 0;
+}
+
+#sink div.feature div.lead {
+	font-weight:     bold;
+}
+
+#sink div.feature div.pic {
+	margin:          30px 0 20px;
+	position:        relative;
+	height:          300px;
+}
+
+#sink div.feature div.pic p.tx01 {
+	position:        absolute;
+	left:            30px;
+	bottom:          0;
+	width:           270px;
+	font-size:       80%;
+}
+
+#sink div.feature div.pic p.tx02 {
+	position:        absolute;
+	right:           30px;
+	bottom:          0;
+	width:           270px;
+	font-size:       80%;
+}
+
+
+
+/** faucet
+/**************************************/
+#faucet div.accordion div.info {
+	overflow:        hidden;
+}
+
+#faucet div.accordion div.info div.box_left {
+	float:           left;
+	width:           367px;
+}
+
+#faucet div.accordion div.info div.box_right {
+	float:           left;
+}
+
+#faucet div.accordion div.info div.box_right p {
+	line-height:     140%;
+}
+
+#faucet div.accordion div.info div.box_right p span {
+	font-size:       80%;
+}
+
+#faucet div.accordion div.notice {
+	background:      url( "/kitchen/colty/images/faucet/spec_icon_eco.gif" ) no-repeat left center;
+	padding:         5px 0 0 50px;
+	height:          40px;
+}
+
+#faucet div.accordion div.eco {
+	background:      #f3f3f3;
+	padding:         0 0 10px;
+}
+
+#faucet div.accordion div.eco > div {
+	width:           650px;
+	margin:          0 auto;
+}
+
+#faucet div.accordion div.electric {
+	overflow:        hidden;
+}
+
+#faucet div.accordion div.electric div.box_left {
+	float:           left;
+	width:           209px;
+}
+
+#faucet div.accordion div.electric div.box_right {
+	float:           right;
+	width:           470px;
+}
+
+#faucet div.accordion div.electric div.box_right h5 {
+	font-size:       120%;
+}
+
+#faucet div.accordion div.electric div.box_right strong {
+	font-size:       110%;
+	line-height:     90%;
+}
+
+#faucet div.accordion div.electric div.box_right span {
+	font-size:       80%;
+	line-height:     150%;
+}
+
+#faucet div.about h5 {
+	font-size:       110%;
+	background:      #e1e1e1;
+	padding:         5px 0 5px 10px;
+}
+
+#faucet div.about div.box {
+	overflow:        hidden;
+}
+
+#faucet div.about div.box_left {
+	float:           left;
+	border:          2px solid #999999;
+	text-align:      center;
+	width:           80px;
+	font-weight:     bold;
+	padding:         5px 0;
+	margin:          3px 0 0;
+}
+
+#faucet div.about div.box_center {
+	float:           left;
+	width:           250px;
+	font-size:       80%;
+	margin:          0 0 0 15px;
+}
+
+#faucet div.about div.box_right {
+	float:           right;
+	font-size:       80%;
+	padding:         10px 0 0;
+}
+
+
+
+/** gas
+/**************************************/
+#gas div#si {
+	overflow:        hidden;
+	margin:          0 0 25px;
+	padding:         0 0 25px;
+	border-bottom:   1px solid #c9c9c9;
+}
+
+#gas div#si div.box_left {
+	width:           228px;
+	float:           left;
+	font-size:       80%;
+}
+
+#gas div#si ul {
+	width:           420px;
+	float:           right;
+	font-size:       80%;
+}
+
+#gas div#si ul li {
+	margin:          0 0 7px;
+}
+
+#gas div#option ul {
+	overflow:        hidden;
+}
+
+#gas div#option ul li {
+	float:           left;
+}
+
+#gas div#option ul li div {
+	text-align:      right;
+	font-size:       80%;
+}
+
+#gas div#option ul li p {
+	height:          83px;
+}
+
+#gas div#option ul li.tx01  { width : 130px; }
+#gas div#option ul li.tx02  { width : 140px; }
+#gas div#option ul li.pic01 { width : 232px; margin : 0 20px 0 10px; }
+#gas div#option ul li.pic02 { width : 154px; margin : 0 0 0 10px; }
+
+#gas div.accordion div.btn_hide {
+	border-top:      none;
+	margin:          5px 0 30px;
+}
+
+
+
+/** ih
+/**************************************/
+#ih div#notice div.head {
+	background:      url( "/kitchen/colty/images/ih/attention_icon.gif" ) left 5px no-repeat;
+	padding:         0 0 0 45px;
+	font-size:       80%;
+}
+
+#ih div#notice div.head strong {
+	font-size:       120%;
+}
+
+#ih div#notice h5 {
+	margin:          20px 0 5px;
+	font-size:       80%;
+}
+
+#ih div#notice p {
+	font-size:       80%;
+	line-height:     140%;
+}
+
+#ih div#notice div.box {
+	overflow:        hidden;
+}
+
+#ih div#notice div.box div.box_left {
+	float:           left;
+}
+
+#ih div#notice div.box div.box_right {
+	float:           left;
+	margin:          0 0 0 20px;
+}
+
+#ih div#notice div.howto {
+	background:      #f3f3f3;
+	padding:         10px 15px;
+}
+
+#ih div#notice div.howto strong {
+	font-size:       80%;
+}
+
+#ih div#option h5 {
+	font-size:       110%;
+	margin:          0 0 10px;
+}
+
+#ih div#option div.box {
+	overflow:        hidden;
+}
+
+#ih div#option div.box div.box_left {
+	float:           left;
+	width:           285px;
+}
+
+#ih div#option div.box div.box_center {
+	float:           left;
+	width:           180px;
+	margin:          0 0 0 35px;
+	font-size:       80%;
+}
+
+#ih div#option div.box div.box_right {
+	float:           left;
+	width:           160px;
+	font-size:       80%;
+	margin:          0 0 0 35px;
+}
+
+#ih div.accordion div.btn_hide {
+	border-top:      none;
+	margin:          5px 0 30px;
+}
+
+
+
+/** rangehood
+/**************************************/
+#rangehood table.item_list td.item03 div.box {
+	overflow:        hidden;
+	margin:          5px 10px;
+}
+
+#rangehood table.item_list td.item03 div.box > div > div {
+	margin:          0 0 10px;
+}
+
+#rangehood table.item_list td.item03 div.box div.box_left {
+	width:           245px;
+	float:           left;
+}
+
+#rangehood table.item_list td.item03 div.box div.box_right {
+	width:           160px;
+	float:           left;
+}
+
+#rangehood table.item_list td.item03 p.notice {
+	background:      #f3f3f3;
+	padding:         5px 10px;
+	margin:          15px 10px 0;
+}
+
+#rangehood div#low p {
+	font-size:       80%;
+}
+
+#rangehood div.accordion div.btn_hide {
+	border-top:      none;
+	margin:          5px 0 30px;
+}
+
+
+
+/** door
+/**************************************/
+#door div.accordion div.box {
+	overflow:        hidden;
+}
+
+#door div.accordion div.box div.box_left {
+	width:           150px;
+	float:           left;
+}
+
+#door div.accordion div.box div.box_left h4 {
+	padding:         0 0 10px;
+}
+
+#door div.accordion div.box div.box_left div {
+	margin:          10px 0;
+}
+
+#door div.accordion div.box div.box_right {
+	width:           512px;
+	float:           right;
+}
+
+#door div.accordion div.box div.box_right ul {
+	overflow:        hidden;
+}
+
+#door div.accordion div.box div.box_right ul li {
+	float:           left;
+	margin:          0 38px 15px 0;
+}
+
+#door div.accordion div.box div.box_right ul li p.lead {
+	font-size:       80%;
+	margin:          5px 0 0;
+}
+
+#door div.accordion div.box div.box_right ul li p {
+	font-size:       80%;
+	margin:          3px 0 0;
+	line-height:     130%;
+}
+
+#door div.accordion hr.light {
+	border-top:      2px solid #f5f5f5 !important;
+	margin:          5px 0 30px;
+}
+
+#door div.accordion div#grip ul li {
+	margin:          0 28px 0 0;
+}
+
+
+
+/** panel
+/**************************************/
+#panel div.accordion ul {
+	overflow:        hidden;
+}
+
+#panel div.accordion ul li {
+	float:           left;
+	width:           152px;
+	margin:          0 28px 0 0;
+}
+
+#panel div.accordion div#material {
+	background:      #f3f3f3;
+}
+
+#panel div.accordion div#material {
+	overflow:        hidden;
+	padding:         15px 30px;
+	height:          100%;
+}
+
+#panel div.accordion div#material div.box_left {
+	float:           left;
+	display:         table;
+	height:          165px;
+	width:           200px;
+}
+
+#panel div.accordion div#material div.box_left h4 {
+	vertical-align:  middle;
+	display:         table-cell;
+}
+
+#panel div.accordion div#material div.box_right {
+	float:           left;
+	margin:          0 30px 0 0;
+	font-size:       80%;
+}
+
+#panel div.accordion div#material div.box_right h5 {
+	font-size:       110%;
+	margin:          0 0 10px;
+}
+
+
+
+/** ie6
+/**************************************/
+#ie6 div#main_1line {
+	width:           960px;
+	margin:          0 auto;
+}
+
+#ie6 div#main_1line strong.title {
+	display:         block;
+	margin:          40px 0 20px;
+	font-size:       140%;
+}
+
+#ie6 div#main_1line p {
+	line-height:     2;
+}
+
+div.howto {
+	margin:          10px auto 0;
+	background:      #efefef;
+	text-align:      center;
+	width:           530px;
+	padding:         20px;
+	font-size:       110%;
+}
+
+div.howto > * {
+	display:         inline-block;
+	*display:        inline;
+	zoom:            1;
+	text-align:      left;
+}
+
+
+#ie6 div#main_1line ul {
+	overflow:        hidden;
+	width:           810px;
+	margin:          60px auto 0;
+}
+
+#ie6 div#main_1line ul li {
+	float:           left;
+	margin:          0 10px;
+}
+
+
